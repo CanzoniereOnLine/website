@@ -1,0 +1,29 @@
+---
+date : "2011-12-31"
+title : "Pace alle genti"
+tags : 
+  - "Mariano"
+
+album : "Venite a me"
+tonalita : "La"
+categories : 
+  - "Liturgica"
+
+gruppo : 
+  - ""
+
+momenti : 
+  - "Pace"
+
+identificatore : "pace_alle_genti"
+data_revisione : "2011-12-31"
+---
+  
+  
+Spezzerai l'arco della guerra,   
+annunzierai pace alle genti  
+e regnerai da mare a mare  
+no ai conni di questa terra.  
+  
+  
+  

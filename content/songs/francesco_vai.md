@@ -1,0 +1,51 @@
+---
+date : "2014-09-20"
+title : "Francesco vai"
+tags : 
+  - "Bizzeti"
+
+album : "Vorrei amare"
+tonalita : "Mi-"
+categories : 
+  - "Liturgica"
+
+gruppo : 
+  - ""
+
+momenti : 
+  - ""
+
+identificatore : "francesco_vai"
+data_revisione : "2014-09-20"
+---
+  
+  
+Quello che io vivo non mi basta più,  
+tutto quel che avevo non mi serve più:  
+io cercherò quello che davvero vale,  
+e non più il servo, ma il padrone seguirò!  
+  
+  
+Francesco, vai, ripara la mia casa!  
+Francesco, vai, non vedi che è in rovina?  
+E non temere: io sarò con te dovunque andrai.  
+Francesco, vai!  
+  
+  
+Nel buio e nel silenzio ti ho cercato, Dio;  
+dal fondo della notte ho alzato il grido mio  
+e griderò nché non avrò risposta  
+per conoscere la tua volontà.  
+  
+  
+Altissimo Signore, cosa vuoi da me?  
+Tutto quel che avevo l'ho donato a te.  
+Ti seguirò nella gioia e nel dolore  
+e della vita mia una lode a te farò.  
+  
+  
+Quello che cercavo l'ho trovato qui:  
+ora ho riscoperto nel mio dirti sì  
+la libertà di essere glio tuo,  
+fratello e sposo di Madonna povertà.  
+  

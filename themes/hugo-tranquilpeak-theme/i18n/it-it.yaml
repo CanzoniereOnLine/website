@@ -1,0 +1,181 @@
+## GLOBAL ##
+- id: "global.home"
+  translation: "Home"
+
+- id: "global.categories"
+  translation: "Categorie"
+
+- id: "global.category"
+  translation: "Categoria"
+
+- id: "global.tags"
+  translation: "Etichette"
+
+- id: "global.tag"
+  translation: "Etichetta"
+
+- id: "global.archives"
+  translation: "Atchivi"
+
+- id: "global.search"
+  translation: "Cerca"
+
+- id: "global.about"
+  translation: "About"
+
+- id: "global.author_picture"
+  translation: "Author's picture"
+
+- id: "global.github"
+  translation: "GitHub"
+
+- id: "global.stackoverflow"
+  translation: "Stack Overflow"
+
+- id: "global.twitter"
+  translation: "Twitter"
+
+- id: "global.facebook"
+  translation: "Facebook"
+
+- id: "global.google_plus"
+  translation: "Google Plus"
+
+- id: "global.linkedin"
+  translation: "LinkedIn"
+
+- id: "global.mail"
+  translation: "Mail"
+
+- id: "global.rss"
+  translation: "RSS"
+
+- id: "global.share_on_google_plus"
+  translation: "Condividi su Google Plus"
+
+- id: "global.share_on_facebook"
+  translation: "Condividi su Facebook"
+
+- id: "global.share_on_twitter"
+  translation: "Condividi su Twitter"
+
+- id: "global.search_category"
+  translation: "Cerca categoria"
+
+- id: "global.search_tag"
+  translation: "Cerca etichetta"
+
+- id: "global.search_date"
+  translation: "Cerca data (YYYY/MM/DD)"
+
+## GLOBAL.POST_FOUND ##
+- id: "global.posts_found.zero"
+  translation: "Nessun contenuto trovato"
+
+- id: "global.posts_found.one"
+  translation: "Trovato un post"
+
+- id: "global.posts_found.other"
+  translation: "Trovati {n} post"
+
+## GLOBAL.CATEGORIES_FOUND ##
+- id: "global.categories_found.zero"
+  translation: "Nessuna categoria trovata"
+
+- id: "global.categories_found.one"
+  translation: "Trovata 1 categoria"
+
+- id: "global.categories_found.other"
+  translation: "Trovate {n} categorie"
+
+## GLOBAL.TAGS_FOUND ##
+- id: "global.tags_found.zero"
+  translation: "no tag found"
+
+- id: "global.tags_found.one"
+  translation: "1 tag found"
+
+- id: "global.tags_found.other"
+  translation: "{n} tags found"
+
+## PAGINATION ##
+- id: "pagination.page"
+  translation: "Pagina {{ .Paginator.PageNumber }}"
+
+- id: "pagination.of"
+  translation: "di {{ .Paginator.TotalPages }}"
+
+- id: "pagination.newer_posts"
+  translation: "NUOVI CONTENUTI"
+
+- id: "pagination.older_posts"
+  translation: "CONTENUTI VECCHI"
+
+- id: "pagination.previous"
+  translation: "PRECEDENTE"
+
+- id: "pagination.next"
+  translation: "PROSSIMA"
+
+## POST ##
+- id: "post.no_title"
+  translation: "Nessun titolo"
+
+- id: "post.categorized_in"
+  translation: "in"
+
+- id: "post.tagged_in"
+  translation: "Etichette:"
+
+- id: "post.toc"
+  translation: "Tabella dei contenuti"
+
+- id: "post.read_more"
+  translation: "Continua a leggere"
+
+- id: "post.go_to_website"
+  translation: "Vai al sito web"
+
+- id: "post.comment_and_share"
+  translation: "Commenta e condividi"
+
+## FOOTER ##
+- id: "footer.all_rights_reserved"
+  translation: "Tutti i diritti riservati"
+
+## DATE ##
+- id: "date.month.january"
+  translation: "Gennaio"
+
+- id: "date.month.february"
+  translation: "Febbraio"
+
+- id: "date.month.march"
+  translation: "Marzo"
+
+- id: "date.month.april"
+  translation: "Aprile"
+
+- id: "date.month.may"
+  translation: "Maggio"
+
+- id: "date.month.june"
+  translation: "Giugno"
+
+- id: "date.month.july"
+  translation: "Luglio"
+
+- id: "date.month.august"
+  translation: "Agosto"
+
+- id: "date.month.september"
+  translation: "Settembre"
+
+- id: "date.month.october"
+  translation: "Ottobre"
+
+- id: "date.month.november"
+  translation: "Novembre"
+
+- id: "date.month.december"
+  translation: "Dicembre"
