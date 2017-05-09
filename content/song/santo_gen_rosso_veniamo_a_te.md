@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Noi veniamo a te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_gen_rosso_veniamo_a_te"
 data_revisione : "2011-12-31"
 ---

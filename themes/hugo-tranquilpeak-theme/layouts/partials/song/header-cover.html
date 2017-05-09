@@ -5,7 +5,7 @@
        style="background-image:url('{{ .Params.coverimage }}')"
        data-behavior="{{ $.Scratch.Get "sidebarBehavior" }}">
     {{ if or (eq .Params.covermeta "in") (not .Params.covermeta) }}
-      {{ partial "post/header.html" . }}
+      {{ partial "song/header.html" . }}
     {{ end }}
   </div>
 {{ end }}

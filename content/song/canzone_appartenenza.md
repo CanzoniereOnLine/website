@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Canzone dell'appartenenza"
-tags : 
+autori : 
   - "Giorgio Gaber"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canzone_appartenenza"
 data_revisione : "2012-04-03"
 ---

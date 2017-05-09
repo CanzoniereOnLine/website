@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo è il Signore"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La Tua dimora"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_e_il_signore_la_tua_dimora"
 data_revisione : "2011-12-31"
 ---

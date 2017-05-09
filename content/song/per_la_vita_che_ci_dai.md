@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Per la vita che ci dai"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "per_la_vita_che_ci_dai"
 data_revisione : "2011-12-31"
 ---

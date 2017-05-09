@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Magnificat"
-tags : 
+autori : 
   - "Gragnani, Casini, Ciardella"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Magnificat"
 
+video : 
 identificatore : "magnificat_dio_ha_fatto"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "L'unico maestro"
-tags : 
+autori : 
   - "Civico"
 
 album : "Route nazionale capi 1997"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_unico_maestro"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Kumbaya"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "kumbaya"
 data_revisione : "2011-12-31"
 ---

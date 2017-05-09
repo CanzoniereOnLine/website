@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come fuoco vivo"
-tags : 
+autori : 
   - "Gen Verde, Gen Rosso"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "come_fuoco_vivo"
 data_revisione : "2011-12-31"
 ---

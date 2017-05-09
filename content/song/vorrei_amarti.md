@@ -1,7 +1,7 @@
 ---
 date : "2014-10-3"
 title : "Vorrei amarti"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "vorrei_amarti"
 data_revisione : "2014-10-3"
 ---

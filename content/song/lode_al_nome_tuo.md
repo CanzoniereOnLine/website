@@ -1,7 +1,7 @@
 ---
 date : "2014-10-03"
 title : "Lode al nome tuo"
-tags : 
+autori : 
   - "Matt e Beth Redman"
 
 album : "Grazie"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Lode"
 
+video : 
 identificatore : "lode_al_nome_tuo"
 data_revisione : "2014-10-03"
 ---

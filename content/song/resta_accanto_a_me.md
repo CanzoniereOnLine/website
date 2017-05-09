@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Resta accanto a me"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "resta_accanto_a_me"
 data_revisione : "2011-12-31"
 ---

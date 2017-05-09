@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Dove sei stato mio bell'alpino"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "dove_sei_stato_mio_bell_alpino"
 data_revisione : "2012-10-30"
 ---

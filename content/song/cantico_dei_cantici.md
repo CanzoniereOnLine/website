@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantico dei cantici"
-tags : 
+autori : 
   - "Arguello"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "cantico_dei_cantici"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Perché tu sei con me"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il Tuo volto"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "perche_tu_sei_con_me"
 data_revisione : "2011-12-31"
 ---

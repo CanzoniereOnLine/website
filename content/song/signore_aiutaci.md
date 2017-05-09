@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "Signore aiutaci"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "signore_aiutaci"
 data_revisione : "2012-01-11"
 ---

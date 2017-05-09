@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Down to the river to pray"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Spiritual"
 
+video : 
 identificatore : "down_to_the_river_to_pray"
 data_revisione : "2011-12-31"
 ---

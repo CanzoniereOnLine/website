@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Scusa Signore"
-tags : 
+autori : 
   - "Biagioli, Aliscioni"
 
 album : "Celebriamo la nostra speranza"
@@ -16,6 +16,7 @@ momenti :
   - "Riconciliazione"
   - "Quaresima"
 
+video : 
 identificatore : "scusa_signore"
 data_revisione : "2014-10-01"
 ---

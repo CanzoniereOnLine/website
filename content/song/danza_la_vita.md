@@ -1,7 +1,7 @@
 ---
 date : "2012-11-05"
 title : "Danza la vita"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "danza_la_vita"
 data_revisione : "2012-11-05"
 ---

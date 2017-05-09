@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tui amoris ignem"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "tui_amoris_ignem"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canto a Te, Maria"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Sulla via della speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "canto_a_te_maria"
 data_revisione : "2011-12-31"
 ---

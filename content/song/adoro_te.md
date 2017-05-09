@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Adoro te"
-tags : 
+autori : 
   - "Branca"
 
 album : "Parola d'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Adorazione"
 
+video : 
 identificatore : "adoro_te"
 data_revisione : "2011-12-31"
 ---

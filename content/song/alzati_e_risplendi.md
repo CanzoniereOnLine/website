@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alzati e risplendi"
-tags : 
+autori : 
   - "Gocam"
 
 album : "Su ali d'aquila"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "alzati_e_risplendi"
 data_revisione : "2011-12-31"
 ---

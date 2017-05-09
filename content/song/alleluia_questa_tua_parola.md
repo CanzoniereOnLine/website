@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Questa Tua Parola"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Come in cielo così in terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_questa_tua_parola"
 data_revisione : "2011-12-31"
 ---

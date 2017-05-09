@@ -1,7 +1,7 @@
 ---
 date : "2014-08-25"
 title : "Io ci sarò"
-tags : 
+autori : 
   - "883"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "io_ci_saro"
 data_revisione : "2014-08-25"
 ---

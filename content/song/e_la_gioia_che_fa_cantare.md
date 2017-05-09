@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È la gioia che fa cantare"
-tags : 
+autori : 
   - "Conte, Ferrante"
 
 album : "Cantiamo con gioia"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "e_la_gioia_che_fa_cantare"
 data_revisione : "2011-12-31"
 ---

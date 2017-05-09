@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo"
-tags : 
+autori : 
   - "Bonfitto"
 
 album : "Sei grande nell'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_bonfitto"
 data_revisione : "2011-12-31"
 ---

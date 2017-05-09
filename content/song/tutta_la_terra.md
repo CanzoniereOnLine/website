@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Tutta la terra"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Sei venuto dal cielo"
@@ -16,6 +16,7 @@ momenti :
   - "Natale"
   - "Salmi"
 
+video : 
 identificatore : "tutta_la_terra"
 data_revisione : "2014-10-01"
 ---

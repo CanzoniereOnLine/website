@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Segni del Tuo amore"
-tags : 
+autori : 
   - "Gen Verde, Gen Rosso"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "segni_del_tuo_amore"
 data_revisione : "2014-10-01"
 ---

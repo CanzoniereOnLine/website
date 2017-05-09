@@ -1,7 +1,7 @@
 ---
 date : "2013-08-04"
 title : "La terra che abbiamo sotto i piedi"
-tags : 
+autori : 
   - "Andrea Brandalise"
 
 album : "Campo di Gruppo 2013 Gardolo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_terra_che_abbiamo_sotto_i_piedi"
 data_revisione : "2013-08-04"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il Dio della festa"
-tags : 
+autori : 
   - "Naso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_dio_della_festa"
 data_revisione : "2011-12-31"
 ---

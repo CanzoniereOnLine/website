@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Arderanno sempre i nostri cuori"
-tags : 
+autori : 
   - "Auricchio"
 
 album : "Alleluia è risorto"
@@ -17,6 +17,7 @@ momenti :
   - "Comunione"
   - "Congedo"
 
+video : 
 identificatore : "arderanno_sempre_i_nostri_cuori"
 data_revisione : "2011-12-31"
 ---

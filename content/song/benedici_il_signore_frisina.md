@@ -1,7 +1,7 @@
 ---
 date : "2012-01-17"
 title : "Benedici il Signore"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "benedici_il_signore_frisina"
 data_revisione : "2012-01-17"
 ---

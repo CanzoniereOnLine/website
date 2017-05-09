@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia è risorto"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Noi veniamo a te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_e_risorto"
 data_revisione : "2011-12-31"
 ---

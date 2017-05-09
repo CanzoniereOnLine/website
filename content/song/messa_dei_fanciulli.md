@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Messa dei fanciulli"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Consacrazione"
 
+video : 
 identificatore : "messa_dei_fanciulli"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-11-28"
 title : "Agnello di Dio"
-tags : 
+autori : 
   - "De Dominicis"
 
 album : "Ad una voce"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Agnello di Dio"
 
+video : 
 identificatore : "agnello_di_dio_dominicis"
 data_revisione : "2013-11-28"
 ---

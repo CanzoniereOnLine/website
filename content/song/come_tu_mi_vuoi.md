@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come tu mi vuoi"
-tags : 
+autori : 
   - "Branca"
 
 album : "Io scelgo te"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "come_tu_mi_vuoi"
 data_revisione : "2011-12-31"
 ---

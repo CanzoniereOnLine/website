@@ -1,7 +1,7 @@
 ---
 date : "2012-01-22"
 title : "Alleluia"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_e_bello_lodarti"
 data_revisione : "2012-01-22"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Come mai"
-tags : 
+autori : 
   - "883"
 
 album : "Nord sud ovest est"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "come_mai"
 data_revisione : "2014-01-02"
 ---

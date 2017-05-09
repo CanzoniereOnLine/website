@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "I like the flowers"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "i_like_the_flowers"
 data_revisione : "2012-11-28"
 ---

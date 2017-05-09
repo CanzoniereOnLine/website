@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Madre io vorrei"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "madre_io_vorrei"
 data_revisione : "2011-12-31"
 ---

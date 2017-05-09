@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il pane del cammino"
-tags : 
+autori : 
   - "Motta, Sequeri"
 
 album : "Come un desiderio"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Comunione"
 
+video : 
 identificatore : "il_pane_del_cammino"
 data_revisione : "2011-12-31"
 ---

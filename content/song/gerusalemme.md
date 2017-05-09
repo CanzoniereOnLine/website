@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gerusalemme"
-tags : 
+autori : 
   - "Ferretti"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Quaresima"
 
+video : 
 identificatore : "gerusalemme"
 data_revisione : "2011-12-31"
 ---

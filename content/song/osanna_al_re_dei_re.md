@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Osanna al Re dei Re"
-tags : 
+autori : 
   - "Pesare"
 
 album : "Gerico, le tue mura crolleranno"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "osanna_al_re_dei_re"
 data_revisione : "2011-12-31"
 ---

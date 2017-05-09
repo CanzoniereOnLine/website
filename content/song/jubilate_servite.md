@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Jubilate, servite"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "jubilate_servite"
 data_revisione : "2013-12-31"
 ---

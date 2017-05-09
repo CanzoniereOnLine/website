@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Genti tutte proclamate"
-tags : 
+autori : 
   - "Perosi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "genti_tutte_proclamate"
 data_revisione : "2011-12-31"
 ---

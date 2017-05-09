@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "La legge della giungla"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_legge_della_giungla"
 data_revisione : "2012-06-23"
 ---

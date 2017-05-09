@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace Shalom"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_shalom"
 data_revisione : "2011-12-31"
 ---

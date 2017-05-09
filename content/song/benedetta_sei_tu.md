@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Benedetta sei tu"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Unanima"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "benedetta_sei_tu"
 data_revisione : "2011-12-31"
 ---

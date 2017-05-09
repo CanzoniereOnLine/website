@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Acclamate al Signore"
-tags : 
+autori : 
   - "Rinaldi"
 
 album : "Gerico, le tue mura crolleranno"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "acclamate_al_signore_rinaldi"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Riempici di te"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "riempici_di_te"
 data_revisione : "2011-12-31"
 ---

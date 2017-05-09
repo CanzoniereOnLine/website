@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, oggi la chiesa"
-tags : 
+autori : 
   - "Giombini"
 
 album : "I semi del futuro"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_oggi_la_chiesa"
 data_revisione : "2011-12-31"
 ---

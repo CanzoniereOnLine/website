@@ -1,7 +1,7 @@
 ---
 date : "2013-01-16"
 title : "Ninnananna dell'alfabeto"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ninnananna_dell_alfabeto"
 data_revisione : "2013-01-16"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Annunceremo che Tu"
-tags : 
+autori : 
   - "Auricchio"
 
 album : "Cammina con noi Maria"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Missione"
 
+video : 
 identificatore : "annunceremo_che_tu"
 data_revisione : "2011-12-31"
 ---

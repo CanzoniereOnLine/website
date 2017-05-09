@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Tutto è segno"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "tutto_e_segno"
 data_revisione : "2013-12-31"
 ---

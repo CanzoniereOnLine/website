@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Ora è tempo di gioia"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ora_e_tempo_di_gioia"
 data_revisione : "2014-09-30"
 ---

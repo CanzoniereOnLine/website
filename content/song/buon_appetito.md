@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Buon appetito"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "buon_appetito"
 data_revisione : "2012-11-28"
 ---

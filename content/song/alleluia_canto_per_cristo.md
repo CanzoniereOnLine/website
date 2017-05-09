@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Canto per Cristo"
-tags : 
+autori : 
   - "Costa"
 
 album : "Nella Casa del Padre 446"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_canto_per_cristo"
 data_revisione : "2011-12-31"
 ---

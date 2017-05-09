@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il canto dell'amore"
-tags : 
+autori : 
   - "Russo"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_canto_dell_amore"
 data_revisione : "2011-12-31"
 ---

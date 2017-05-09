@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace a te, pace a te"
-tags : 
+autori : 
   - "Costa, Varnavà"
 
 album : "E se anche non ci conosciamo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_a_te_pace_a_te"
 data_revisione : "2011-12-31"
 ---

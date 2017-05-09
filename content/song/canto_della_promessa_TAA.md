@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Canto della promessa TAA"
-tags : 
+autori : 
   - "Sevin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_della_promessa_TAA"
 data_revisione : "2012-06-23"
 ---

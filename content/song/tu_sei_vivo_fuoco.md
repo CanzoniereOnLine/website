@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tu sei vivo fuoco"
-tags : 
+autori : 
   - ""
 
 album : "Tu sei come roccia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "tu_sei_vivo_fuoco"
 data_revisione : "2011-12-31"
 ---

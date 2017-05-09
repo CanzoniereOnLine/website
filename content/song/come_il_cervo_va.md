@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come il cervo va"
-tags : 
+autori : 
   - "Hurd, Kingsbury, Deflorian"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "come_il_cervo_va"
 data_revisione : "2011-12-31"
 ---

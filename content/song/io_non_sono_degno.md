@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Io non sono degno"
-tags : 
+autori : 
   - "Chieffo"
 
 album : "Agape"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Penitenza"
 
+video : 
 identificatore : "io_non_sono_degno"
 data_revisione : "2011-12-31"
 ---

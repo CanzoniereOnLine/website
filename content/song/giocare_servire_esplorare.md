@@ -1,7 +1,7 @@
 ---
 date : "2012-08-29"
 title : "Giocare, Servire, Esplorare"
-tags : 
+autori : 
   - "Elena Terziotti, Dario Campanella"
 
 album : "Convegno Regionale EmiRo 2012"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "giocare_servire_esplorare"
 data_revisione : "2012-08-29"
 ---

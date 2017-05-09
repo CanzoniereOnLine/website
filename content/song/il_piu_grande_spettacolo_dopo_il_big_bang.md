@@ -1,7 +1,7 @@
 ---
 date : "2015-05-15"
 title : "Il più grande spettacolo dopo il big bang"
-tags : 
+autori : 
   - "Jovanotti"
 
 album : "Ora"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_piu_grande_spettacolo_dopo_il_big_bang"
 data_revisione : "2015-05-15"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ti ringraziamo"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Gratitudine"
@@ -16,6 +16,7 @@ momenti :
   - "Offertorio"
   - "Congedo"
 
+video : 
 identificatore : "ti_ringraziamo"
 data_revisione : "2011-12-31"
 ---

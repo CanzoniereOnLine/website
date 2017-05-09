@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Oh, oh canterò"
-tags : 
+autori : 
   - "A.C.R."
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "oh_oh_cantero"
 data_revisione : "2011-12-31"
 ---

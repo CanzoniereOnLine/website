@@ -1,7 +1,7 @@
 ---
 date : "2012-07-02"
 title : "Lodi di Dio Altissimo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "San Francesco"
 
+video : 
 identificatore : "lodi_di_dio_altissimo_assisi"
 data_revisione : "2012-07-02"
 ---

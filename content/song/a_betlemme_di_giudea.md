@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "A Betlemme di Giudea"
-tags : 
+autori : 
   - "Tradizionale Francese"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "a_betlemme_di_giudea"
 data_revisione : "2011-12-31"
 ---

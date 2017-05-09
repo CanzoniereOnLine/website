@@ -1,7 +1,7 @@
 ---
 date : "2012-12-14"
 title : "Rimmel"
-tags : 
+autori : 
   - "Francesco De Gregori"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "rimmel"
 data_revisione : "2012-12-14"
 ---

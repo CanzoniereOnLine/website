@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Quel mazzolin di fiori"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "quel_mazzolin_di_fiori"
 data_revisione : "2012-10-30"
 ---

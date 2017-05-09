@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "e_volare_volare"
-tags : 
+autori : 
   - "Michele Paulicelli"
 
 album : "Forza venite gente"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_volare_volare"
 data_revisione : "2013-12-31"
 ---

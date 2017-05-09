@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Danza del fiore rosso"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "danza_del_fiore_rosso"
 data_revisione : "2012-11-28"
 ---

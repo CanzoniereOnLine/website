@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Symbolum ‘80"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "Symbolum ‘80"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "symbolum_80"
 data_revisione : "2014-10-01"
 ---

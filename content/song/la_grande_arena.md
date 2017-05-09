@@ -1,7 +1,7 @@
 ---
 date : "2012-10-25"
 title : "La grande arena"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_grande_arena"
 data_revisione : "2012-10-25"
 ---

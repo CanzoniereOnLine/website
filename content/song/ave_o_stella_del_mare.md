@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "Ave o stella del mare"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "ave_o_stella_del_mare"
 data_revisione : "2012-01-11"
 ---

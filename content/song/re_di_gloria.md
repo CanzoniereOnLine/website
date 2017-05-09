@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Re di gloria"
-tags : 
+autori : 
   - "Marranzino, De Luca"
 
 album : "Cantiamo con gioia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "re_di_gloria"
 data_revisione : "2011-12-31"
 ---

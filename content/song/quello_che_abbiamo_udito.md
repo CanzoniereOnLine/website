@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Quello che abbiamo udito"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Alleluia è risorto il Signor"
@@ -16,6 +16,7 @@ momenti :
   - "Pasqua"
   - "Ingresso"
 
+video : 
 identificatore : "quello_che_abbiamo_udito"
 data_revisione : "2011-12-31"
 ---

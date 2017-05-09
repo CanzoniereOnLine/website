@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Solo in Dio"
-tags : 
+autori : 
   - "Zerlotti"
 
 album : "Sempre canterò"
@@ -16,6 +16,7 @@ momenti :
   - "Quaresima"
   - "Salmi"
 
+video : 
 identificatore : "solo_in_dio"
 data_revisione : "2011-12-31"
 ---

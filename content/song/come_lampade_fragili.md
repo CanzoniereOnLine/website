@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come lampade fragili"
-tags : 
+autori : 
   - "Cavallin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "come_lampade_fragili"
 data_revisione : "2011-12-31"
 ---

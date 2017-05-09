@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Annunciamo la tua morte"
-tags : 
+autori : 
   - "Rossi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Anamnesi"
 
+video : 
 identificatore : "mistero_della_fede_rossi"
 data_revisione : "2011-12-31"
 ---

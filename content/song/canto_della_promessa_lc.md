@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Canto della Promessa (LC)"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_della_promessa_lc"
 data_revisione : "2012-11-28"
 ---

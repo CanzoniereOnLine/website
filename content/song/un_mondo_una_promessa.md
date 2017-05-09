@@ -1,7 +1,7 @@
 ---
 date : "2012-07-29"
 title : "Un mondo una promessa"
-tags : 
+autori : 
   - "Gianvittorio Pula"
 
 album : "Canzone centenario 2007"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "un_mondo_una_promessa"
 data_revisione : "2012-07-29"
 ---

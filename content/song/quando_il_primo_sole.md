@@ -1,7 +1,7 @@
 ---
 date : "2012-12-15"
 title : "Quando il primo sole"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "quando_il_primo_sole"
 data_revisione : "2012-12-15"
 ---

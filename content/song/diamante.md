@@ -1,7 +1,7 @@
 ---
 date : "2015-05-18"
 title : "Diamante	"
-tags : 
+autori : 
   - "Zucchero"
 
 album : "Oro, incenso e birra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "diamante"
 data_revisione : "2015-05-18"
 ---

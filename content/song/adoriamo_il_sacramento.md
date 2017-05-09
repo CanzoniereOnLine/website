@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Adoriamo il Sacramento"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Adorazione"
 
+video : 
 identificatore : "adoriamo_il_sacramento"
 data_revisione : "2011-12-31"
 ---

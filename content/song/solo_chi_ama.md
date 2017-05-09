@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Solo chi ama"
-tags : 
+autori : 
   - "Machetta"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Pasqua"
 
+video : 
 identificatore : "solo_chi_ama"
 data_revisione : "2011-12-31"
 ---

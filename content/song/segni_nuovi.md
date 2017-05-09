@@ -1,7 +1,7 @@
 ---
 date : "2012-03-24"
 title : "Segni nuovi"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "segni_nuovi"
 data_revisione : "2012-03-24"
 ---

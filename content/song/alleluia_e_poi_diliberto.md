@@ -1,7 +1,7 @@
 ---
 date : "2013-07-15"
 title : "Alleluia e poi"
-tags : 
+autori : 
   - "Luca Diliberto, Giuliana Monti"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_e_poi_diliberto"
 data_revisione : "2013-07-15"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "E sono solo un uomo"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "In cerca d'autore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "e_sono_solo_un_uomo"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "I giardini di marzo"
-tags : 
+autori : 
   - "Battisti"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "i_giardini_di_marzo"
 data_revisione : "2012-04-03"
 ---

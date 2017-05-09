@@ -1,7 +1,7 @@
 ---
 date : "2012-06-24"
 title : "Forza venite gente"
-tags : 
+autori : 
   - "Michele Paulicelli"
 
 album : "Forza venite gente"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "forza_venite_gente"
 data_revisione : "2012-06-24"
 ---

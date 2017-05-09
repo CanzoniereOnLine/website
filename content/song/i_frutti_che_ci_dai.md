@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "I frutti che ci dai"
-tags : 
+autori : 
   - "Tranchida"
 
 album : "Resta con noi Gesù"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "i_frutti_che_ci_dai"
 data_revisione : "2011-12-31"
 ---

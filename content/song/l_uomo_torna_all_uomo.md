@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "L'uomo torna all'uomo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_uomo_torna_all_uomo"
 data_revisione : "2012-11-28"
 ---

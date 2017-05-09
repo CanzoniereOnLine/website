@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Exultet"
-tags : 
+autori : 
   - "Comi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "exultet"
 data_revisione : "2011-12-31"
 ---

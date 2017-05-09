@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "San Francesco"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Così"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "San Francesco"
 
+video : 
 identificatore : "san_francesco"
 data_revisione : "2011-12-31"
 ---

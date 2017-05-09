@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pane di vita"
-tags : 
+autori : 
   - "Marranzino, Pesare"
 
 album : "Il Tuo amore è grande"
@@ -16,6 +16,7 @@ momenti :
   - "Offertorio"
   - "Comunione"
 
+video : 
 identificatore : "pane_di_vita"
 data_revisione : "2011-12-31"
 ---

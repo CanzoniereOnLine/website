@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Apri le tue braccia"
-tags : 
+autori : 
   - "Machetta"
 
 album : "Una voce che ti cerca"
@@ -18,6 +18,7 @@ momenti :
   - "Riconciliazione"
   - "Conversione"
 
+video : 
 identificatore : "apri_le_tue_braccia"
 data_revisione : "2011-12-31"
 ---

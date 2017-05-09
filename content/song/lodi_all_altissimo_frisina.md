@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lodi all'Altissimo"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Tu sei bellezza"
@@ -16,6 +16,7 @@ momenti :
   - "San Francesco"
   - "Comunione"
 
+video : 
 identificatore : "lodi_all_altissimo_frisina"
 data_revisione : "2011-12-31"
 ---

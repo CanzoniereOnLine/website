@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Confitemini domino"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "confitemini_domino"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Benedirò"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La Tua dimora"
@@ -16,6 +16,7 @@ momenti :
   - "Offertorio"
   - "Salmi"
 
+video : 
 identificatore : "benediro"
 data_revisione : "2011-12-31"
 ---

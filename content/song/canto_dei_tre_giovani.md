@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canto dei tre giovani"
-tags : 
+autori : 
   - "Marranzino, de Luca"
 
 album : "Cantiamo con gioia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Lode"
 
+video : 
 identificatore : "canto_dei_tre_giovani"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Christe Lux mundi"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "christe_lux_mundi"
 data_revisione : "2011-12-31"
 ---

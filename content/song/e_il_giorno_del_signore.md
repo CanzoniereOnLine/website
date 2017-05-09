@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È il giorno del Signore"
-tags : 
+autori : 
   - "Cento"
 
 album : "È il giorno del Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "e_il_giorno_del_signore"
 data_revisione : "2011-12-31"
 ---

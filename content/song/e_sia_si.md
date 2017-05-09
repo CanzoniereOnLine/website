@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "E sia sì"
-tags : 
+autori : 
   - "Antonioli, Giorgi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "e_sia_si"
 data_revisione : "2014-09-20"
 ---

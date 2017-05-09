@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come in cielo così in terra"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Come in cielo così in terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "come_in_cielo_cosi_in_terra"
 data_revisione : "2011-12-31"
 ---

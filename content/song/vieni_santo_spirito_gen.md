@@ -1,7 +1,7 @@
 ---
 date : "2012-07-07"
 title : "Vieni santo spirito"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "vieni_santo_spirito_gen"
 data_revisione : "2012-07-07"
 ---

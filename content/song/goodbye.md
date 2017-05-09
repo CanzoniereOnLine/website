@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Goodbye"
-tags : 
+autori : 
   - "Nomadi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "goodbye"
 data_revisione : "2012-04-03"
 ---

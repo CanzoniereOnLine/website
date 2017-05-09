@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ostende nobis domine"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "ostende_nobis_domine"
 data_revisione : "2011-12-31"
 ---

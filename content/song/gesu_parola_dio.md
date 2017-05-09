@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gesù, Parola di Dio"
-tags : 
+autori : 
   - "Comi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "gesu_parola_dio"
 data_revisione : "2011-12-31"
 ---

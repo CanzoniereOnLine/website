@@ -1,7 +1,7 @@
 ---
 date : "2015-06-24"
 title : "Io sarò con te"
-tags : 
+autori : 
   - "Damonte"
 
 album : "Ti ho incontrato"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "io_saro_con_te_damonte"
 data_revisione : "2015-06-24"
 ---

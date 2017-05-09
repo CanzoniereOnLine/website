@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Amo"
-tags : 
+autori : 
   - "Fioravanti"
 
 album : "Sempre canterò"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "amo_fioravanti"
 data_revisione : "2011-12-31"
 ---

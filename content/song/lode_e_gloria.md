@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lode e gloria"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -16,6 +16,7 @@ momenti :
   - "Acclamazione al Vangelo"
   - "Salmi"
 
+video : 
 identificatore : "lode_e_gloria"
 data_revisione : "2011-12-31"
 ---

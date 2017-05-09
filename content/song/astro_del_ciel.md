@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Astro del ciel"
-tags : 
+autori : 
   - "Gruber"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "astro_del_ciel"
 data_revisione : "2011-12-31"
 ---

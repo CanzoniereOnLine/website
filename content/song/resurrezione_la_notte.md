@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Resurrezione"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "resurrezione_la_notte"
 data_revisione : "2014-09-30"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace a te, fratello mio"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Camminiamo nella speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_a_te_fratello_mio"
 data_revisione : "2011-12-31"
 ---

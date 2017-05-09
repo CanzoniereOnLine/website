@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gesù verrà"
-tags : 
+autori : 
   - "Bruno"
 
 album : "Io ti seguirò"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "gesu_verra"
 data_revisione : "2011-12-31"
 ---

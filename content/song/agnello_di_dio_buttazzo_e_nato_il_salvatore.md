@@ -1,7 +1,7 @@
 ---
 date : "2012-11-03"
 title : "Agnello di Dio"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "È nato il salvatore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Agnello di Dio"
 
+video : 
 identificatore : "agnello_di_dio_buttazzo_e_nato_il_salvatore"
 data_revisione : "2012-11-03"
 ---

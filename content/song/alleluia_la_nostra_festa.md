@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia La nostra festa"
-tags : 
+autori : 
   - "Varnavà"
 
 album : "La nostra festa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_la_nostra_festa"
 data_revisione : "2011-12-31"
 ---

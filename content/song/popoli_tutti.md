@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Popoli tutti"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "popoli_tutti"
 data_revisione : "2014-09-30"
 ---

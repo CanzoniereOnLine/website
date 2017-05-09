@@ -1,7 +1,7 @@
 ---
 date : "2012-10-17"
 title : "Il più grande motore"
-tags : 
+autori : 
   - "Cheope, Malgoni"
 
 album : "Zecchino d'oro 1991"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_piu_grande_motore"
 data_revisione : "2012-10-17"
 ---

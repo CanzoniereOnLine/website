@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Amare questa vita"
-tags : 
+autori : 
   - "Meregalli"
 
 album : "Mi hai tenuto per mano"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "amare_questa_vita"
 data_revisione : "2011-12-31"
 ---

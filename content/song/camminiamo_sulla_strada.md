@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Camminiamo sulla strada"
-tags : 
+autori : 
   - "Varnavà, Spiritual"
 
 album : "I negro spirituals in italiano"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "camminiamo_sulla_strada"
 data_revisione : "2011-12-31"
 ---

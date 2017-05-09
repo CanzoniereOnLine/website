@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Preghiera sui doni"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "preghiera_sui_doni"
 data_revisione : "2014-09-30"
 ---

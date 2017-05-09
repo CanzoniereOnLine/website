@@ -1,7 +1,7 @@
 ---
 date : "2012-11-05"
 title : "Alleluia, sei risorto"
-tags : 
+autori : 
   - "Giuseppe Tranchida"
 
 album : "Resta con noi Gesù"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_sei_risorto_Tranchida"
 data_revisione : "2012-11-05"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Credo"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum Panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Credo"
 
+video : 
 identificatore : "credo_verbum_panis"
 data_revisione : "2011-12-31"
 ---

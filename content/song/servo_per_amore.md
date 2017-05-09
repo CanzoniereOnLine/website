@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Servo per amore"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "servo_per_amore"
 data_revisione : "2011-12-31"
 ---

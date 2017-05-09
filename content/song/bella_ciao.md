@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Bella ciao"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "bella_ciao"
 data_revisione : "2014-01-02"
 ---

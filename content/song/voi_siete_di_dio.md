@@ -1,7 +1,7 @@
 ---
 date : "2014-11-09"
 title : "Voi siete di Dio"
-tags : 
+autori : 
   - "Balduzzi, Casucci"
 
 album : "Verbum panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "voi_siete_di_dio"
 data_revisione : "2014-11-09"
 ---

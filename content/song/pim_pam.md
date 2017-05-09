@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Pim Pam"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "pim_pam"
 data_revisione : "2014-01-02"
 ---

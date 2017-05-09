@@ -1,7 +1,7 @@
 ---
 date : "2013-11-28"
 title : "Nada te turbe"
-tags : 
+autori : 
   - "Taizè"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "nada_te_turbe"
 data_revisione : "2013-11-28"
 ---

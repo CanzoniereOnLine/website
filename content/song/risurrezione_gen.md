@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Risurrezione"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "La vita di ogni cosa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "risurrezione_gen"
 data_revisione : "2013-12-31"
 ---

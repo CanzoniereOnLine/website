@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Il leone"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_leone"
 data_revisione : "2014-01-02"
 ---

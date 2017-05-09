@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dio aprirà una via"
-tags : 
+autori : 
   - "Moen"
 
 album : "Cantiamo con gioia"
@@ -16,6 +16,7 @@ momenti :
   - "Avvento"
   - "Congedo"
 
+video : 
 identificatore : "dio_aprira_una_via"
 data_revisione : "2011-12-31"
 ---

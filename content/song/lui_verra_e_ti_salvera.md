@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lui verrà e ti salverà"
-tags : 
+autori : 
   - "Fitts, Sadler"
 
 album : "Eterna è la sua misericordia"
@@ -17,6 +17,7 @@ momenti :
   - "Quaresima"
   - "Congedo"
 
+video : 
 identificatore : "lui_verra_e_ti_salvera"
 data_revisione : "2011-12-31"
 ---

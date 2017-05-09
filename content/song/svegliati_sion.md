@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Svegliati Sion"
-tags : 
+autori : 
   - "Comunità Shalom"
 
 album : "Prostrati adoriamo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "svegliati_sion"
 data_revisione : "2014-10-01"
 ---

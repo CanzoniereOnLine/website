@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantiamo te"
-tags : 
+autori : 
   - "Gragnani"
 
 album : "Alleluia canterò"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Lode"
 
+video : 
 identificatore : "cantiamo_te"
 data_revisione : "2011-12-31"
 ---

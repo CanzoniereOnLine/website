@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cristo Re"
-tags : 
+autori : 
   - "Montuori"
 
 album : "Mi affido a Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Adorazione"
 
+video : 
 identificatore : "cristo_re"
 data_revisione : "2011-12-31"
 ---

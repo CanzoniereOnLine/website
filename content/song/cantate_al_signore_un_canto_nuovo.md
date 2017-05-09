@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantate al Signore un canto nuovo"
-tags : 
+autori : 
   - "Fallormi"
 
 album : "Giovani Verso Assisi 2004"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "cantate_al_signore_un_canto_nuovo"
 data_revisione : "2011-12-31"
 ---

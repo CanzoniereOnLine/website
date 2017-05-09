@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "La legge della vita"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "La legge della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_legge_della_vita"
 data_revisione : "2013-12-30"
 ---

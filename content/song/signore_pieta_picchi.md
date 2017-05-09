@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Signore pietà"
-tags : 
+autori : 
   - "Luigi Picchi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Signore pietà"
 
+video : 
 identificatore : "signore_pieta_picchi"
 data_revisione : "2013-12-31"
 ---

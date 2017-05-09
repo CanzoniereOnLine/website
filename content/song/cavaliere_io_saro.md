@@ -1,7 +1,7 @@
 ---
 date : "2012-06-29"
 title : "Cavaliere io sarò"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "cavaliere_io_saro"
 data_revisione : "2012-06-29"
 ---

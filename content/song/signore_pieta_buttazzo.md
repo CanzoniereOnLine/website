@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Signore pietà"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Signore pietà"
 
+video : 
 identificatore : "signore_pieta_buttazzo"
 data_revisione : "2014-10-01"
 ---

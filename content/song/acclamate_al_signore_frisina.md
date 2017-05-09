@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Acclamate al Signore"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "acclamate_al_signore_frisina"
 data_revisione : "2011-12-31"
 ---

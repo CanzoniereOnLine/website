@@ -1,7 +1,7 @@
 ---
 date : "2013-12-07"
 title : "Il coraggio nei piedi"
-tags : 
+autori : 
   - "Mattia Civico"
 
 album : "Route Nazionale 2014"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_coraggio_nei_piedi"
 data_revisione : "2013-12-07"
 ---

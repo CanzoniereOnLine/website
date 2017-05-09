@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Laudato sii, o mi Signore"
-tags : 
+autori : 
   - "Agape"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Lode"
 
+video : 
 identificatore : "laudato_sii_o_mi_signore"
 data_revisione : "2011-12-31"
 ---

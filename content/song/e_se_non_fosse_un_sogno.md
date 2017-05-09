@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "E se non fosse un sogno"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_se_non_fosse_un_sogno"
 data_revisione : "2013-12-31"
 ---

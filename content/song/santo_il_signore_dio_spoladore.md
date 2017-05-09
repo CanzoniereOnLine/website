@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo il Signore Dio"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Come in cielo così in terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_il_signore_dio_spoladore"
 data_revisione : "2011-12-31"
 ---

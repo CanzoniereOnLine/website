@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Canto dell'Amicizia"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_dell'amicizia"
 data_revisione : "2013-12-31"
 ---

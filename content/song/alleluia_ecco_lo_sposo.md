@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Ecco lo sposo"
-tags : 
+autori : 
   - "Ricci, Galliano"
 
 album : "Un patto d'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_ecco_lo_sposo"
 data_revisione : "2011-12-31"
 ---

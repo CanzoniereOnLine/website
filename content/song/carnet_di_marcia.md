@@ -1,7 +1,7 @@
 ---
 date : "2012-06-24"
 title : "Carnet di marcia"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "carnet_di_marcia"
 data_revisione : "2012-06-24"
 ---

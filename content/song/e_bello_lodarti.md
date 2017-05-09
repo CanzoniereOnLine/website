@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È bello lodarti"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "e_bello_lodarti"
 data_revisione : "2011-12-31"
 ---

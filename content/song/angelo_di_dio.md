@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Angelo di Dio"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "angelo_di_dio"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Quale gioia"
-tags : 
+autori : 
   - "Bagniewski"
 
 album : "Venite dal profondo"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "quale_gioia"
 data_revisione : "2014-09-30"
 ---

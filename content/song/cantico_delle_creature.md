@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantico delle creature"
-tags : 
+autori : 
   - "Varnavà, Mancinoni"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "San Francesco"
 
+video : 
 identificatore : "cantico_delle_creature"
 data_revisione : "2011-12-31"
 ---

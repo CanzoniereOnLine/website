@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il Signore è la luce"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Salmi per il nostro tempo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Acclamazione al Vangelo"
 
+video : 
 identificatore : "il_signore_e_la_luce"
 data_revisione : "2011-12-31"
 ---

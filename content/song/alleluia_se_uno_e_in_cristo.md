@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, se uno è in Cristo"
-tags : 
+autori : 
   - "Comi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_se_uno_e_in_cristo"
 data_revisione : "2011-12-31"
 ---

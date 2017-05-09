@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Chi potrà varcare"
-tags : 
+autori : 
   - "Turoldo, Passoni"
 
 album : "Salmi e cantici"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Comunione"
 
+video : 
 identificatore : "chi_potra_varcare"
 data_revisione : "2011-12-31"
 ---

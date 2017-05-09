@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Abbà misericordia"
-tags : 
+autori : 
   - "de Luca, Aguila"
 
 album : "Io scelgo te"
@@ -18,6 +18,7 @@ momenti :
   - "Conversione"
   - "Riconciliazione"
 
+video : 
 identificatore : "abba_misericordia"
 data_revisione : "2011-12-31"
 ---
@@ -68,6 +69,5 @@ Abbà, misericordia Abbà,
 misericordia Ab Abbà    
 Abbà, misericordia Abbà,  
 misericordia Abbà, Abbà, bà  
-  
-  
-  
+
+{{< youtube 09jf3ow9jfw >}}

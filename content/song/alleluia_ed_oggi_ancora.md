@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, ed oggi ancora"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_ed_oggi_ancora"
 data_revisione : "2011-12-31"
 ---

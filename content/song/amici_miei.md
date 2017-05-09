@@ -1,7 +1,7 @@
 ---
 date : "2015-01-01"
 title : "Amici miei"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "amici_miei"
 data_revisione : "2015-01-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tuo è il regno"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Dossologia"
 
+video : 
 identificatore : "tuo_e_il_regno"
 data_revisione : "2011-12-31"
 ---

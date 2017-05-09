@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ecco l'uomo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Triduo Pasquale"
 
+video : 
 identificatore : "ecco_l_uomo"
 data_revisione : "2011-12-31"
 ---

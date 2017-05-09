@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Luce rossa"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "luce_rossa"
 data_revisione : "2012-11-28"
 ---

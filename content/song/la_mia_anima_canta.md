@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "La mia anima canta"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_mia_anima_canta"
 data_revisione : "2011-12-31"
 ---

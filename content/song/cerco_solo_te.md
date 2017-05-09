@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cerco solo te"
-tags : 
+autori : 
   - "Montuori"
 
 album : "Il tuo amore è grande"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "cerco_solo_te"
 data_revisione : "2011-12-31"
 ---

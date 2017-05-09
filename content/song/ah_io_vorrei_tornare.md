@@ -1,7 +1,7 @@
 ---
 date : "2013-01-17"
 title : "Ah io vorrei tornare"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ah_io_vorrei_tornare"
 data_revisione : "2013-01-17"
 ---

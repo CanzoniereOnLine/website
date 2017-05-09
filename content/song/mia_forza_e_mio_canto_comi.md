@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Mia forza e mio canto"
-tags : 
+autori : 
   - "Comi"
 
 album : "Sulle orme d'Israele"
@@ -16,6 +16,7 @@ momenti :
   - "Pasqua"
   - "Salmi"
 
+video : 
 identificatore : "mia_forza_e_mio_canto_comi"
 data_revisione : "2014-09-30"
 ---

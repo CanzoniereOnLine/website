@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Canto delle squadriglie"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_delle_squadriglie"
 data_revisione : "2012-11-28"
 ---

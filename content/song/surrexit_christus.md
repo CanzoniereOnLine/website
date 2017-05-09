@@ -1,7 +1,7 @@
 ---
 date : "2013-11-28"
 title : "Surrexit Christus"
-tags : 
+autori : 
   - "Taizè"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "surrexit_christus"
 data_revisione : "2013-11-28"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È bello"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Noi veniamo a Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "e_bello"
 data_revisione : "2011-12-31"
 ---

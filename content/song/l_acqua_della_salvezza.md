@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "L'acqua della salvezza"
-tags : 
+autori : 
   - "Roncari, Capello"
 
 album : "La celebrazione della liberazione"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Quaresima"
 
+video : 
 identificatore : "l_acqua_della_salvezza"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Manda me"
-tags : 
+autori : 
   - "Mattia Civico"
 
 album : "Route di Pentecoste TAA 2011"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "manda_me"
 data_revisione : "2012-04-03"
 ---

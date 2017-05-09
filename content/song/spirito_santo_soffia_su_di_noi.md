@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Spirito Santo, soffia su di noi"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "spirito_santo_soffia_su_di_noi"
 data_revisione : "2011-12-31"
 ---

@@ -1,0 +1,3 @@
+{{ range .Params.autori }}
+  <a class="" href="{{ $.Site.BaseURL }}/autori/{{ . | urlize }}/">{{ . }}</a>
+{{ end }}

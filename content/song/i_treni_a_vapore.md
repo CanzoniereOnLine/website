@@ -1,7 +1,7 @@
 ---
 date : "2012-06-12"
 title : "I treni a vapore"
-tags : 
+autori : 
   - "Ivano Fossati"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "i_treni_a_vapore"
 data_revisione : "2012-06-12"
 ---

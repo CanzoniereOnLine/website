@@ -1,7 +1,7 @@
 ---
 date : "2012-06-24"
 title : "Terra di betulla"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "terra_di_betulla"
 data_revisione : "2012-06-24"
 ---

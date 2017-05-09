@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Mani"
-tags : 
+autori : 
   - "Goia"
 
 album : "Spalancate le porte a Cristo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "mani_goia"
 data_revisione : "2014-09-30"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canto della pace"
-tags : 
+autori : 
   - "Cori"
 
 album : "Noi tuo popolo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "canto_della_pace_cori"
 data_revisione : "2011-12-31"
 ---

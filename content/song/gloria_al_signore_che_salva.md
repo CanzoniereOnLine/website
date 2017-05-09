@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria al Signore che salva"
-tags : 
+autori : 
   - "De Santis, Frigiola"
 
 album : "Voglio vedere il tuo volto"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "gloria_al_signore_che_salva"
 data_revisione : "2011-12-31"
 ---

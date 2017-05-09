@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace sia, pace a voi"
-tags : 
+autori : 
   - "Gen Verde, Gen Rosso"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_sia_pace_a_voi"
 data_revisione : "2011-12-31"
 ---

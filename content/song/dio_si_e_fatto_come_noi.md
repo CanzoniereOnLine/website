@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dio si è fatto come noi"
-tags : 
+autori : 
   - "Stefani, Giombini"
 
 album : "Messa Alleluia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "dio_si_e_fatto_come_noi"
 data_revisione : "2011-12-31"
 ---

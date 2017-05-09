@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Grande è la tua bontà"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "grande_e_la_tua_bonta"
 data_revisione : "2011-12-31"
 ---

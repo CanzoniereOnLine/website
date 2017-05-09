@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Quando busserò"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Salmi per il nostro tempo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "quando_bussero"
 data_revisione : "2011-12-31"
 ---

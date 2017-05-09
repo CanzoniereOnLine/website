@@ -1,7 +1,7 @@
 ---
 date : "2012-09-24"
 title : "Strade di coraggio"
-tags : 
+autori : 
   - "Marco Lodi, Marco Costantini"
 
 album : "Route Nazionale 2014"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "strade_di_coraggio"
 data_revisione : "2012-09-24"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Sprechen the doich"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sprechen_the_doich"
 data_revisione : "2014-01-02"
 ---

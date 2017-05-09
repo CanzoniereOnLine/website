@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Sul colle scorre il ruscello"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sul_colle_scorre_il_ruscello"
 data_revisione : "2012-11-28"
 ---

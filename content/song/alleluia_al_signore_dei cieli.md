@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, al Signore dei cieli"
-tags : 
+autori : 
   - "Martinez, Leone"
 
 album : "RnS 146"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_al_signore_dei cieli"
 data_revisione : "2011-12-31"
 ---

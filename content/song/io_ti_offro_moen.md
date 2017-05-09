@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Io ti offro"
-tags : 
+autori : 
   - "Cloninger, Moen, Cimini"
 
 album : "Vieni alla mensa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "io_ti_offro_moen"
 data_revisione : "2011-12-31"
 ---

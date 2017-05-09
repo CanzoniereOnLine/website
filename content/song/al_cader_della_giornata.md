@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "Al cader della giornata"
-tags : 
+autori : 
   - "Beltrame"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "al_cader_della_giornata"
 data_revisione : "2012-12-05"
 ---

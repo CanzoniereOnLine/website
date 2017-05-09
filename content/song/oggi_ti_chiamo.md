@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Oggi ti chiamo"
-tags : 
+autori : 
   - "Fanelli"
 
 album : "Canterò felicità"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Vocazione"
 
+video : 
 identificatore : "oggi_ti_chiamo"
 data_revisione : "2011-12-31"
 ---

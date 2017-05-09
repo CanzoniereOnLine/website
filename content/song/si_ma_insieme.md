@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Sì, ma insieme"
-tags : 
+autori : 
   - "A.C.R."
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "si_ma_insieme"
 data_revisione : "2011-12-31"
 ---

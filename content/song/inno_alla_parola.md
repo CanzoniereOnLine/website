@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Inno alla Parola"
-tags : 
+autori : 
   - "Valenti, Farruggio"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "inno_alla_parola"
 data_revisione : "2011-12-31"
 ---

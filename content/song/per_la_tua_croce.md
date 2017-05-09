@@ -1,7 +1,7 @@
 ---
 date : "2012-11-01"
 title : "Per la tua croce"
-tags : 
+autori : 
   - "Cavallin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "per_la_tua_croce"
 data_revisione : "2012-11-01"
 ---

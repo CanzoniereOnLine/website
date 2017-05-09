@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Le voci si son fermate"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "le_voci_si_son_fermate"
 data_revisione : "2012-11-28"
 ---

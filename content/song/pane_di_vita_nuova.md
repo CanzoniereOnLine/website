@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Pane di vita nuova"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Pane di vita nuova"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "pane_di_vita_nuova"
 data_revisione : "2014-09-30"
 ---

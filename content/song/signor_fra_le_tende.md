@@ -1,7 +1,7 @@
 ---
 date : "2012-08-29"
 title : "Signor, fra le tende"
-tags : 
+autori : 
   - "Savin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "signor_fra_le_tende"
 data_revisione : "2012-08-29"
 ---

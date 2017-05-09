@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Un cuore nuovo"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Quaresima"
 
+video : 
 identificatore : "un_cuore_nuovo"
 data_revisione : "2011-12-31"
 ---

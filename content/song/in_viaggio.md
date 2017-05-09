@@ -1,7 +1,7 @@
 ---
 date : "2013-08-22"
 title : "In viaggio"
-tags : 
+autori : 
   - "Fiorella Mannoia"
 
 album : "Sud"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "in_viaggio"
 data_revisione : "2013-08-22"
 ---

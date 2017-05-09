@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria dal basso della terra"
-tags : 
+autori : 
   - "Sermig"
 
 album : "Dal basso della terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "gloria_dal_basso_della_terra"
 data_revisione : "2011-12-31"
 ---

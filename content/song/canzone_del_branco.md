@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "Canzone del branco"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canzone_del_branco"
 data_revisione : "2012-12-05"
 ---

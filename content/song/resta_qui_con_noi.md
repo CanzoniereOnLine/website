@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Resta qui con noi"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Una storia che cambia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "resta_qui_con_noi"
 data_revisione : "2013-12-31"
 ---

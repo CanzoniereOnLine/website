@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Apri la tua mano"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La Tua dimora"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "apri_la_tua_mano"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Saldo è il mio cuore"
-tags : 
+autori : 
   - "Remigi, Martinez"
 
 album : "Vittoria"
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Salmi"
 
+video : 
 identificatore : "saldo_e_il_mio_cuore"
 data_revisione : "2011-12-31"
 ---

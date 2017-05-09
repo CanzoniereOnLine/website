@@ -1,7 +1,7 @@
 ---
 date : "2012-11-01"
 title : "Tu ci hai redenti"
-tags : 
+autori : 
   - "Cerino"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Anamnesi"
 
+video : 
 identificatore : "tu_ci_hai_redenti"
 data_revisione : "2012-11-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria a Cristo"
-tags : 
+autori : 
   - "Jef"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Acclamazione al Vangelo"
 
+video : 
 identificatore : "gloria_a_cristo"
 data_revisione : "2011-12-31"
 ---

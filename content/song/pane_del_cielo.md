@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Pane del cielo"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Dove tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "pane_del_cielo"
 data_revisione : "2014-09-30"
 ---

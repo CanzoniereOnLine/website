@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Nascerà"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "In concerto per la pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "nascera"
 data_revisione : "2012-11-04"
 ---

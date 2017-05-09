@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Beati quelli"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "Qui dove tu ci chiami"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "beati_quelli_sequeri"
 data_revisione : "2011-12-31"
 ---

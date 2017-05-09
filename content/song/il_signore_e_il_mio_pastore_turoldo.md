@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il Signore è il mio pastore"
-tags : 
+autori : 
   - "Turoldo, Passoni, De Marzi"
 
 album : "Salmi e cantici"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Comunione"
 
+video : 
 identificatore : "il_signore_e_il_mio_pastore_turoldo"
 data_revisione : "2011-12-31"
 ---

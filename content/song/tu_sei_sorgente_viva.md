@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tu sei sorgente viva"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "tu_sei_sorgente_viva"
 data_revisione : "2011-12-31"
 ---

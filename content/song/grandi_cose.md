@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Grandi cose"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "grandi_cose"
 data_revisione : "2011-12-31"
 ---

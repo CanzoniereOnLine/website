@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "Accogli i nostri doni"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "accogli_i_nostri_doni_buttazzo"
 data_revisione : "2014-09-20"
 ---

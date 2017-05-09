@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Chiesa di mattoni"
-tags : 
+autori : 
   - "{Cento}"
 
 album : "Attendi in linea... ti passo Dio"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "chiesa_di_mattoni"
 data_revisione : "2011-12-31"
 ---

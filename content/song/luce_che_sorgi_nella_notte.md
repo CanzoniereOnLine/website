@@ -1,7 +1,7 @@
 ---
 date : "2012-01-26"
 title : "Luce che sorgi nella notte"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Gloria all'Emmanuele"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "luce_che_sorgi_nella_notte"
 data_revisione : "2012-01-26"
 ---

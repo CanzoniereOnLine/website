@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ti seguirò"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "ti_seguiro_frisina"
 data_revisione : "2011-12-31"
 ---

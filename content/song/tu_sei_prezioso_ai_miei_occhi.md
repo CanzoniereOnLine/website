@@ -1,7 +1,7 @@
 ---
 date : "2012-11-01"
 title : "Tu sei prezioso ai miei occhi"
-tags : 
+autori : 
   - "Crestani, Refosco"
 
 album : "MGS Triveneto, Festa dei Giovani 2008"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "tu_sei_prezioso_ai_miei_occhi"
 data_revisione : "2012-11-01"
 ---

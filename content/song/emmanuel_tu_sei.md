@@ -1,7 +1,7 @@
 ---
 date : "2012-01-25"
 title : "Emmanuel tu sei"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Gloria all'Emmanuele"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "emmanuel_tu_sei"
 data_revisione : "2012-01-25"
 ---

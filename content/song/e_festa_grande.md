@@ -1,7 +1,7 @@
 ---
 date : "2013-08-04"
 title : "È festa grande"
-tags : 
+autori : 
   - "Cento"
 
 album : "Ricevi questo anello"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "e_festa_grande"
 data_revisione : "2013-08-04"
 ---

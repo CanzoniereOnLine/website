@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Beati voi"
-tags : 
+autori : 
   - "Stacchiotti"
 
 album : "Cristo è risorto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "beati_voi_stacchiotti"
 data_revisione : "2011-12-31"
 ---

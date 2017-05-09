@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria ensemble"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Come in cielo così in terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_ensemble_spoladore"
 data_revisione : "2011-12-31"
 ---

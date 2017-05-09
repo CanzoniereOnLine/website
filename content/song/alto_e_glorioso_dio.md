@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alto e glorioso Dio"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Tu sei bellezza"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "San Francesco"
 
+video : 
 identificatore : "alto_e_glorioso_dio"
 data_revisione : "2011-12-31"
 ---

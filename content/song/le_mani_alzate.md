@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Le mani alzate"
-tags : 
+autori : 
   - "Vercruysse, Meloni"
 
 album : "Dio della mia lode"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "le_mani_alzate"
 data_revisione : "2012-11-04"
 ---

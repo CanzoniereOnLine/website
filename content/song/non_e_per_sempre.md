@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Non è per sempre"
-tags : 
+autori : 
   - "Afterhours"
 
 album : "Non è per sempre"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "non_e_per_sempre"
 data_revisione : "2014-01-02"
 ---

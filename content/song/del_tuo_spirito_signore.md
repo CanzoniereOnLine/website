@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Del tuo Spirito, Signore"
-tags : 
+autori : 
   - "Gen Verde, Gen Rosso"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Salmi"
 
+video : 
 identificatore : "del_tuo_spirito_signore"
 data_revisione : "2011-12-31"
 ---

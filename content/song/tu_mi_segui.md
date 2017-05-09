@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tu mi segui"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'incontro della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "tu_mi_segui"
 data_revisione : "2011-12-31"
 ---

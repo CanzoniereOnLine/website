@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "La canzone della felicità"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_canzone_della_felicita"
 data_revisione : "2012-11-28"
 ---

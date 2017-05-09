@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "È giunta l'ora"
-tags : 
+autori : 
   - "Scaglianti"
 
 album : "Cantare giovane"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_giunta_l_ora"
 data_revisione : "2014-09-20"
 ---

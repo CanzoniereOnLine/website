@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dov'è carità e amore"
-tags : 
+autori : 
   - "Meloni, Zanettin, Zardini"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "dov_e_carita_e_amore"
 data_revisione : "2011-12-31"
 ---

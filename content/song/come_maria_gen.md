@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come Maria"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Dove Tu sei"
@@ -16,6 +16,7 @@ momenti :
   - "Maria"
   - "Offertorio"
 
+video : 
 identificatore : "come_maria_gen"
 data_revisione : "2011-12-31"
 ---

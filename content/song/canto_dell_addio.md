@@ -1,7 +1,7 @@
 ---
 date : "2012-11-08"
 title : "Canto dell'addio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_dell_addio"
 data_revisione : "2012-11-08"
 ---

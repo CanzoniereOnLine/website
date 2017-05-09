@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Luce"
-tags : 
+autori : 
   - "Comunità del Cenacolo"
 
 album : "Dio dell'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "luce"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il mattino di Pasqua"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "il_mattino_di_pasqua"
 data_revisione : "2011-12-31"
 ---

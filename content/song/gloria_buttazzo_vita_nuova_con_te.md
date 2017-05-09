@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_buttazzo_vita_nuova_con_te"
 data_revisione : "2011-12-31"
 ---

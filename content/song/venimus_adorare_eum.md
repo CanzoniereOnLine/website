@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Venimus adorare eum"
-tags : 
+autori : 
   - "Linssen"
 
 album : "Inno della XX GMG, Colonia 2005"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "venimus_adorare_eum"
 data_revisione : "2011-12-31"
 ---

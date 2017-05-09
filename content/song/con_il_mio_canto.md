@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Con il mio canto"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "con_il_mio_canto"
 data_revisione : "2011-12-31"
 ---

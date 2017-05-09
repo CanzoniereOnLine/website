@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia A te canterò"
-tags : 
+autori : 
   - "Luigi Serapiglia"
 
 album : "Davanti a Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_a_te_cantero"
 data_revisione : "2011-12-31"
 ---

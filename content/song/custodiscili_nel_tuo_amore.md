@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Custodiscili nel Tuo Amore"
-tags : 
+autori : 
   - "Cento"
 
 album : "Tu hai inventato l'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "custodiscili_nel_tuo_amore"
 data_revisione : "2011-12-31"
 ---

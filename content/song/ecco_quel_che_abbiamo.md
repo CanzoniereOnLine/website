@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ecco quel che abbiamo"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Accordi"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "ecco_quel_che_abbiamo"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Agnello di Dio"
-tags : 
+autori : 
   - "Gen Rosso, Gen Verde"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Agnello di Dio"
 
+video : 
 identificatore : "agnello_di_dio_come_fuoco_vivo"
 data_revisione : "2012-11-04"
 ---

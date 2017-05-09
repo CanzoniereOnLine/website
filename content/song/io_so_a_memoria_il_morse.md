@@ -1,7 +1,7 @@
 ---
 date : "2012-06-28"
 title : "Io so a memoria il morse"
-tags : 
+autori : 
   - "Orsa in Maggiore"
 
 album : "Fante Cavallo e Re!"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "io_so_a_memoria_il_morse"
 data_revisione : "2012-06-28"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Preghiera a Maria"
-tags : 
+autori : 
   - "Semprini"
 
 album : "Dimmi dolce Maria"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "preghiera_a_maria"
 data_revisione : "2014-09-30"
 ---

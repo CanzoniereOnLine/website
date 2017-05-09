@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Colori"
-tags : 
+autori : 
   - "Donovan"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "colori"
 data_revisione : "2012-06-23"
 ---

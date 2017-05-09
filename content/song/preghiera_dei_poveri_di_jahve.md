@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Preghiera dei poveri di Jahvè"
-tags : 
+autori : 
   - "Amadei"
 
 album : "Giovani in festa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Avvento"
 
+video : 
 identificatore : "preghiera_dei_poveri_di_jahve"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Amatevi fratelli"
-tags : 
+autori : 
   - "Machetta"
 
 album : "Grazie, Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "amatevi_fratelli"
 data_revisione : "2011-12-31"
 ---

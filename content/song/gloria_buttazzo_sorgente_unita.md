@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Sorgente di unità"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_buttazzo_sorgente_unita"
 data_revisione : "2011-12-31"
 ---

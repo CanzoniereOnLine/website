@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Beatitudini"
-tags : 
+autori : 
   - "Castiglia"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "beatitudini_castiglia"
 data_revisione : "2011-12-31"
 ---

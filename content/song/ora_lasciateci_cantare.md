@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ora lasciateci cantare"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "ora_lasciateci_cantare"
 data_revisione : "2011-12-31"
 ---

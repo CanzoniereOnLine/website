@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "I cani rossi"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "i_cani_rossi"
 data_revisione : "2012-12-05"
 ---

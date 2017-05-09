@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come fuoco per il mondo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "come_fuoco_per_il_mondo"
 data_revisione : "2011-12-31"
 ---

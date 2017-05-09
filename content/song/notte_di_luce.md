@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Notte di luce"
-tags : 
+autori : 
   - "Rainoldi, Akepsimas"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "notte_di_luce"
 data_revisione : "2011-12-31"
 ---

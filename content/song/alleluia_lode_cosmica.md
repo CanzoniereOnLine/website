@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Lode cosmica"
-tags : 
+autori : 
   - "Puri"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_lode_cosmica"
 data_revisione : "2011-12-31"
 ---

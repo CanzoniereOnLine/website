@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ecco il pane"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Sei venuto dal cielo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "ecco_il_pane"
 data_revisione : "2011-12-31"
 ---

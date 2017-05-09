@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Eirene"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "eirene"
 data_revisione : "2012-06-23"
 ---

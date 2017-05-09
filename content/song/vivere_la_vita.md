@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vivere la vita"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "vivere_la_vita"
 data_revisione : "2011-12-31"
 ---

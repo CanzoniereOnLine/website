@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È pace intima"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_pace_intima"
 data_revisione : "2011-12-31"
 ---

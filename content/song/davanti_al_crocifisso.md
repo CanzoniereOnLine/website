@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Davanti al Crocifisso"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Adorazione"
 
+video : 
 identificatore : "davanti_al_crocifisso"
 data_revisione : "2011-12-31"
 ---

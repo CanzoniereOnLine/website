@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Spirito di Dio"
-tags : 
+autori : 
   - "Iverson"
 
 album : "Sempre canterò"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "spirito_di_dio_vivenzio"
 data_revisione : "2011-12-31"
 ---

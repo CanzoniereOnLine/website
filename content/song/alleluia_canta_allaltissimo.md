@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Canta all'Altissimo"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La tua dimora"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_canta_allaltissimo"
 data_revisione : "2011-12-31"
 ---

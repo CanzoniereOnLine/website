@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Receive the power"
-tags : 
+autori : 
   - "Sebastian, Pinto"
 
 album : "Inno della XXIII GMG, Sydney 2008"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "receive_the_power"
 data_revisione : "2011-12-31"
 ---

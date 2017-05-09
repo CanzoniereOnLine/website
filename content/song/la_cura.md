@@ -1,7 +1,7 @@
 ---
 date : "2014-08-21"
 title : "La Cura"
-tags : 
+autori : 
   - "Franco Battiato"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_cura"
 data_revisione : "2014-08-21"
 ---

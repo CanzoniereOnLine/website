@@ -1,7 +1,7 @@
 ---
 date : "2013-01-16"
 title : "Al passo del guidon"
-tags : 
+autori : 
   - "A. Mazzocolin, E. Demattè"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "al_passo_del_guidon"
 data_revisione : "2013-01-16"
 ---

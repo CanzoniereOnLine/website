@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Acqua sole e verità"
-tags : 
+autori : 
   - "Cento"
 
 album : "Celebraimo la nostra speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "acqua_sole_verità"
 data_revisione : "2011-12-31"
 ---

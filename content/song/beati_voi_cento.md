@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Beati voi"
-tags : 
+autori : 
   - "Cento"
 
 album : "Guarda laggiù l'orizzonte"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "beati_voi_cento"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Guardati intorno, o lupo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "guardati_intorno_o_lupo"
 data_revisione : "2012-11-28"
 ---

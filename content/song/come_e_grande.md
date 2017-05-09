@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come è grande"
-tags : 
+autori : 
   - "Grotti"
 
 album : "Canti per l'assemblea cristiana"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Quaresima"
 
+video : 
 identificatore : "come_e_grande"
 data_revisione : "2011-12-31"
 ---

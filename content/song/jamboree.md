@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "Jamboree"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "jamboree"
 data_revisione : "2012-12-05"
 ---

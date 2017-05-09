@@ -1,7 +1,7 @@
 ---
 date : "2013-01-16"
 title : "Il tesoro"
-tags : 
+autori : 
   - ""
 
 album : "Route Nazionale RS 1986"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_tesoro"
 data_revisione : "2013-01-16"
 ---

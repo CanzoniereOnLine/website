@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, esultiamo nella gioia"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "È nato il salvatore"
@@ -16,6 +16,7 @@ momenti :
   - "Alleluia"
   - "Natale"
 
+video : 
 identificatore : "alleluia_esultiamo_gioia"
 data_revisione : "2011-12-31"
 ---

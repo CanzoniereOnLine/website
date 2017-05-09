@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Sei per noi cibo di eternità"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Sorgente di unità"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "sei_per_noi_cibo_di_eternita"
 data_revisione : "2011-12-31"
 ---

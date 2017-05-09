@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Nel canto di te"
-tags : 
+autori : 
   - "Cavallin"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Adorazione"
 
+video : 
 identificatore : "nel_canto_di_te"
 data_revisione : "2011-12-31"
 ---

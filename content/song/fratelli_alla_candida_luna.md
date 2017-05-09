@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Fratelli alla candida luna"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "fratelli_alla_candida_luna"
 data_revisione : "2012-11-28"
 ---

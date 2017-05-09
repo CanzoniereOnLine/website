@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come un fiume"
-tags : 
+autori : 
   - "Paci, Preti"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "come_un_fiume"
 data_revisione : "2011-12-31"
 ---

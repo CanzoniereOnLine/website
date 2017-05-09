@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Caccia al sambur"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "caccia_al_sambur"
 data_revisione : "2012-11-28"
 ---

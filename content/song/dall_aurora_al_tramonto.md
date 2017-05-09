@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dall'aurora al tramonto"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum panis"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "dall_aurora_al_tramonto"
 data_revisione : "2011-12-31"
 ---

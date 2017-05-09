@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come l'aurora verrai"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Avvento"
 
+video : 
 identificatore : "come_l_aurora_verrai"
 data_revisione : "2011-12-31"
 ---

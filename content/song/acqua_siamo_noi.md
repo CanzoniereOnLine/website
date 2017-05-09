@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Acqua siamo noi"
-tags : 
+autori : 
   - "Cento"
 
 album : "È il giorno del Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "acqua_siamo_noi"
 data_revisione : "2013-12-30"
 ---

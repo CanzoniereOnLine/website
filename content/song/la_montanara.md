@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "La montanara"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_montanara"
 data_revisione : "2012-10-30"
 ---

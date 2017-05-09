@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Io credo risorgerò"
-tags : 
+autori : 
   - "Stefani"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Esequie"
 
+video : 
 identificatore : "io_credo_risorgero"
 data_revisione : "2011-12-31"
 ---

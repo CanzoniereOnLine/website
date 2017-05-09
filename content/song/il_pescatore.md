@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Il pescatore"
-tags : 
+autori : 
   - "Fabrizio De André"
 
 album : "L'ufficio delle cose perdute"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_pescatore"
 data_revisione : "2012-04-03"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Popoli tutti acclamate"
-tags : 
+autori : 
   - "Zschech"
 
 album : "Eterna è la Sua misericordia"
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Comunione"
 
+video : 
 identificatore : "popoli_tutti_acclamate"
 data_revisione : "2011-12-31"
 ---

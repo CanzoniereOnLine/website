@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Se cade una stella"
-tags : 
+autori : 
   - "Nobili"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "se_cade_una_stella"
 data_revisione : "2014-10-01"
 ---

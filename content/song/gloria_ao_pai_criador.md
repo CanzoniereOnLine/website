@@ -1,7 +1,7 @@
 ---
 date : "2013-03-02"
 title : "Gloria, gloria ao Pai Criador"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Lode"
 
+video : 
 identificatore : "gloria_ao_pai_criador"
 data_revisione : "2013-03-02"
 ---

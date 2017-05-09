@@ -1,7 +1,7 @@
 ---
 date : "2012-08-29"
 title : "Grazie mille"
-tags : 
+autori : 
   - "883"
 
 album : "Grazie mille"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "grazie_mille"
 data_revisione : "2012-08-29"
 ---

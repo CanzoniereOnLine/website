@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canto di nozze"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'amore che conta"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "canto_di_nozze"
 data_revisione : "2011-12-31"
 ---

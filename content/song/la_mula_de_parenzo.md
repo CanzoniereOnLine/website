@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "La mula de Parenzo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_mula_de_parenzo"
 data_revisione : "2014-01-02"
 ---

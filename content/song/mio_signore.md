@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Mio Signore"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "mio_signore"
 data_revisione : "2011-12-31"
 ---

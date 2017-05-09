@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ricordate"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ricordate"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Credo"
-tags : 
+autori : 
   - "Gen Rosso, Gen Verde"
 
 album : "Come fuoco vivo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Credo"
 
+video : 
 identificatore : "credo_gen_come_fuoco_vivo"
 data_revisione : "2012-11-04"
 ---

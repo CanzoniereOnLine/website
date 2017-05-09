@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, Signore sei venuto"
-tags : 
+autori : 
   - "Scaglianti"
 
 album : "Andiamo a Betlemme"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_signore_sei_venuto"
 data_revisione : "2011-12-31"
 ---

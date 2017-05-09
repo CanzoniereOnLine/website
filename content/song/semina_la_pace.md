@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Semina la pace"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Inspiration"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "semina_la_pace"
 data_revisione : "2011-12-31"
 ---

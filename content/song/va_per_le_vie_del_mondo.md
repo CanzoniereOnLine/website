@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Va' per le vie del mondo"
-tags : 
+autori : 
   - "Pettenon, Spiritual"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "va_per_le_vie_del_mondo"
 data_revisione : "2011-12-31"
 ---

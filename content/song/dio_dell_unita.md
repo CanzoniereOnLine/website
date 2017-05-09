@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dio dell'unità"
-tags : 
+autori : 
   - "Mariano"
 
 album : "Venite a me"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "dio_dell_unita"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canzone di San Damiano"
-tags : 
+autori : 
   - "Ortolani"
 
 album : "Fratello sole sorella luna"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canzone_di_san_damiano"
 data_revisione : "2011-12-31"
 ---

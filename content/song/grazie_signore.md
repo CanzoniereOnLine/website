@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "Grazie Signore"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "grazie_signore"
 data_revisione : "2012-01-11"
 ---

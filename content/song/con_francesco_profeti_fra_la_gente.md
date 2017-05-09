@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Con Francesco profeti fra la gente"
-tags : 
+autori : 
   - "di Fatta"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "con_francesco_profeti_fra_la_gente"
 data_revisione : "2011-12-31"
 ---

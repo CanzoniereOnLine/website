@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Con Te faremo cose grandi"
-tags : 
+autori : 
   - "Meregalli"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "con_te_faremo_cose_grandi"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-06-24"
 title : "Happy Christmas – War Is over"
-tags : 
+autori : 
   - "John Lennon"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "happy_christmas"
 data_revisione : "2012-06-24"
 ---

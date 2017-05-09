@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum Panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_verbum_panis"
 data_revisione : "2011-12-31"
 ---

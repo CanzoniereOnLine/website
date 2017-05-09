@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Padre nostro"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Alla tua festa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Padre nostro"
 
+video : 
 identificatore : "padre_nostro_buttazzo"
 data_revisione : "2013-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Sei il mio pastore"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Siamo nati liberi"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "sei_il_mio_pastore_spoladore"
 data_revisione : "2011-12-31"
 ---

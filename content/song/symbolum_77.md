@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Symbolum ‘77"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "In cerca d'autore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "symbolum_77"
 data_revisione : "2011-12-31"
 ---

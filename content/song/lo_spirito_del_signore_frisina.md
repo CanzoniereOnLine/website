@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lo Spirito del Signore"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Tu sarai profeta"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "lo_spirito_del_signore_frisina"
 data_revisione : "2011-12-31"
 ---

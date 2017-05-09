@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vorrei essere"
-tags : 
+autori : 
   - "Bizzeti"
 
 album : "Io sono un cantastorie"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "vorrei_essere"
 data_revisione : "2011-12-31"
 ---

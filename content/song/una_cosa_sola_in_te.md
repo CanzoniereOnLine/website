@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Una cosa sola in Te"
-tags : 
+autori : 
   - "Giovannini"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "una_cosa_sola_in_te"
 data_revisione : "2011-12-31"
 ---

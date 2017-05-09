@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cieli nuovi e terra nuova"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La Tua dimora"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "cieli_nuovi_e_terra_nuova"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "L'olimpo"
-tags : 
+autori : 
   - "Andrea Brandalise"
 
 album : "VdB 2011"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_olimpo"
 data_revisione : "2013-12-30"
 ---

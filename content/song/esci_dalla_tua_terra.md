@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Esci dalla tua terra"
-tags : 
+autori : 
   - "Cocquio"
 
 album : "Agape"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "esci_dalla_tua_terra"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Chiamata al cerchio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "chiamata_al_cerchio"
 data_revisione : "2012-11-28"
 ---

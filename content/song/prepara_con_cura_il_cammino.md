@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Prepara con cura il cammino"
-tags : 
+autori : 
   - "Mattia Civico"
 
 album : "Campo Reg. EG TAA 2008"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "prepara_con_cura_il_cammino"
 data_revisione : "2012-06-23"
 ---

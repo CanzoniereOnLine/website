@@ -1,7 +1,7 @@
 ---
 date : "2012-09-24"
 title : "Strade e pensieri per domani"
-tags : 
+autori : 
   - "Mattia Civico"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "strade_e_pensieri_per_domani"
 data_revisione : "2012-09-24"
 ---

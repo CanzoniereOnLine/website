@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lo spirito di Cristo vive in noi"
-tags : 
+autori : 
   - "Mellino"
 
 album : "Sono giovane Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "lo_spirito_di_cristo_vive_in_noi"
 data_revisione : "2011-12-31"
 ---

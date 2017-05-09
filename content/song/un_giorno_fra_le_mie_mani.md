@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Un giorno fra le mie mani"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "un_giorno_fra_le_mie_mani"
 data_revisione : "2014-10-01"
 ---

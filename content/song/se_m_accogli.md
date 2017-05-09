@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Se m'accogli"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "Eppure tu sei qui"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "se_m_accogli"
 data_revisione : "2011-12-31"
 ---

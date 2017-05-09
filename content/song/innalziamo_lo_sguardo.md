@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Innalziamo lo sguardo"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Maranathà"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Natale"
 
+video : 
 identificatore : "innalziamo_lo_sguardo"
 data_revisione : "2011-12-31"
 ---

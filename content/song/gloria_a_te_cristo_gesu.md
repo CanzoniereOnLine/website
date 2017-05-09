@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria a te Cristo Gesù"
-tags : 
+autori : 
   - "Lecot"
 
 album : "Inno del giubileo"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "gloria_a_te_cristo_gesu"
 data_revisione : "2011-12-31"
 ---

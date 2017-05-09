@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Nulla ti turbi"
-tags : 
+autori : 
   - "S. Teresa D'avila, Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "nulla_ti_turbi"
 data_revisione : "2011-12-31"
 ---

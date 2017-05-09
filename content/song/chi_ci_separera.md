@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Chi ci separerà"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Chi ci separerà dall'amore di Cristo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "chi_ci_separera"
 data_revisione : "2011-12-31"
 ---

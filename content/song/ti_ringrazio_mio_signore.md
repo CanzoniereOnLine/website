@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Ti ringrazio mio signore"
-tags : 
+autori : 
   - "Sequeri"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "ti_ringrazio_mio_signore"
 data_revisione : "2014-10-01"
 ---

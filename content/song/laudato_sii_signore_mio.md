@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Laudato sii, Signore mio"
-tags : 
+autori : 
   - "Cento"
 
 album : "Guarda laggiù l'orizzonte"
@@ -16,6 +16,7 @@ momenti :
   - "Lode"
   - "San Francesco"
 
+video : 
 identificatore : "laudato_sii_signore_mio"
 data_revisione : "2011-12-31"
 ---

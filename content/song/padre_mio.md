@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Padre mio"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Dove Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "padre_mio"
 data_revisione : "2011-12-31"
 ---

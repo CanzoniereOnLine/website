@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo i cieli e la terra"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Hermano mio"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_i_cieli_e_la_terra"
 data_revisione : "2011-12-31"
 ---

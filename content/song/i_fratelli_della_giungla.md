@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "I fratelli della giungla"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "i_fratelli_della_giungla"
 data_revisione : "2012-06-23"
 ---

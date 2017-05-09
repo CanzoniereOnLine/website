@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "E sei rimasto qui"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Congresso Eucaristico nazionale, Bologna 1997"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "e_sei_rimasto_qui"
 data_revisione : "2011-12-31"
 ---

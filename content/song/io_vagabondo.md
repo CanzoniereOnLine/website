@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Io vagabondo"
-tags : 
+autori : 
   - "Nomadi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "io_vagabondo"
 data_revisione : "2012-04-03"
 ---

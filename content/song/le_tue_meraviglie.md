@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Le tue meraviglie"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum Panis"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Natale"
 
+video : 
 identificatore : "le_tue_meraviglie"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Mistero della fede"
-tags : 
+autori : 
   - "Bonfitto"
 
 album : "Sei grande nell'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Mistero della fede"
 
+video : 
 identificatore : "mistero_della_fede_bonfitto"
 data_revisione : "2013-12-30"
 ---

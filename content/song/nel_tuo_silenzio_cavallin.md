@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Nel tuo silenzio"
-tags : 
+autori : 
   - "Cavallin"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Adorazione"
   - "Comunione"
 
+video : 
 identificatore : "nel_tuo_silenzio_cavallin"
 data_revisione : "2011-12-31"
 ---

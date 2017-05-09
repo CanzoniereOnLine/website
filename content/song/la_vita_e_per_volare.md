@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "La vita è per volare"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_vita_e_per_volare"
 data_revisione : "2012-12-05"
 ---

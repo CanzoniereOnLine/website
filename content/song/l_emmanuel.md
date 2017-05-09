@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "L'Emmanuel"
-tags : 
+autori : 
   - "Mammoli"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_emmanuel"
 data_revisione : "2014-09-30"
 ---

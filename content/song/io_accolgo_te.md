@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Io accolgo te"
-tags : 
+autori : 
   - "Riondato, Toniato"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "io_accolgo_te"
 data_revisione : "2011-12-31"
 ---

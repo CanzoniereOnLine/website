@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Luce di Verità"
-tags : 
+autori : 
   - "Becchimanzi, Scordari, Giordano"
 
 album : "Inno dell'Agorà dei Giovani"
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Pentecoste"
 
+video : 
 identificatore : "luce_di_verita"
 data_revisione : "2011-12-31"
 ---

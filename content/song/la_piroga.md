@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "La piroga"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_piroga"
 data_revisione : "2012-11-28"
 ---

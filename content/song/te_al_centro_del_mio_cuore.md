@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Te al centro del mio cuore"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "te_al_centro_del_mio_cuore"
 data_revisione : "2011-12-31"
 ---

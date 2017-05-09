@@ -1,7 +1,7 @@
 ---
 date : "2013-07-08"
 title : "Celebrate"
-tags : 
+autori : 
   - "Marranzino, de Luca"
 
 album : "Celebrate"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Lode"
 
+video : 
 identificatore : "celebrate_marranzino"
 data_revisione : "2013-07-08"
 ---

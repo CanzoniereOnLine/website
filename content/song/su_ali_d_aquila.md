@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Su ali d'aquila"
-tags : 
+autori : 
   - "Joncas"
 
 album : "Su ali d'aquila"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Comunione"
 
+video : 
 identificatore : "su_ali_d_aquila"
 data_revisione : "2014-10-01"
 ---

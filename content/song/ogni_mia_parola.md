@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ogni mia parola"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Acclamazione al Vangelo"
 
+video : 
 identificatore : "ogni_mia_parola"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Cantico dei redenti"
-tags : 
+autori : 
   - "Marani"
 
 album : ""
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Comunione"
 
+video : 
 identificatore : "cantico_dei_redenti"
 data_revisione : "2013-12-30"
 ---

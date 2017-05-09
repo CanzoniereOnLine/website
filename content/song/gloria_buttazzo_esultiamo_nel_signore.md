@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria a Dio"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Esultiamo nel Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_buttazzo_esultiamo_nel_signore"
 data_revisione : "2011-12-31"
 ---

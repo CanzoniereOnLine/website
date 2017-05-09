@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia shalom"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_shalom"
 data_revisione : "2011-12-31"
 ---

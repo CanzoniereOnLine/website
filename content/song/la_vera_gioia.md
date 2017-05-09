@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "La vera gioia"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Non di solo pane"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "la_vera_gioia"
 data_revisione : "2011-12-31"
 ---

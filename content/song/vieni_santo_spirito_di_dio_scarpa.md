@@ -1,7 +1,7 @@
 ---
 date : "2014-10-03"
 title : "Vieni, Santo Spirito di Dio"
-tags : 
+autori : 
   - "Scarpa"
 
 album : "Vieni soffio di Dio"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "vieni_santo_spirito_di_dio_scarpa"
 data_revisione : "2014-10-03"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ti offriamo, Signore"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Come in cielo così in terra"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "ti_offriamo_signore"
 data_revisione : "2011-12-31"
 ---

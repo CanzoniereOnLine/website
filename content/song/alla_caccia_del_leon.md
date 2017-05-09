@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Alla caccia del leon"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "alla_caccia_del_leon"
 data_revisione : "2012-10-30"
 ---

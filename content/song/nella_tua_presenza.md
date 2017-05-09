@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Nella Tua presenza"
-tags : 
+autori : 
   - "Ricci"
 
 album : "La Tua dimore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "nella_tua_presenza"
 data_revisione : "2014-09-30"
 ---

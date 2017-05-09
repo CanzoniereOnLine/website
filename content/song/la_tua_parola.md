@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "La Tua parola"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Acclamazione al Vangelo"
   - "Ritornelli"
 
+video : 
 identificatore : "la_tua_parola"
 data_revisione : "2012-01-11"
 ---

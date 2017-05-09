@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alza i tuoi occhi al cielo"
-tags : 
+autori : 
   - "Branca, Ciancio"
 
 album : "Sentieri di speranza"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Pasqua"
 
+video : 
 identificatore : "alza_i_tuoi_occhi_al_cielo"
 data_revisione : "2011-12-31"
 ---

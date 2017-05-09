@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Alleluia Passeranno i cieli"
-tags : 
+autori : 
   - "Costa, Varnavà"
 
 album : "Canti Cristiani"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_passeranno_i_cieli"
 data_revisione : "2013-12-30"
 ---

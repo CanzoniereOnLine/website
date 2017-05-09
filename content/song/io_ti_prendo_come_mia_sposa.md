@@ -1,7 +1,7 @@
 ---
 date : "2012-06-24"
 title : "Io ti prendo come mia sposa"
-tags : 
+autori : 
   - "Claudio Baglioni"
 
 album : "Questo piccolo grande amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "io_ti_prendo_come_mia_sposa"
 data_revisione : "2012-06-24"
 ---

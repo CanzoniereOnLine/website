@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Salve Regina"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "salve_regina_gen"
 data_revisione : "2011-12-31"
 ---

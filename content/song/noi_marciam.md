@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Noi marciam"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "noi_marciam"
 data_revisione : "2012-11-28"
 ---

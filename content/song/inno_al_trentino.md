@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Inno al Trentino"
-tags : 
+autori : 
   - "Ernestina Bittanti Battisti, Bussoli"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "inno_al_trentino"
 data_revisione : "2012-10-30"
 ---

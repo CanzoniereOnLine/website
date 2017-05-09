@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È l'incontro della vita"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'incontro della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "e_l_incontro_della_vita"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-05-05"
 title : "Frutto della nostra terra"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Sorgente di unità"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "frutto_della_nostra_terra"
 data_revisione : "2013-05-05"
 ---

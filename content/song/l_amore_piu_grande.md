@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "L'amore più grande"
-tags : 
+autori : 
   - "Galliano, Anselmi"
 
 album : "Aprite le porte a Cristo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_amore_piu_grande"
 data_revisione : "2014-09-30"
 ---

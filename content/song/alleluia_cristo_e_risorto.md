@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Cristo è risorto"
-tags : 
+autori : 
   - "Auricchio"
 
 album : "Alleluia è risorto"
@@ -16,6 +16,7 @@ momenti :
   - "Alleluia"
   - "Pasqua"
 
+video : 
 identificatore : "alleluia_cristo_e_risorto"
 data_revisione : "2011-12-31"
 ---

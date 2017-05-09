@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Farewell"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "farewell"
 data_revisione : "2012-10-30"
 ---

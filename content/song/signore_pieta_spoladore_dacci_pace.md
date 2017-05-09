@@ -1,7 +1,7 @@
 ---
 date : "2012-11-01"
 title : "Kyrie"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Signore pietà"
 
+video : 
 identificatore : "signore_pieta_spoladore_dacci_pace"
 data_revisione : "2012-11-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Padre nostro"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Camminiamo nella speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Padre nostro"
 
+video : 
 identificatore : "padre_nostro_giombini"
 data_revisione : "2011-12-31"
 ---

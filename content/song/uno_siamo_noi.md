@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Uno siamo noi"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "uno_siamo_noi"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "Sei il mio pastore"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "sei_il_mio_pastore"
 data_revisione : "2012-01-11"
 ---

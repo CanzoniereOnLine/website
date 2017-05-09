@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "L'ultimo canto di Akela"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_ultimo_canto_di_akela"
 data_revisione : "2012-11-28"
 ---

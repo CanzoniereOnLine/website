@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Questa famiglia"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Salmi per il nostro tempo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "questa_famiglia"
 data_revisione : "2011-12-31"
 ---

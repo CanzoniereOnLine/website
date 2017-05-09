@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Maranathà"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Non temere"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Avvento"
 
+video : 
 identificatore : "maranatha_frisina"
 data_revisione : "2014-09-30"
 ---

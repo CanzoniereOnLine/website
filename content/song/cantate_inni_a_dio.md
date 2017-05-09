@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantate inni a Dio"
-tags : 
+autori : 
   - "Morrone, Altieri"
 
 album : "Vittoria"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "cantate_inni_a_dio"
 data_revisione : "2011-12-31"
 ---

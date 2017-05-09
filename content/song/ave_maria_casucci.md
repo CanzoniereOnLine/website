@@ -1,7 +1,7 @@
 ---
 date : "2012-09-01"
 title : "Ave Maria"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "ave_maria_casucci"
 data_revisione : "2012-09-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Santo"
-tags : 
+autori : 
   - "Paolo Sartore"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_santo_santo_e_il_signor"
 data_revisione : "2013-12-31"
 ---

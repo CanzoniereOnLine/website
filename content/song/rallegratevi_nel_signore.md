@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Rallegratevi nel Signore"
-tags : 
+autori : 
   - "Colucci"
 
 album : "Nelle tue mani"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "rallegratevi_nel_signore"
 data_revisione : "2011-12-31"
 ---

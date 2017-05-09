@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Se avessi mai commesso"
-tags : 
+autori : 
   - "S. Teresa di Lisieux"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "se_avessi_mai_commesso"
 data_revisione : "2013-12-31"
 ---

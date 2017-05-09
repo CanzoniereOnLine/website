@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Riuniti nel suo nome"
-tags : 
+autori : 
   - "Zardini"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "riuniti_nel_suo_nome"
 data_revisione : "2011-12-31"
 ---

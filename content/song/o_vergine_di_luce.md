@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "O vergine di luce"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "o_vergine_di_luce"
 data_revisione : "2012-11-28"
 ---

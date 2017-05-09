@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Andate per le strade"
-tags : 
+autori : 
   - "Roncari, Capello"
 
 album : "Tener viva la speranza"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Missione"
 
+video : 
 identificatore : "andate_per_le_strade"
 data_revisione : "2013-12-30"
 ---

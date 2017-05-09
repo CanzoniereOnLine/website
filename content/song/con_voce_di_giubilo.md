@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Con voce di giubilo"
-tags : 
+autori : 
   - "Cento"
 
 album : "Eucaristia sul mondo"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "con_voce_di_giubilo"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Mi pensamiento"
-tags : 
+autori : 
   - "Com. de Dios"
 
 album : "RnS 209"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "mi_pensamiento"
 data_revisione : "2011-12-31"
 ---

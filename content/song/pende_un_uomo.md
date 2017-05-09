@@ -1,7 +1,7 @@
 ---
 date : "2014-01-02"
 title : "Pende un uomo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "pende_un_uomo"
 data_revisione : "2014-01-02"
 ---

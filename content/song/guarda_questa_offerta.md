@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Guarda questa offerta"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "guarda_questa_offerta"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Santo Zaire"
-tags : 
+autori : 
   - ""
 
 album : "Guarda al di là"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_zaire"
 data_revisione : "2014-09-30"
 ---

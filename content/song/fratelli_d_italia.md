@@ -1,7 +1,7 @@
 ---
 date : "2012-12-14"
 title : "Fratelli d'Italia"
-tags : 
+autori : 
   - "Goffredo Mameli, Michele Novaro"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "fratelli_d_italia"
 data_revisione : "2012-12-14"
 ---

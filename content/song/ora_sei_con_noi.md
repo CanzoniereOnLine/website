@@ -1,7 +1,7 @@
 ---
 date : "2013-01-29"
 title : "Ora sei con noi"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Il Dio della Gioia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "ora_sei_con_noi"
 data_revisione : "2013-01-29"
 ---

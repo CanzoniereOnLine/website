@@ -1,7 +1,7 @@
 ---
 date : "2013-08-20"
 title : "Brandalena"
-tags : 
+autori : 
   - "Daniele,PMS, Teolo, FranR, FranM, FranE"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "brandalena"
 data_revisione : "2013-08-20"
 ---

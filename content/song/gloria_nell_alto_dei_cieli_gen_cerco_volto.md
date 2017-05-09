@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria nell'alto dei cieli"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_nell_alto_dei_cieli_gen_cerco_volto"
 data_revisione : "2011-12-31"
 ---

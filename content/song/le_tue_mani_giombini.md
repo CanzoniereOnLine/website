@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Le tue mani"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Camminiamo nella speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "le_tue_mani_giombini"
 data_revisione : "2014-09-30"
 ---

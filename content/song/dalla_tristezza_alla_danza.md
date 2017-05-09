@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dalla tristezza alla danza"
-tags : 
+autori : 
   - "Walker"
 
 album : "Risplendi Gerusalemme"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Salmi"
 
+video : 
 identificatore : "dalla_tristezza_alla_danza"
 data_revisione : "2011-12-31"
 ---

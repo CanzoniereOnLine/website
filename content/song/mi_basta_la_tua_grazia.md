@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Mi basta la tua grazia"
-tags : 
+autori : 
   - "Sanfratello, Cucuzza"
 
 album : "Parola d'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "mi_basta_la_tua_grazia"
 data_revisione : "2011-12-31"
 ---

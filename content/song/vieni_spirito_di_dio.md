@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vieni spirito di Dio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "vieni_spirito_di_dio"
 data_revisione : "2011-12-31"
 ---

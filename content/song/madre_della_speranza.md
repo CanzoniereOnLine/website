@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Madre della speranza"
-tags : 
+autori : 
   - "Bizzeti"
 
 album : "Vorrei amare"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "madre_della_speranza"
 data_revisione : "2011-12-31"
 ---

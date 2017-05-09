@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Si accende una luce"
-tags : 
+autori : 
   - "Rohr, Fant"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Avvento"
 
+video : 
 identificatore : "si_accende_una_luce"
 data_revisione : "2014-10-01"
 ---

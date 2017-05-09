@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "In manus tuas pater"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "in_manus_tuas_pater"
 data_revisione : "2011-12-31"
 ---

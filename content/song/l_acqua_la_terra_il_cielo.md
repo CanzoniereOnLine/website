@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "L'acqua la terra il cielo"
-tags : 
+autori : 
   - "Caruso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "l_acqua_la_terra_il_cielo"
 data_revisione : "2014-09-30"
 ---

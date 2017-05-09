@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Santo"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_gen_verde_e_bello_lodarti"
 data_revisione : "2014-09-30"
 ---

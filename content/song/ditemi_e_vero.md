@@ -1,7 +1,7 @@
 ---
 date : "2012-08-26"
 title : "Ditemi è vero"
-tags : 
+autori : 
   - "Pasquale Lamanna"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "ditemi_e_vero"
 data_revisione : "2012-08-26"
 ---

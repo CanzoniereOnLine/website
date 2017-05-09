@@ -1,7 +1,7 @@
 ---
 date : "2012-11-05"
 title : "Come sole come goccia"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "come_sole_come_goccia"
 data_revisione : "2012-11-05"
 ---

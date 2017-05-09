@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Davanti a questo amore"
-tags : 
+autori : 
   - "De Luca, Marranzino, Conte"
 
 album : "Risorto per amore"
@@ -16,6 +16,7 @@ momenti :
   - "Pasqua"
   - "Comunione"
 
+video : 
 identificatore : "davanti_a_questo_amore"
 data_revisione : "2011-12-31"
 ---

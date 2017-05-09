@@ -1,7 +1,7 @@
 ---
 date : "2013-01-16"
 title : "Canto delle Branche"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_delle_branche"
 data_revisione : "2013-01-16"
 ---

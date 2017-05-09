@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Madre del cielo"
-tags : 
+autori : 
   - "Hermana Glenda"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "madre_del_cielo"
 data_revisione : "2011-12-31"
 ---

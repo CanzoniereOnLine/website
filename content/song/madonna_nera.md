@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Madonna nera"
-tags : 
+autori : 
   - "Bagniewski"
 
 album : "In attesa dell'alba"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "madonna_nera"
 data_revisione : "2014-09-30"
 ---

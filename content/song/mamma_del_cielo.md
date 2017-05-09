@@ -1,7 +1,7 @@
 ---
 date : "2012-07-02"
 title : "Mamma del cielo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "mamma_del_cielo"
 data_revisione : "2012-07-02"
 ---

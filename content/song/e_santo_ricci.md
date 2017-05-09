@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È santo"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Il Dio della gioia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "e_santo_ricci"
 data_revisione : "2011-12-31"
 ---

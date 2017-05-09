@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Perché la vostra gioia sia piena"
-tags : 
+autori : 
   - "Valoppi"
 
 album : "MGS Triveneto, Festa dei Giovani 2004"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "perche_la_vostra_gioia"
 data_revisione : "2011-12-31"
 ---

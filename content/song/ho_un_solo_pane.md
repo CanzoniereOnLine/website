@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Ho solo un pane"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ho_un_solo_pane"
 data_revisione : "2012-11-28"
 ---

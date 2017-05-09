@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Custodiscimi"
-tags : 
+autori : 
   - "Chemin Neuf"
 
 album : "Davati al re"
@@ -16,6 +16,7 @@ momenti :
   - "Quaresima"
   - "Salmi"
 
+video : 
 identificatore : "custodiscimi"
 data_revisione : "2011-12-31"
 ---

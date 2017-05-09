@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "Francesco vai"
-tags : 
+autori : 
   - "Bizzeti"
 
 album : "Vorrei amare"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "francesco_vai"
 data_revisione : "2014-09-20"
 ---

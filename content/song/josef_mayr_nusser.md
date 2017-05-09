@@ -1,7 +1,7 @@
 ---
 date : "2013-07-15"
 title : "Josef Mayr-Nusser"
-tags : 
+autori : 
   - "Diego Paul Baruffaldi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "josef_mayr_nusser"
 data_revisione : "2013-07-15"
 ---

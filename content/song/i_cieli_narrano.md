@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "I cieli narrano"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "i_cieli_narrano"
 data_revisione : "2011-12-31"
 ---

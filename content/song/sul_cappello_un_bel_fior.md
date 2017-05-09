@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Sul cappello un bel fior"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sul_cappello_un_bel_fior"
 data_revisione : "2012-11-28"
 ---

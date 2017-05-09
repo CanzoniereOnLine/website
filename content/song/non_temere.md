@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Non temere"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Non temere"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "non_temere"
 data_revisione : "2011-12-31"
 ---

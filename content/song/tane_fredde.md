@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Tane fredde"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "tane_fredde"
 data_revisione : "2012-11-28"
 ---

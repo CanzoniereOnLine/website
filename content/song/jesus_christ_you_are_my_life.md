@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Jesus Christ you are my life"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Jesus is my life"
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Lode"
 
+video : 
 identificatore : "jesus_christ_you_are_my_life"
 data_revisione : "2011-12-31"
 ---

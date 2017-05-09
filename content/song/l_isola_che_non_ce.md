@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "L'isola che non c'è"
-tags : 
+autori : 
   - "Edoardo Bennato"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_isola_che_non_ce"
 data_revisione : "2012-04-03"
 ---

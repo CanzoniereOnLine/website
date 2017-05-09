@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Benedici"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Così"
@@ -16,6 +16,7 @@ momenti :
   - "Offertorio"
   - "Comunione"
 
+video : 
 identificatore : "benedici_spoladore"
 data_revisione : "2011-12-31"
 ---

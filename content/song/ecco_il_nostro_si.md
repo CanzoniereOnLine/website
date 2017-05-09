@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ecco il nostro sì"
-tags : 
+autori : 
   - "Fossi"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Maria"
   - "Vocazione"
 
+video : 
 identificatore : "ecco_il_nostro_si"
 data_revisione : "2011-12-31"
 ---

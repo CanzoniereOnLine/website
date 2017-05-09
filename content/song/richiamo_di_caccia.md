@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Richiamo di caccia"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "richiamo_di_caccia"
 data_revisione : "2012-11-28"
 ---

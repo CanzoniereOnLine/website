@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Scende la sera"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Prime pagine"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "scende_la_sera"
 data_revisione : "2011-12-31"
 ---

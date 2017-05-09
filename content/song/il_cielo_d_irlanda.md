@@ -1,7 +1,7 @@
 ---
 date : "2012-09-24"
 title : "Il cielo d'Irlanda"
-tags : 
+autori : 
   - "Fiorella Mannoia"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_cielo_d_irlanda"
 data_revisione : "2012-09-24"
 ---

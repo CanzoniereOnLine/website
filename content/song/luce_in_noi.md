@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Luce in noi"
-tags : 
+autori : 
   - "Buttazzo, Beltrami"
 
 album : "Esultiamo nel Signore"
@@ -16,6 +16,7 @@ momenti :
   - "Parola"
   - "Lode"
 
+video : 
 identificatore : "luce_in_noi"
 data_revisione : "2011-12-31"
 ---

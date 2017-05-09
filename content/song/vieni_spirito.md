@@ -1,7 +1,7 @@
 ---
 date : "2013-08-20"
 title : "Vieni Spirito"
-tags : 
+autori : 
   - "Comunità di Spello"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Pentecoste"
 
+video : 
 identificatore : "vieni_spirito"
 data_revisione : "2013-08-20"
 ---

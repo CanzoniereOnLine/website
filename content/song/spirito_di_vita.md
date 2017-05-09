@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Spirito di vita"
-tags : 
+autori : 
   - "Lucadello"
 
 album : ""
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Pentecoste"
 
+video : 
 identificatore : "spirito_di_vita"
 data_revisione : "2011-12-31"
 ---

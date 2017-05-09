@@ -1,7 +1,7 @@
 ---
 date : "2014-10-03"
 title : "Venite fedeli"
-tags : 
+autori : 
   - "Stefani, Wade"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "venite_fedeli"
 data_revisione : "2014-10-03"
 ---

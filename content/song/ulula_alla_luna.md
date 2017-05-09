@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Ulula alla luna"
-tags : 
+autori : 
   - "Roberto Buffa"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ulula_alla_luna"
 data_revisione : "2012-06-23"
 ---

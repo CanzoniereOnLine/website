@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Come è bello, come dà gioia"
-tags : 
+autori : 
   - "Marciani"
 
 album : "Dio della mia lode"
@@ -17,6 +17,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "come_e_bello_come_da_gioia"
 data_revisione : "2011-12-31"
 ---

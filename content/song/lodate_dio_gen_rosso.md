@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lodate Dio"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Dove Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "lodate_dio_gen_rosso"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Pane della vita"
-tags : 
+autori : 
   - "Tranchida"
 
 album : "Con voci di gioia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "pane_della_vita_tranchida"
 data_revisione : "2014-09-30"
 ---

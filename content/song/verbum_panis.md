@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Verbum panis"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "verbum_panis"
 data_revisione : "2011-12-31"
 ---

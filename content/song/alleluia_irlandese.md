@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia irlandese"
-tags : 
+autori : 
   - "Carrol, Lecot"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Alleluia"
   - "Natale"
 
+video : 
 identificatore : "alleluia_irlandese"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-11-05"
 title : "Canto della promessa"
-tags : 
+autori : 
   - "Sevin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_della_promessa"
 data_revisione : "2012-11-05"
 ---

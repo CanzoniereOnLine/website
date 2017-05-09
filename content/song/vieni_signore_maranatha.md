@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vieni, Signore, Maranathà"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "vieni_signore_maranatha"
 data_revisione : "2011-12-31"
 ---

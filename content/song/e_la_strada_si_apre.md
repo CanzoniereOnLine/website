@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "E la strada si apre"
-tags : 
+autori : 
   - "Gen Arcobaleno"
 
 album : "E la strada si apre"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "e_la_strada_si_apre"
 data_revisione : "2011-12-31"
 ---

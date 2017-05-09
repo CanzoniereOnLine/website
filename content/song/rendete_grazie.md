@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Rendete grazie"
-tags : 
+autori : 
   - "Smith"
 
 album : "Come Davide"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ringraziamento"
 
+video : 
 identificatore : "rendete_grazie"
 data_revisione : "2011-12-31"
 ---

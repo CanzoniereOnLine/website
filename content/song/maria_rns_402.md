@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Maria"
-tags : 
+autori : 
   - "Pecoraro, De Filippis"
 
 album : "Voglio vedere il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "maria_rns_402"
 data_revisione : "2011-12-31"
 ---

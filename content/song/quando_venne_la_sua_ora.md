@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Quando venne la sua ora"
-tags : 
+autori : 
   - "Machetta"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pasqua"
 
+video : 
 identificatore : "quando_venne_la_sua_ora"
 data_revisione : "2011-12-31"
 ---

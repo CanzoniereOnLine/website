@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Magnifica il Signore"
-tags : 
+autori : 
   - "Amadei"
 
 album : "La nostra festa è Cristo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Magnificat"
 
+video : 
 identificatore : "magnifica_il_signore"
 data_revisione : "2011-12-31"
 ---

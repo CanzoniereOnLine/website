@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Have the B.P. spirit"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "have_the_bp_spirit"
 data_revisione : "2012-11-28"
 ---

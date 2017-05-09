@@ -1,7 +1,7 @@
 ---
 date : "2014-07-03}"
 title : "Per fare festa con te}"
-tags : 
+autori : 
   - "B. Uberti F. Bentivoglio}"
 
 album : "Tu sei Luce}"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "}"
 
+video : 
 identificatore : "per_fare_festa_con_te}"
 data_revisione : "2014-07-03}"
 ---

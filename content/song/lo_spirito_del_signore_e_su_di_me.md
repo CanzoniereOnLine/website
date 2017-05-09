@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lo Spirito del Signore è su di me"
-tags : 
+autori : 
   - "Comi"
 
 album : "Preghiera di un povero"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "lo_spirito_del_signore_e_su_di_me"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Con un cuore solo"
-tags : 
+autori : 
   - "Ferrante"
 
 album : "Sentieri di speranza"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "con_un_cuore_solo"
 data_revisione : "2011-12-31"
 ---

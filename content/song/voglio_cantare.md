@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Voglio cantare"
-tags : 
+autori : 
   - "Milan"
 
 album : ""
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Salmi"
 
+video : 
 identificatore : "voglio_cantare"
 data_revisione : "2011-12-31"
 ---

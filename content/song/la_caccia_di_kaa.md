@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "La caccia di Kaa"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_caccia_di_kaa"
 data_revisione : "2012-06-23"
 ---

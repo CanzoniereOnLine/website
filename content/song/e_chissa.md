@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "E chissà"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Inno di ``Ponti e Arcobaleni'' - incontro nazionale del settore giovani di AC, Roma 1997"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_chissa"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Magnificat"
-tags : 
+autori : 
   - "Castaldi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Magnificat"
 
+video : 
 identificatore : "magnificat_castaldi"
 data_revisione : "2014-09-30"
 ---

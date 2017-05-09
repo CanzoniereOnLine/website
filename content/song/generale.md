@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Generale"
-tags : 
+autori : 
   - "Francesco De Gregori"
 
 album : "De Gregori"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "generale"
 data_revisione : "2012-04-03"
 ---

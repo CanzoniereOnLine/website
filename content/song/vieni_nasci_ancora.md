@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vieni nasci ancora"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Venne nel mondo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "vieni_nasci_ancora"
 data_revisione : "2011-12-31"
 ---

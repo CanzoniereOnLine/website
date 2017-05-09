@@ -1,7 +1,7 @@
 ---
 date : "2013-07-15"
 title : "Benedicat"
-tags : 
+autori : 
   - "Siro Merlo"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "benedicat_antoniano"
 data_revisione : "2013-07-15"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Beati quelli che ascoltano"
-tags : 
+autori : 
   - "Bonfitto"
 
 album : "Sei grande nell'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Parola"
 
+video : 
 identificatore : "beati_quelli_che_ascoltano"
 data_revisione : "2011-12-31"
 ---

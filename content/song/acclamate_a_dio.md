@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Acclamate a Dio"
-tags : 
+autori : 
   - "Attinà, Zunino"
 
 album : "Ad una voce"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Salmi"
 
+video : 
 identificatore : "acclamate_a_dio"
 data_revisione : "2011-12-31"
 ---

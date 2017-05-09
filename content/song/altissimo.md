@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Altissimo"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Unanima"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "San Francesco"
 
+video : 
 identificatore : "altissimo"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-05-02"
 title : "Sette note uno spirito"
-tags : 
+autori : 
   - "Giosy Cento"
 
 album : "Dio di frontiera"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "sette_note_uno_spirito"
 data_revisione : "2013-05-02"
 ---

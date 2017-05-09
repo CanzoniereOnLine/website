@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Hey ma'"
-tags : 
+autori : 
   - "Gino Paoli"
 
 album : "L'ufficio delle cose perdute"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "hey_ma"
 data_revisione : "2012-04-03"
 ---

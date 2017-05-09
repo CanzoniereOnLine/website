@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ed ho la gioia nel cuore"
-tags : 
+autori : 
   - "Popolare"
 
 album : "Sempre canterò"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ed_ho_la_gioia_nel_cuore"
 data_revisione : "2011-12-31"
 ---

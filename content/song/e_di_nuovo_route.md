@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "È di nuovo route"
-tags : 
+autori : 
   - "Francesco Brandi"
 
 album : "Dare to share"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "e_di_nuovo_route"
 data_revisione : "2012-06-23"
 ---

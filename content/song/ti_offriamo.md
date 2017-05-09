@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ti offriamo"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Gratitudine"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "ti_offriamo"
 data_revisione : "2011-12-31"
 ---

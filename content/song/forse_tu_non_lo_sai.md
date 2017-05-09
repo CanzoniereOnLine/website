@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Forse tu non lo sai"
-tags : 
+autori : 
   - "Michele Nicoletti, Maria Videsott"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "forse_tu_non_lo_sai"
 data_revisione : "2012-11-04"
 ---

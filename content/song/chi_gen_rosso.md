@@ -1,7 +1,7 @@
 ---
 date : "2012-06-13"
 title : "Chi"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "In concerto per la pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "chi_gen_rosso"
 data_revisione : "2012-06-13"
 ---

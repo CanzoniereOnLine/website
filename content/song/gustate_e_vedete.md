@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gustate e vedete"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Pane di vita nuova"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "gustate_e_vedete"
 data_revisione : "2011-12-31"
 ---

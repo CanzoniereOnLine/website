@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gloria a Dio"
-tags : 
+autori : 
   - "Mariano"
 
 album : "Venite a me"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Gloria"
 
+video : 
 identificatore : "gloria_a_dio_mariano"
 data_revisione : "2011-12-31"
 ---

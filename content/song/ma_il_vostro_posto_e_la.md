@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Ma il vostro posto è là"
-tags : 
+autori : 
   - "Chieffo"
 
 album : "La tenda"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ma_il_vostro_posto_e_la"
 data_revisione : "2014-09-30"
 ---

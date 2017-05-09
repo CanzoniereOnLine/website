@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Sentiam nella foresta"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sentiam_nella_foresta"
 data_revisione : "2012-11-28"
 ---

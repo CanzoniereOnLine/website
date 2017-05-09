@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Bless the lord my soul"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "bless_the_lord"
 data_revisione : "2011-12-31"
 ---

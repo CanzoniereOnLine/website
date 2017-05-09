@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Bonum est confidere"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "bonum_est_confidere"
 data_revisione : "2011-12-31"
 ---

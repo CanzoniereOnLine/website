@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Il grido del pheeal"
-tags : 
+autori : 
   - "Roberto Buffa"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_grido_del_pheeal"
 data_revisione : "2012-06-23"
 ---

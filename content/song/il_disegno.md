@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il disegno"
-tags : 
+autori : 
   - "Marani"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "il_disegno"
 data_revisione : "2011-12-31"
 ---

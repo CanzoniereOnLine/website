@@ -1,7 +1,7 @@
 ---
 date : "2013-01-16"
 title : "Addio lupetto"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "addio_lupetto"
 data_revisione : "2013-01-16"
 ---

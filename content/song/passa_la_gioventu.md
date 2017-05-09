@@ -1,7 +1,7 @@
 ---
 date : "2012-12-05"
 title : "Passa la gioventù"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "passa_la_gioventu"
 data_revisione : "2012-12-05"
 ---

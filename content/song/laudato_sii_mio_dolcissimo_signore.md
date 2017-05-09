@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Laudato sii mio dolcissimo Signore"
-tags : 
+autori : 
   - "Gualano"
 
 album : "Nel saio di Francesco"
@@ -16,6 +16,7 @@ momenti :
   - "Lode"
   - "San Francesco"
 
+video : 
 identificatore : "laudato_sii_mio_dolcissimo_signore"
 data_revisione : "2011-12-31"
 ---

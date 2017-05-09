@@ -1,7 +1,7 @@
 ---
 date : "2012-11-03"
 title : "La strada"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_strada_gaber"
 data_revisione : "2012-11-03"
 ---

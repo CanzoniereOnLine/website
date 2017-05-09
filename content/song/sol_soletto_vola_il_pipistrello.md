@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Sol, soletto vola il pipistrello"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sol_soletto_vola_il_pipistrello"
 data_revisione : "2012-11-28"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-10-08"
 title : "Baba Yetu"
-tags : 
+autori : 
   - "Christopher Tin"
 
 album : "Civilization IV Soundtrack"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "baba_yetu"
 data_revisione : "2012-10-08"
 ---

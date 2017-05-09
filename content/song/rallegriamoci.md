@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Rallegriamoci"
-tags : 
+autori : 
   - "Auricchio"
 
 album : "Gloria all'Emmanuele"
@@ -17,6 +17,7 @@ momenti :
   - "Congedo"
   - "Natale"
 
+video : 
 identificatore : "rallegriamoci"
 data_revisione : "2014-09-30"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Noi crediamo in te"
-tags : 
+autori : 
   - "Branca, Ciancio"
 
 album : "Sentieri di speranza"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "noi_crediamo_in_te_rns"
 data_revisione : "2011-12-31"
 ---

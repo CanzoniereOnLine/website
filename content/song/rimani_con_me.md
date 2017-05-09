@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Rimani con me"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "rimani_con_me"
 data_revisione : "2014-09-30"
 ---

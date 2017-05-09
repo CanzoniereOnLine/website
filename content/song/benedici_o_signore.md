@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Benedici, o Signore"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "benedici_o_signore"
 data_revisione : "2013-12-30"
 ---

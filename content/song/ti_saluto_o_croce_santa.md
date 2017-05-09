@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Ti saluto o croce santa"
-tags : 
+autori : 
   - "Gazzera, Damilano"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Quaresima"
 
+video : 
 identificatore : "ti_saluto_o_croce_santa"
 data_revisione : "2014-10-01"
 ---

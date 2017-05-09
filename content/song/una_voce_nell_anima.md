@@ -1,7 +1,7 @@
 ---
 date : "2013-07-15"
 title : "Una voce nell'anima"
-tags : 
+autori : 
   - "Lacchin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "una_voce_nell_anima"
 data_revisione : "2013-07-15"
 ---

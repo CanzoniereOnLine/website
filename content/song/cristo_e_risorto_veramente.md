@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cristo è risorto veramente"
-tags : 
+autori : 
   - "Giottoli"
 
 album : "Risorto per amore"
@@ -17,6 +17,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "cristo_e_risorto_veramente"
 data_revisione : "2011-12-31"
 ---

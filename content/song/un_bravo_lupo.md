@@ -1,7 +1,7 @@
 ---
 date : "2012-06-23"
 title : "Un bravo lupo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "un_bravo_lupo"
 data_revisione : "2012-06-23"
 ---

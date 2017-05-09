@@ -1,7 +1,7 @@
 ---
 date : "2012-03-30"
 title : "Agnello di Dio"
-tags : 
+autori : 
   - "Baggio"
 
 album : "Messa dei popoli"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Agnello di Dio"
 
+video : 
 identificatore : "agnello_di_dio_baggio_messa_dei_popoli"
 data_revisione : "2012-03-30"
 ---

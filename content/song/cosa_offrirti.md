@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cosa offrirti"
-tags : 
+autori : 
   - "Branca, Ciancio"
 
 album : "Voglio vedere il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "cosa_offrirti"
 data_revisione : "2011-12-31"
 ---

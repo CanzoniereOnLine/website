@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Se il chicco di frumento"
-tags : 
+autori : 
   - "Machetta"
 
 album : "Una voce che ti cerca"
@@ -16,6 +16,7 @@ momenti :
   - "Offertorio"
   - "Quaresima"
 
+video : 
 identificatore : "se_il_chicco_di_frumento"
 data_revisione : "2011-12-31"
 ---

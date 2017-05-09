@@ -1,7 +1,7 @@
 ---
 date : "2012-12-14"
 title : "La Madonina"
-tags : 
+autori : 
   - "Varner, Moser"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_madonina"
 data_revisione : "2012-12-14"
 ---

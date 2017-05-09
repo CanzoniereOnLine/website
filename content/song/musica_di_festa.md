@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Musica di festa"
-tags : 
+autori : 
   - "Sands, Jotti"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "musica_di_festa"
 data_revisione : "2014-09-30"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canterò per Te"
-tags : 
+autori : 
   - "Fanelli"
 
 album : "Non spegnere l'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "cantero_per_te"
 data_revisione : "2011-12-31"
 ---

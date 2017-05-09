@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Benedetto sei Tu"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Gen Verde"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "benedetto_sei_tu_gen"
 data_revisione : "2011-12-31"
 ---

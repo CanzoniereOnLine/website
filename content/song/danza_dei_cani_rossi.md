@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Danza dei cani rossi"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "danza_dei_cani_rossi"
 data_revisione : "2012-11-28"
 ---

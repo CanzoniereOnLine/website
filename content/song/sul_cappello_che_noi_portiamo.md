@@ -1,7 +1,7 @@
 ---
 date : "2012-10-31"
 title : "Sul cappello che noi portiamo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sul_cappello_che_noi_portiamo"
 data_revisione : "2012-10-31"
 ---

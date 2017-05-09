@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Al di là di noi"
-tags : 
+autori : 
   - "Meregalli"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Congedo"
   - "Missione"
 
+video : 
 identificatore : "al_di_la_di_noi"
 data_revisione : "2011-12-31"
 ---

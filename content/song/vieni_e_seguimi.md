@@ -1,7 +1,7 @@
 ---
 date : "2012-03-03"
 title : "Vieni e seguimi"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "vieni_e_seguimi"
 data_revisione : "2012-03-03"
 ---

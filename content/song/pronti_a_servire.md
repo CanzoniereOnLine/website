@@ -1,7 +1,7 @@
 ---
 date : "2015-06-10"
 title : "Pronti a servire"
-tags : 
+autori : 
   - "Giorgio Prada"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "pronti_a_servire"
 data_revisione : "2015-06-10"
 ---

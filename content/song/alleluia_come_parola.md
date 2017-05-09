@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Alleluia, come parola"
-tags : 
+autori : 
   - "Paolo Sartore"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_come_parola"
 data_revisione : "2013-12-30"
 ---

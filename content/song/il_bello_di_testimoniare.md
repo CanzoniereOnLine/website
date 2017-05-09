@@ -1,7 +1,7 @@
 ---
 date : "2014-01-22"
 title : "Il bello di testimoniare"
-tags : 
+autori : 
   - "Clan Garolo1"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_bello_di_testimoniare"
 data_revisione : "2014-01-22"
 ---

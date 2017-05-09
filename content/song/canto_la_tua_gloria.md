@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Canto la tua gloria"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Salmi per il nostro tempo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "canto_la_tua_gloria"
 data_revisione : "2011-12-31"
 ---

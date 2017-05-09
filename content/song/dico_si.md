@@ -1,7 +1,7 @@
 ---
 date : "2012-03-29"
 title : "Dico sì"
-tags : 
+autori : 
   - "Baggio"
 
 album : "Una storia d'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "dico_si"
 data_revisione : "2012-03-29"
 ---

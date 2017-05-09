@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "La pace sia con te"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "la_pace_sia_con_te"
 data_revisione : "2011-12-31"
 ---

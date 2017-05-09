@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Ti ringrazio o mio Signore"
-tags : 
+autori : 
   - "Gabarain"
 
 album : "Ammira e ringrazia"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "ti_ringrazio_o_mio_signore_gabarain"
 data_revisione : "2014-10-01"
 ---

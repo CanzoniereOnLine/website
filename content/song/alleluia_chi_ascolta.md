@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia Chi ascolta"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_chi_ascolta"
 data_revisione : "2011-12-31"
 ---

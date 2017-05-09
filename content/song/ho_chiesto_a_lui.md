@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ho chiesto a Lui"
-tags : 
+autori : 
   - "Scaglianti, Stookey"
 
 album : "Cammina con noi"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "ho_chiesto_a_lui"
 data_revisione : "2011-12-31"
 ---

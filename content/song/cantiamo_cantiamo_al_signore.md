@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Cantiamo, cantiamo al Signore"
-tags : 
+autori : 
   - "Cioffi"
 
 album : "Una terra buona"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "cantiamo_cantiamo_al_signore"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Effonderò il mio Spirito"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -16,6 +16,7 @@ momenti :
   - "Pentecoste"
   - "Ingresso"
 
+video : 
 identificatore : "effondero_il_mio_spirito"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vieni al Signor"
-tags : 
+autori : 
   - "Calisi"
 
 album : "Benedici il Signore"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Quaresima"
 
+video : 
 identificatore : "vieni_al_signor"
 data_revisione : "2011-12-31"
 ---

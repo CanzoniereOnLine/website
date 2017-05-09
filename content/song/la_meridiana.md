@@ -1,7 +1,7 @@
 ---
 date : "2012-10-31"
 title : "La meridiana"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_meridiana"
 data_revisione : "2012-10-31"
 ---

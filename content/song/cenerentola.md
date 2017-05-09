@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Cenerentola"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "cenerentola"
 data_revisione : "2013-12-31"
 ---

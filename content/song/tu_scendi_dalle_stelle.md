@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tu scendi dalle stelle"
-tags : 
+autori : 
   - "Alfonso De' Liguori"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "tu_scendi_dalle_stelle"
 data_revisione : "2011-12-31"
 ---

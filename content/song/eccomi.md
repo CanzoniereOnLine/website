@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Eccomi"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Non temere"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Salmi"
 
+video : 
 identificatore : "eccomi"
 data_revisione : "2011-12-31"
 ---

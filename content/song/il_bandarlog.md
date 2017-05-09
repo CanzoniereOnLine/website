@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Il bandar-log"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_bandarlog"
 data_revisione : "2012-11-28"
 ---

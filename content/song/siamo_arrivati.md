@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Siamo arrivati da mille strade diverse"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Da mille strade"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "siamo_arrivati"
 data_revisione : "2011-12-31"
 ---

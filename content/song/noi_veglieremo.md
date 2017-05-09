@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Noi veglieremo"
-tags : 
+autori : 
   - "Machetta"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Avvento"
 
+video : 
 identificatore : "noi_veglieremo"
 data_revisione : "2011-12-31"
 ---

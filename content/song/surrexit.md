@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Surrexit"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "surrexit"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Al chiaror del mattin"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "al_chiaror_del_mattin"
 data_revisione : "2013-12-31"
 ---

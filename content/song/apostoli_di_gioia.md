@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Apostoli di gioia"
-tags : 
+autori : 
   - ""
 
 album : "Inno Del Giubileo Dei Ragazzi"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "apostoli_di_gioia"
 data_revisione : "2011-12-31"
 ---

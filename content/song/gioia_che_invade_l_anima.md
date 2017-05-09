@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Gioia che invade l'anima"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'incontro della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "gioia_che_invade_l_anima"
 data_revisione : "2011-12-31"
 ---

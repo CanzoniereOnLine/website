@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Giovane donna"
-tags : 
+autori : 
   - "Scaglianti, Bancolini"
 
 album : "Andiamo a Betlemme"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "giovane_donna"
 data_revisione : "2011-12-31"
 ---

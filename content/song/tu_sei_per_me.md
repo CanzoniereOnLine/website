@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tu sei per me"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "tu_sei_per_me"
 data_revisione : "2011-12-31"
 ---

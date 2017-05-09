@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia malgascio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_malgascio"
 data_revisione : "2011-12-31"
 ---

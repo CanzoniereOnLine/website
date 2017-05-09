@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Che gioia ci dà"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Se siamo uniti"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "che_gioia_ci_da"
 data_revisione : "2011-12-31"
 ---

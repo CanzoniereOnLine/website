@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Antica, eterna danza"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Cerco il tuo volto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "antica_eterna_danza"
 data_revisione : "2011-12-31"
 ---

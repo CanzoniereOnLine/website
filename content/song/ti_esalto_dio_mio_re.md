@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ti esalto Dio mio re"
-tags : 
+autori : 
   - "Cavalieri, Uva"
 
 album : "Sempre canterò"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "ti_esalto_dio_mio_re"
 data_revisione : "2011-12-31"
 ---

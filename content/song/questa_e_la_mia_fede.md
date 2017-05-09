@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Questa è la mia fede"
-tags : 
+autori : 
   - "Branca"
 
 album : "Ad una voce"
@@ -16,6 +16,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "questa_e_la_mia_fede"
 data_revisione : "2011-12-31"
 ---

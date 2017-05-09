@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "È più bello insieme"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "Accordi"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "e_piu_bello_insieme"
 data_revisione : "2011-12-31"
 ---

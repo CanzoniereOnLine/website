@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "Camminerò"
-tags : 
+autori : 
   - "Marani, Gen Rosso"
 
 album : "Cantinfesta"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "camminero"
 data_revisione : "2014-09-20"
 ---

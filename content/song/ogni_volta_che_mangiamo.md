@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ogni volta che mangiamo"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Anamnesi"
 
+video : 
 identificatore : "ogni_volta_che_mangiamo"
 data_revisione : "2011-12-31"
 ---

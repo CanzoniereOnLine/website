@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Noi veniamo a Te"
-tags : 
+autori : 
   - "Buttazzo"
 
 album : "Vita nuova con Te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ingresso"
 
+video : 
 identificatore : "noi_veniamo_a_te"
 data_revisione : "2011-12-31"
 ---

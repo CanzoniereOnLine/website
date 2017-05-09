@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace alle genti"
-tags : 
+autori : 
   - "Mariano"
 
 album : "Venite a me"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_alle_genti"
 data_revisione : "2011-12-31"
 ---

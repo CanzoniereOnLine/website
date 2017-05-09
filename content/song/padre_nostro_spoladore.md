@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Padre nostro"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Dacci pace"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Padre nostro}"
 
+video : 
 identificatore : "padre_nostro_spoladore"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Sulla tua parola"
-tags : 
+autori : 
   - "Paci, Varnavà"
 
 album : "Trionferemo, trionferemo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "sulla_tua_parola"
 data_revisione : "2011-12-31"
 ---

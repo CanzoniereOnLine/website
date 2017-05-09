@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lodate Iddio"
-tags : 
+autori : 
   - "Cento"
 
 album : "È il giorno del Signore"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Lode"
 
+video : 
 identificatore : "lodate_iddio"
 data_revisione : "2011-12-31"
 ---

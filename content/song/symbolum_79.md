@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Symbolum ‘79"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "E mi sorprende"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "symbolum_79"
 data_revisione : "2011-12-31"
 ---

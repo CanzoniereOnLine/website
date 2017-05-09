@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Signora della pace"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Così"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "signora_della_pace"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-05-05"
 title : "Cristo pellegrino"
-tags : 
+autori : 
   - "Lacchin"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "cristo_pellegrino"
 data_revisione : "2013-05-05"
 ---

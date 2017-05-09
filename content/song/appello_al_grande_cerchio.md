@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Appello al grande cerchio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "appello_al_grande_cerchio"
 data_revisione : "2013-12-31"
 ---

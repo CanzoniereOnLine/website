@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Osanna al figlio di David"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "osanna_al_figlio_di_david"
 data_revisione : "2011-12-31"
 ---

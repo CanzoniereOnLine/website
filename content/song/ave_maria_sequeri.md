@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Ave Maria"
-tags : 
+autori : 
   - "Sequeri"
 
 album : "Eppure Tu sei qui"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "ave_maria_sequeri"
 data_revisione : "2011-12-31"
 ---

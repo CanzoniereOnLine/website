@@ -1,7 +1,7 @@
 ---
 date : "2012-01-11"
 title : "Restate qui"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Ritornelli"
 
+video : 
 identificatore : "restate_qui"
 data_revisione : "2012-01-11"
 ---

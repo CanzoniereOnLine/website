@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tutta la vita è un dono"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "tutta_la_vita_e_un_dono"
 data_revisione : "2011-12-31"
 ---

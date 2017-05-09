@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Tu sei l'offerta"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "tu_sei_l_offerta"
 data_revisione : "2014-10-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2013-03-16"
 title : "Tu sei"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "tu_sei"
 data_revisione : "2013-03-16"
 ---

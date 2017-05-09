@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Tutta la terra attende"
-tags : 
+autori : 
   - "Baggio"
 
 album : "Maranathà"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "tutta_la_terra_attende"
 data_revisione : "2011-12-31"
 ---

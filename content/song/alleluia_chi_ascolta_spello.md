@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia, chi ascolta"
-tags : 
+autori : 
   - "Comunità di Spello"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_chi_ascolta_spello"
 data_revisione : "2011-12-31"
 ---

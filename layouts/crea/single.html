@@ -1,0 +1,198 @@
+{{ partial "crea/head.html" . }}
+  <body>
+    <div id="blog">
+      {{ partial "header.html" . }}
+      {{ partial "sidebar.html" . }}
+      <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+        class="{{ with .Params.coverimage }}hasCover{{ end }}
+               {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+  
+      <div id="app">
+        <!--HEADER-->
+
+        
+        
+    <div class="row">
+      <div class="col s6">
+      <h6>Cerca e aggiungi le tue canzoni...</h6>
+      <datatable :columns="colonne" :data="elencocanzoni" :pagesize="pagesize" filterable paginate sortable></datatable>
+
+</div>
+        
+    <div class="col s4">
+      <h6>...ordinale...</h6>
+      <a v-on:click="undo">undo</a>
+      <a v-on:click="sort">ordina</a>
+      <ul>
+        <draggable v-model="canzoniere.selezionecanzoni">
+
+        <li v-for="canzone in canzoniere.selezionecanzoni"> 
+          <div class="row">
+            <div class="col s8 move">
+              /{/{canzone.titolo/}/} (in /{/{canzone.tonalita/}/}) <span class="new badge" data-badge-caption=""> /{/{canzone.transpose/}/} </span>
+
+            </div>
+            <div class="col s4">
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose + 1); evento +=1;'><i class="material-icons">add</i></a></span>
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose - 1); evento +=1;'><i class="material-icons">remove</i></a></span>
+              <span class="inline"><a v-on:click="canzoniere.selezionecanzoni.splice(canzoniere.selezionecanzoni.indexOf(canzone), 1)"><i class="material-icons">delete</i></a></span>
+            </div>
+          </div>  
+        </li>
+        </draggable>
+      </ul>
+
+
+    </div>
+        
+    <div class="col s2">
+      <h6>...scegli il fomato e crea il tuo canzoniere!</h6>
+      <form>
+        <div class="row">
+          <div class="input-field col s12">
+            <select id="formatopagina" v-model="canzoniere.formatopagina">
+              <option value="" disabled selected>Choose your option<</option>
+              <option value="1">Option 1</option>
+              <option value="2">Option 2</option>
+              <option value="3">Option 3</option>
+            </select>
+            <label>Formato Pagina</label>
+          </div>
+        </div>
+        <div class="row">
+        
+          <div class="input-field col s12">
+            <select id="carattere" v-model="canzoniere.carattere">
+              <option value="" disabled selected>Choose your option</option>
+              <option value="1">Option 1</option>
+              <option value="2">Option 2</option>
+              <option value="3">Option 3</option>
+            </select>
+            <label>Carattere</label>
+          </div>
+          </div>
+          <div class="row">
+          <div class="input-field col s12">
+            <select id="numerocolonne" v-model="canzoniere.numerocolonne">
+              <option value="" disabled selected>Choose your option</option>
+              <option value="1">Option 1</option>
+              <option value="2">Option 2</option>
+              <option value="3">Option 3</option>
+            </select>
+            <label>Numero Colonne</label>
+          </div>
+          </div>
+          <div class="row">
+          <div class="col s6">
+            <div class="switch">
+              <label>
+                <input type="checkbox" v-model="canzoniere.indicetitolo" />
+                <span class="lever"></span>
+                Indice per Titolo
+              </label>
+            </div>
+          </div>
+          <div class="col s6">
+            <div class="switch">
+              <label>
+                <input type="checkbox" v-model="canzoniere.indiceautore" />
+                <span class="lever"></span>
+                Indice per Autore
+              </label>
+            </div>
+          </div>
+          </div>
+          <div class="row">
+                <div class="col s12">
+                  <input type="checkbox" id="Copertina" v-model="canzoniere.copertina" />
+                  <label for="Copertina">Copertina</label>
+                </div>
+        </div>
+        <div class="row">
+              <div class="input-field col s12">
+                <input id="cappello" type="text" class="validate" v-model="canzoniere.cappello">
+                <label for="cappello">Cappello</label>
+              </div>
+        </div>
+        <div class="row">
+              <div class="input-field col s12">
+                <input id="titolo" type="text" class="validate" v-model="canzoniere.titolo">
+                <label for="titolo">Titolo</label>
+              </div>
+        </div>
+        <div class="row">
+              <div class="input-field col s12">
+                <input id="sottotitolo" type="text" class="validate" v-model="canzoniere.sottotitolo">
+                <label for="sottotitolo">Sottotitolo</label>
+              </div>
+        </div>
+        <div class="col s12">
+            <input type="checkbox" id="accordi" v-model="canzoniere.versioneaccordi"/>
+            <label for="accordi">Versione con accordi</label>
+        </div>
+        <div class="col s12">
+            <input type="checkbox" id="testo" v-model="canzoniere.versionetesto"/>
+            <label for="testo">Versione solo testo</label>
+        </div>
+        <div class="col s12">
+            <input type="checkbox" id="singole" v-model="canzoniere.versionesingoli"/>
+            <label for="singole">Un file per canzone</label>
+        </div>
+        <div class="row">
+              <div class="input-field col s12">
+                <input id="last_name" type="text" class="validate" v-model="canzoniere.email"/>
+                <label for="last_name">email</label>
+              </div>
+        </div>
+        <a class="waves-effect waves-light btn" v-on:click="send">Crea!</a>
+
+        </form>
+
+
+
+    </div>
+        
+        
+        
+    </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </div>
+        <!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script src="https://unpkg.com/vue"></script>
+
+      <script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js"></script>
+
+      <script type="text/javascript" src="http://localhost:1313/js/sortable.js"></script>
+      <script type="text/javascript" src="http://localhost:1313/js/vuejs-datatable.js"></script>
+      <script type="text/javascript" src="http://localhost:1313/js/vuedraggable.js"></script>
+      <script type="text/javascript" src="http://localhost:1313/js/canzoniere.js"></script>
+
+
+
+
+        </article>
+      </div>
+
+    </div>
+{{ partial "foot.html" . }}

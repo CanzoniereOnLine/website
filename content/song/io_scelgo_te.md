@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Io scelgo te"
-tags : 
+autori : 
   - "La Porta"
 
 album : "Io scelgo te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Adorazione"
 
+video : 
 identificatore : "io_scelgo_te"
 data_revisione : "2011-12-31"
 ---

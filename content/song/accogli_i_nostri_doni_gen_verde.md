@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Accogli i nostri doni"
-tags : 
+autori : 
   - "Gen Verde"
 
 album : "È bello lodarti"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "accogli_i_nostri_doni_gen_verde"
 data_revisione : "2011-12-31"
 ---

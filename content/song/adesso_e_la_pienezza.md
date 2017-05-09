@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Adesso è la pienezza"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Sei venuto dal cielo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Natale"
 
+video : 
 identificatore : "adesso_e_la_pienezza"
 data_revisione : "2011-12-31"
 ---

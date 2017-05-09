@@ -1,7 +1,7 @@
 ---
 date : "2014-10-03"
 title : "Vieni Spirito di Cristo"
-tags : 
+autori : 
   - "Amadei"
 
 album : "La nostra festa è Cristo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "vieni_spirito_di_cristo"
 data_revisione : "2014-10-03"
 ---

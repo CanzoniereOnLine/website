@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo il Signore"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'incontro della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_il_signore_ricci_incontro"
 data_revisione : "2011-12-31"
 ---

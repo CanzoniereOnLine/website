@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alza le braccia, apri il tuo cuore"
-tags : 
+autori : 
   - "Branca"
 
 album : "Parola d'amore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "alza_braccia_apri_cuore"
 data_revisione : "2011-12-31"
 ---

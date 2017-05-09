@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Alleluia"
-tags : 
+autori : 
   - "Casucci, Balduzzi"
 
 album : "Verbum panis"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_casucci"
 data_revisione : "2011-12-31"
 ---

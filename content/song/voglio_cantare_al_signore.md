@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Voglio cantare al Signore"
-tags : 
+autori : 
   - "Villani"
 
 album : "Gerico, le tue mura crolleranno"
@@ -17,6 +17,7 @@ momenti :
   - "Ingresso"
   - "Congedo"
 
+video : 
 identificatore : "voglio_cantare_al_signore"
 data_revisione : "2011-12-31"
 ---

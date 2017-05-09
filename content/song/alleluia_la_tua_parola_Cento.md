@@ -1,7 +1,7 @@
 ---
 date : "2014-09-20"
 title : "Alleluia La tua Parola"
-tags : 
+autori : 
   - "Cento"
 
 album : "È il giorno del Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_la_tua_parola_Cento"
 data_revisione : "2014-09-20"
 ---

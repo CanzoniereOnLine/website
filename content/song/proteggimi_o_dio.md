@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Proteggimi o Dio"
-tags : 
+autori : 
   - "Gallotta"
 
 album : "Insieme venticinque"
@@ -16,6 +16,7 @@ momenti :
   - "Salmi"
   - "Ingresso"
 
+video : 
 identificatore : "proteggimi_o_dio"
 data_revisione : "2011-12-31"
 ---

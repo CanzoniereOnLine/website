@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Uomini nuovi"
-tags : 
+autori : 
   - "Fanelli"
 
 album : "Uomini nuovi"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "uomini_nuovi"
 data_revisione : "2011-12-31"
 ---

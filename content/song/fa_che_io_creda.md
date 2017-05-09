@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Fa' che io creda"
-tags : 
+autori : 
   - "De Luca, Conte"
 
 album : "io scelgo te"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "fa_che_io_creda"
 data_revisione : "2011-12-31"
 ---

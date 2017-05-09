@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Annunciamo la tua morte"
-tags : 
+autori : 
   - "Giombini"
 
 album : "Camminiamo nella speranza"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Anamnesi"
 
+video : 
 identificatore : "mistero_della_fede_giombini"
 data_revisione : "2011-12-31"
 ---

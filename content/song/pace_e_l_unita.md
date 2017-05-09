@@ -1,7 +1,7 @@
 ---
 date : "2013-07-15"
 title : "Pace è l'unità"
-tags : 
+autori : 
   - "Ricci"
 
 album : "È l'incontro della vita"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "pace_e_l_unita"
 data_revisione : "2013-07-15"
 ---

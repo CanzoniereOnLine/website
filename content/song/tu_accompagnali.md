@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Tu accompagnali"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Matrimonio"
 
+video : 
 identificatore : "tu_accompagnali"
 data_revisione : "2014-10-01"
 ---

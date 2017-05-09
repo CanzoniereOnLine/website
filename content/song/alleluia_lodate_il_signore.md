@@ -1,7 +1,7 @@
 ---
 date : "2013-11-28"
 title : "Alleluia lodate il Signore"
-tags : 
+autori : 
   - "Frisina"
 
 album : "Benedici il Signore"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_lodate_il_signore"
 data_revisione : "2013-11-28"
 ---

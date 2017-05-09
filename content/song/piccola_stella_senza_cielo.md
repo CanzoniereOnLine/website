@@ -1,7 +1,7 @@
 ---
 date : "2015-05-18"
 title : "Piccola stella senza cielo"
-tags : 
+autori : 
   - "Ligabue"
 
 album : "Ligabue"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "piccola_stella_senza_cielo"
 data_revisione : "2015-05-18"
 ---

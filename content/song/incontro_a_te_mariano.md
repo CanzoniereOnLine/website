@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Incontro a Te"
-tags : 
+autori : 
   - "Mariano"
 
 album : "Venite a me"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Congedo"
 
+video : 
 identificatore : "incontro_a_te_mariano"
 data_revisione : "2011-12-31"
 ---

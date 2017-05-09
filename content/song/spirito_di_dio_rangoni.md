@@ -1,7 +1,7 @@
 ---
 date : "2014-10-01"
 title : "Spirito di Dio"
-tags : 
+autori : 
   - "Rangoni, Soldano"
 
 album : "Celebrate"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pentecoste"
 
+video : 
 identificatore : "spirito_di_dio_rangoni"
 data_revisione : "2014-10-01"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Chi rimane in me"
-tags : 
+autori : 
   - "Spoladore"
 
 album : "Unanima"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Comunione"
 
+video : 
 identificatore : "chi_rimane_in_me"
 data_revisione : "2011-12-31"
 ---

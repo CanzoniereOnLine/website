@@ -1,7 +1,7 @@
 ---
 date : "2012-09-01"
 title : "Benedetto Tu, Signore"
-tags : 
+autori : 
   - "Ricci"
 
 album : "Venne nel mondo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "benedetto_tu_signore_ricci"
 data_revisione : "2012-09-01"
 ---

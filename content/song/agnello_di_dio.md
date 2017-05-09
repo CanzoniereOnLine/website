@@ -1,7 +1,7 @@
 ---
 date : "2013-12-30"
 title : "Agnello di Dio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Agnello di Dio"
 
+video : 
 identificatore : "agnello_di_dio"
 data_revisione : "2013-12-30"
 ---

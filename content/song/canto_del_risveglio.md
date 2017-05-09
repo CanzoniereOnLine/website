@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Canto del risveglio"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "canto_del_risveglio"
 data_revisione : "2012-11-28"
 ---

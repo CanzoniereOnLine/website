@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Pace Evenu shalom"
-tags : 
+autori : 
   - "Tradizionale"
 
 album : "RnS 87"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Pace"
 
+video : 
 identificatore : "evenu_shalom"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Ninnananna"
-tags : 
+autori : 
   - "Modena City Ramblers"
 
 album : "Riportando tutto a casa"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "ninnananna_modena"
 data_revisione : "2012-04-03"
 ---

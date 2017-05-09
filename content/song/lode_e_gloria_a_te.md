@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Lode e gloria a te"
-tags : 
+autori : 
   - ""
 
 album : "Dio della mia lode"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Acclamazione al Vangelo"
 
+video : 
 identificatore : "lode_e_gloria_a_te"
 data_revisione : "2011-12-31"
 ---

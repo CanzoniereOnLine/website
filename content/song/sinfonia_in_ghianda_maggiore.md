@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "Sinfonia in ghianda maggiore"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "sinfonia_in_ghianda_maggiore"
 data_revisione : "2012-11-28"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2012-10-30"
 title : "Alla sera laggiù nella valle"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "alla_sera_laggiu_nella_valle"
 data_revisione : "2012-10-30"
 ---

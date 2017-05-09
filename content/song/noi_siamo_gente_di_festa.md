@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Noi siamo gente di festa"
-tags : 
+autori : 
   - "A.C.R."
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "noi_siamo_gente_di_festa"
 data_revisione : "2011-12-31"
 ---

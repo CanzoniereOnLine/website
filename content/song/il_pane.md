@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Il pane"
-tags : 
+autori : 
   - "Pianori"
 
 album : "Agape"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Offertorio"
 
+video : 
 identificatore : "il_pane"
 data_revisione : "2011-12-31"
 ---

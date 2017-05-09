@@ -1,7 +1,7 @@
 ---
 date : "2012-04-03"
 title : "Albachiara"
-tags : 
+autori : 
   - "Vasco Rossi"
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "albachiara"
 data_revisione : "2012-04-03"
 ---

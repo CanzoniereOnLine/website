@@ -1,7 +1,7 @@
 ---
 date : "2012-11-04"
 title : "Alleluia, cantate al Signore"
-tags : 
+autori : 
   - "Gen Rosso"
 
 album : "Dove tu sei"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Alleluia"
 
+video : 
 identificatore : "alleluia_cantate_al_signore"
 data_revisione : "2012-11-04"
 ---

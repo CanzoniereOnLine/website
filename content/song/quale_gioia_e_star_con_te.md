@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Quale gioia è star con te"
-tags : 
+autori : 
   - "Branca, Ciancio"
 
 album : "Voglio vedere il Tuo volto"
@@ -16,6 +16,7 @@ momenti :
   - "Comunione"
   - "Congedo"
 
+video : 
 identificatore : "quale_gioia_e_star_con_te"
 data_revisione : "2011-12-31"
 ---

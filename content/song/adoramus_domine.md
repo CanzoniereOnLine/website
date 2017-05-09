@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Adoramus te Domine"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizè"
 
+video : 
 identificatore : "adoramus_domine"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2014-08-27"
 title : "A te"
-tags : 
+autori : 
   - "Jovanotti"
 
 album : "Safari"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "a_te"
 data_revisione : "2014-08-27"
 ---

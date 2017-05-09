@@ -1,7 +1,7 @@
 ---
 date : "2013-12-31"
 title : "Il Signore della danza"
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "il_signore_della_danza"
 data_revisione : "2013-12-31"
 ---

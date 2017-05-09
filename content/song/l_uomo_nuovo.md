@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "L'uomo nuovo"
-tags : 
+autori : 
   - "Espinosa"
 
 album : "Canzoni dell'uomo nuovo"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "l_uomo_nuovo"
 data_revisione : "2011-12-31"
 ---

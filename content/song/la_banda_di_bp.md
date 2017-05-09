@@ -1,7 +1,7 @@
 ---
 date : "2012-11-28"
 title : "La banda di B.P."
-tags : 
+autori : 
   - ""
 
 album : ""
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - ""
 
+video : 
 identificatore : "la_banda_di_bp"
 data_revisione : "2012-11-28"
 ---

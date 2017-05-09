@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Santo"
-tags : 
+autori : 
   - "Rossi"
 
 album : "Canti do Loreto"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Santo"
 
+video : 
 identificatore : "santo_rossi"
 data_revisione : "2011-12-31"
 ---

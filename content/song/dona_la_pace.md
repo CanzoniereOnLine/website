@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Dona la pace"
-tags : 
+autori : 
   - "Taizé"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Ritornelli"
   - "Taizé"
 
+video : 
 identificatore : "dona_la_pace"
 data_revisione : "2011-12-31"
 ---

@@ -1,7 +1,7 @@
 ---
 date : "2011-12-31"
 title : "Vi amo così"
-tags : 
+autori : 
   - "Brusati, Versaci"
 
 album : ""
@@ -16,6 +16,7 @@ momenti :
   - "Pasqua"
   - "Congedo"
 
+video : 
 identificatore : "vi_amo_cosi"
 data_revisione : "2011-12-31"
 ---

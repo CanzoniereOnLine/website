@@ -1,7 +1,7 @@
 ---
 date : "2014-09-30"
 title : "Santa Maria del cammino"
-tags : 
+autori : 
   - "D'Andrea"
 
 album : "RnS 60"
@@ -15,6 +15,7 @@ gruppo :
 momenti : 
   - "Maria"
 
+video : 
 identificatore : "santa_maria_del_cammino"
 data_revisione : "2014-09-30"
 ---
