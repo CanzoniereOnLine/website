@@ -9,9 +9,15 @@
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
-          {{ $paginator := .Paginate (where .Data.Pages "Type" "song") }}
+          <h1>Tutte le canzoni</h1>
+
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "song") 50}}
           {{ range $paginator.Pages }}
-            {{ .Title}}
+           <a href="{{ .RelPermalink }}">{{ .Title}}</a> di 
+             {{ range .Params.autori }}
+              <a href="{{ "/autori/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+              {{ end }}
+           </br>
           {{ end }}
           {{ partial "pagination.html" . }}
         </section>
