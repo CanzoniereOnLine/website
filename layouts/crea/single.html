@@ -9,155 +9,155 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <article class="post" itemscope itemType="http://schema.org/BlogPosting">
   
-      <div id="app">
+      <div id="app" class="row">
         <!--HEADER-->
 
         
         
-    <div class="row">
-      <div class="col s6">
-      <h6>Cerca e aggiungi le tue canzoni...</h6>
+      <div class="col-md-6">
       <datatable :columns="colonne" :data="elencocanzoni" :pagesize="pagesize" filterable paginate sortable></datatable>
-
-</div>
+      </div>
         
-    <div class="col s4">
-      <h6>...ordinale...</h6>
-      <a v-on:click="undo">undo</a>
-      <a v-on:click="sort">ordina</a>
+    <div class="col-md-4">
+      <div class="row">
+        <div class="col-md-10"></div>
+        <div class="col-md-2">
+          <a v-on:click="undo"><i class="fa fa-undo" aria-hidden="true" data-toggle="tooltip" title="Annulla l'ultima operazione"></i></a>
+          <a v-on:click="sort"><span class="glyphicon glyphicon glyphicon-sort-by-alphabet" aria-hidden="true" data-toggle="tooltip" data-toggle="Ordina in ordine alfabetico"></span></a>
+        </div>
+      </div>
       <ul>
         <draggable v-model="canzoniere.selezionecanzoni">
-
         <li v-for="canzone in canzoniere.selezionecanzoni"> 
           <div class="row">
-            <div class="col s8 move">
-              /{/{canzone.titolo/}/} (in /{/{canzone.tonalita/}/}) <span class="new badge" data-badge-caption=""> /{/{canzone.transpose/}/} </span>
-
+            <div class="col-md-8 move">
+              <canzoniselezionate v-bind:daticanzone="canzone"></canzoniselezionate>
             </div>
-            <div class="col s4">
-              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose + 1); evento +=1;'><i class="material-icons">add</i></a></span>
-              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose - 1); evento +=1;'><i class="material-icons">remove</i></a></span>
-              <span class="inline"><a v-on:click="canzoniere.selezionecanzoni.splice(canzoniere.selezionecanzoni.indexOf(canzone), 1)"><i class="material-icons">delete</i></a></span>
+            <div class="col-md-4">
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose + 1); evento +=1;'><span class="glyphicon glyphicon-plus" aria-hidden="true"  data-toggle="tooltip" title="Alza di un semitono"></span></a></span>
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose - 1); evento +=1;'><span class="glyphicon glyphicon-minus" aria-hidden="true" data-toggle="tooltip" title="Abbassa di un semitono"></span></a></span>
+              <span class="inline"><a v-on:click="canzoniere.selezionecanzoni.splice(canzoniere.selezionecanzoni.indexOf(canzone), 1)"><span class="glyphicon glyphicon-trash" aria-hidden="true"  data-toggle="tooltip" title="Elimina la canzone"></span></a></span>
             </div>
           </div>  
         </li>
         </draggable>
       </ul>
-
-
     </div>
-        
-    <div class="col s2">
-      <h6>...scegli il fomato e crea il tuo canzoniere!</h6>
+
+
+    <div class="col-md-2">
       <form>
-        <div class="row">
-          <div class="input-field col s12">
-            <select id="formatopagina" v-model="canzoniere.formatopagina">
-              <option value="" disabled selected>Choose your option<</option>
-              <option value="1">Option 1</option>
-              <option value="2">Option 2</option>
-              <option value="3">Option 3</option>
+          <div class="input-field">
+            <label for="formatopagina">Formato Pagina</label>
+            <select id="formatopagina" class="form-control" v-model="canzoniere.formatopagina">
+              <option value="" selected>Scegli formato</option>
+              <option value="A4" selected>A4</option>
+              <option value="A5">A5</option>
+              <option value="Smartphone">Smartphone</option>
             </select>
-            <label>Formato Pagina</label>
           </div>
-        </div>
-        <div class="row">
         
-          <div class="input-field col s12">
-            <select id="carattere" v-model="canzoniere.carattere">
-              <option value="" disabled selected>Choose your option</option>
-              <option value="1">Option 1</option>
-              <option value="2">Option 2</option>
-              <option value="3">Option 3</option>
+          <div class="input-field">
+            <label for="carattere" >Carattere</label>
+            <select id="carattere" class="form-control" v-model="canzoniere.carattere">
+              <option value="Graziato" selected>Graziato</option>
+              <option value="Sgraziato">Sgraziato</option>
+              <option value="">Comic Sans</option>
             </select>
-            <label>Carattere</label>
           </div>
-          </div>
-          <div class="row">
-          <div class="input-field col s12">
-            <select id="numerocolonne" v-model="canzoniere.numerocolonne">
-              <option value="" disabled selected>Choose your option</option>
-              <option value="1">Option 1</option>
-              <option value="2">Option 2</option>
-              <option value="3">Option 3</option>
+          <div class="input-field">
+            <label for="numerocolonne">Numero Colonne</label>
+            <select id="numerocolonne" class="form-control" v-model="canzoniere.numerocolonne">
+              <option value="1"  selected>1</option>
+              <option value="2">2</option>
             </select>
-            <label>Numero Colonne</label>
           </div>
-          </div>
-          <div class="row">
-          <div class="col s6">
-            <div class="switch">
+            <div class="checkbox">
               <label>
                 <input type="checkbox" v-model="canzoniere.indicetitolo" />
-                <span class="lever"></span>
                 Indice per Titolo
               </label>
             </div>
-          </div>
-          <div class="col s6">
-            <div class="switch">
+            <div class="checkbox">
               <label>
                 <input type="checkbox" v-model="canzoniere.indiceautore" />
-                <span class="lever"></span>
                 Indice per Autore
               </label>
             </div>
-          </div>
-          </div>
-          <div class="row">
-                <div class="col s12">
-                  <input type="checkbox" id="Copertina" v-model="canzoniere.copertina" />
-                  <label for="Copertina">Copertina</label>
-                </div>
-        </div>
-        <div class="row">
-              <div class="input-field col s12">
-                <input id="cappello" type="text" class="validate" v-model="canzoniere.cappello">
-                <label for="cappello">Cappello</label>
+            <hr>
+            <div class="checkbox">
+              <label>
+                <input type="checkbox" id="copertina" v-model="canzoniere.copertina" />Copertina
+              </label>
+            </div>
+            <div id="campi_copertina">
+              <div class="form-group">
+                <input id="cappello" type="text" class="form-control" placeholder="Cappello" v-model="canzoniere.cappello">
               </div>
-        </div>
-        <div class="row">
-              <div class="input-field col s12">
-                <input id="titolo" type="text" class="validate" v-model="canzoniere.titolo">
-                <label for="titolo">Titolo</label>
+              <div class="form-group">
+                <input id="titolo" type="text" class="form-control" placeholder="Titolo" v-model="canzoniere.titolo">
               </div>
-        </div>
-        <div class="row">
-              <div class="input-field col s12">
-                <input id="sottotitolo" type="text" class="validate" v-model="canzoniere.sottotitolo">
-                <label for="sottotitolo">Sottotitolo</label>
+              <div class="form-group">
+                <input id="sottotitolo" type="text" class="form-control" placeholder="Sottotitolo" v-model="canzoniere.sottotitolo">
               </div>
+            </div>
+        <hr>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="accordi" v-model="canzoniere.versioneaccordi"/>Versione con accordi
+          </label>
         </div>
-        <div class="col s12">
-            <input type="checkbox" id="accordi" v-model="canzoniere.versioneaccordi"/>
-            <label for="accordi">Versione con accordi</label>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="testo" v-model="canzoniere.versionetesto"/> Versione solo testi
+          </label>
         </div>
-        <div class="col s12">
-            <input type="checkbox" id="testo" v-model="canzoniere.versionetesto"/>
-            <label for="testo">Versione solo testo</label>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="singole" v-model="canzoniere.versionesingoli"/> Un file per canzone
+          </label>
         </div>
-        <div class="col s12">
-            <input type="checkbox" id="singole" v-model="canzoniere.versionesingoli"/>
-            <label for="singole">Un file per canzone</label>
+        <div class="form-group">
+          <input id="last_name" type="email" class="form-control" placeholder="email" v-model="canzoniere.email"/>
         </div>
-        <div class="row">
-              <div class="input-field col s12">
-                <input id="last_name" type="text" class="validate" v-model="canzoniere.email"/>
-                <label for="last_name">email</label>
-              </div>
-        </div>
-        <a class="waves-effect waves-light btn" v-on:click="send">Crea!</a>
+        <hr>
+        <button type="button" class="btn btn-success btn-lg">Crea il canzoniere</button>
+        <hr>
+        <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#caricacanzoniere">Carica Canzoniere</button>
 
         </form>
 
+        <div class="modal fade" id="caricacanzoniere" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Carica il canzoniere</h4>
+              </div>
+              <div class="modal-body">
+               <p>Se hai già creato un canzoniere con il nostro nuovo sito, nella mail che ti è stata inviata dovresti aver ricevuto
+                 anche un <b>link</b> e un <b>codice</b>. 
+               </p>
+               <p>Per continuare a lavorare sul canzoniere che avevi creato ti basta cliccare sul link nella mail oppure <b>inserire il codice nella casella sottostante</b>.
+               </p> 
+               <p>Buon lavoro!</p>
+              <div class="form-inline">
+                <input id="idcanzoniere" type="text" class="form-control" placeholder="Inserisci il codice" size="20"/>
+                <span> </span>
+                <button type="button" class="btn btn-warning">Carica il canzoniere</button>
 
 
-    </div>
-        
-        
-        
-    </div>
-        
+              </div>
+              
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+    </div>        
         
         
         
@@ -187,6 +187,7 @@
       <script type="text/javascript" src="http://localhost:1313/js/vuejs-datatable.js"></script>
       <script type="text/javascript" src="http://localhost:1313/js/vuedraggable.js"></script>
       <script type="text/javascript" src="http://localhost:1313/js/canzoniere.js"></script>
+      <script type="text/javascript" src="http://localhost:1313/js/bootstrap.min.js"></script>
 
 
 
