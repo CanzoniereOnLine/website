@@ -1,0 +1,39 @@
+---
+date : "2011-12-31"
+title : "Alleluia"
+autori : 
+  - "Casucci, Balduzzi"
+
+album : "Verbum panis"
+tonalita : "Si-"
+famiglia : 
+  - "Liturgica"
+
+gruppo : 
+  - "Alleluia"
+
+momenti : 
+  - "Alleluia"
+
+video : 
+identificatore : "alleluia_casucci"
+data_revisione : "2011-12-31"
+---
+  
+  
+  
+Alleluia Alleluia Alleluia Alleluia   
+Alleluia Alleluia Alleluia   Alleluia.  
+  
+  
+  
+ Alleluia alleluia alleluia brk alleluia alleluia    
+ Alleluia alleluia alleluia brk alleluia alleluia.      
+  
+  
+  
+Alleluia Alleluia Alleluia   Alleluia     
+Alleluia Alleluia Alleluia   Alleluia.  
+  
+  
+  

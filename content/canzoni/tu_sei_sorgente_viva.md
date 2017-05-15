@@ -1,0 +1,29 @@
+---
+date : "2011-12-31"
+title : "Tu sei sorgente viva"
+autori : 
+  - "Taizé"
+
+album : ""
+tonalita : "Re"
+famiglia : 
+  - "Liturgica"
+
+gruppo : 
+  - "Canoni_ritornelli"
+
+momenti : 
+  - "Ritornelli"
+  - "Taizé"
+
+video : 
+identificatore : "tu_sei_sorgente_viva"
+data_revisione : "2011-12-31"
+---
+  
+  
+Tu sei sorgente viva Tu sei fuoco sei carità  
+Vieni Spirito Santo vieni Spirito Santo.  
+  
+  
+  

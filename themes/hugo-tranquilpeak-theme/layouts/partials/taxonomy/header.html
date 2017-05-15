@@ -1,0 +1,6 @@
+<div class="post-header main-content-wrap {{ if $.Params.metaalignment }}text-{{ $.Params.metaalignment }}{{ else }}text-left{{ end }}">
+    <h1 class="post-title" itemprop="headline">
+      {{ .Title }}
+    </h1>
+  {{ partial "canzoni/meta.html" . }}
+</div>

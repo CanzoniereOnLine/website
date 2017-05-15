@@ -1,0 +1,12 @@
+<p>
+  <b><a href="{{.Permalink}}">{{ .Title}}</a></b>
+  {{ with .Params.autori }}
+  {{ $Len := len . }}
+  {{ if gt $Len 0 }}
+    <span>di </span>
+    {{ range $k, $v := . }}
+      <a class="category-link" href="/autori/{{ . | urlize | lower }}">{{ . }}</a>{{ if lt $k (sub $Len 1) }}, {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+</p>

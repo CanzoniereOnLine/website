@@ -12,9 +12,10 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         {{ if or (not (isset .Site.Params "tagPagination")) (.Site.Params.tagPagination) }}
           <section class="postShorten-group main-content-wrap">
-            {{ $paginator := .Paginate (where .Data.Pages "Type" "song") }}
+            <h1>Canzoni di {{ .Title }} <small>({{ len .Pages }})</small></h1>
+            {{ $paginator := .Paginate (where .Data.Pages "Type" "canzoni") 100 }}
             {{ range $paginator.Pages }}
-              {{ .Render "summary" }}
+              {{ partial "taxonomy/meta.html" . }}
             {{ end }}
             {{ partial "pagination.html" . }}
           </section>
@@ -23,7 +24,7 @@
             <form id="filter-form" action="#">
               <input name="date" type="text" class="form-control input--xlarge" placeholder="{{ i18n "global.search_date" }}" autofocus="autofocus">
             </form>
-            {{ partial "archive-post.html" (where .Data.Pages "Type" "song") }}
+            {{ partial "archive-post.html" (where .Data.Pages "Type" "canzoni") }}
           </div>
         {{ end }}
         {{ partial "footer.html" . }}

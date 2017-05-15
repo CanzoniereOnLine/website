@@ -1,0 +1,89 @@
+{{ partial "head.html" . }}
+  <body>
+    <div id="blog">
+      {{ partial "header.html" . }}
+      {{ partial "sidebar.html" . }}
+      {{ partial "canzoni/header-cover.html" . }}
+      <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+        class="{{ with .Params.coverimage }}hasCover{{ end }}
+               {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+        <section class="postShorten-group main-content-wrap">
+          <h1>Tutte le canzoni <small>({{ len .Pages }}!)</small></h1>
+          <form id="filter-form" action="#">
+              <input id="filterfield" type="text" class="form-control input--xlarge" placeholder="Cerca Canzone" autofocus="autofocus" onkeyup="livefilter()">
+          </form>
+          <div id="listacanzoni">
+            <ul id="coul">
+          {{ range .Pages }}
+           <li>
+           <a href="{{ .RelPermalink }}">{{ .Title}}</a> di 
+             {{ range .Params.autori }}
+              <a href="{{ "/autori/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+              {{ end }}
+            </li>
+          {{ end }}
+            </ul>
+          <div id="noresult" style="display:none;">
+             Ci spiace: nessun risultato trovato per <span id="searchkey"></span>
+          </div>
+          </div>
+        </section>
+        {{ partial "footer.html" . }}
+      </div>
+    </div>
+<script>
+function livefilter() {
+    // Declare variables
+    var input, filter, ul, li, a, i, result;
+    input = document.getElementById('filterfield');
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("coul");
+    li = ul.getElementsByTagName('li');
+    result = false;
+
+    // Loop through all list items, and hide those who don't match the search query
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+            result = true;
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+    if (result){
+        document.getElementById('noresult').style.display="none";
+    } else {
+        document.getElementById('noresult').style.display="";
+        document.getElementById('searchkey').innerHTML=input.value;
+    }
+
+}
+
+function getQueryVariable(variable)
+{
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+}
+
+function searchfromget() {
+var ricerca = getQueryVariable("cerca");
+if (ricerca === false){
+  return;
+} else {
+  document.getElementById('filterfield').value=ricerca.replace(/%20/g, " ");
+  livefilter();
+}
+}
+
+document.addEventListener('DOMContentLoaded', searchfromget(), false);
+window.addEventListener('load', searchfromget(), false )
+
+</script>
+{{ partial "foot.html" . }}

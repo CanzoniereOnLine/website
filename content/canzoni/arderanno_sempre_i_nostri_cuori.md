@@ -1,0 +1,102 @@
+---
+date : "2011-12-31"
+title : "Arderanno sempre i nostri cuori"
+autori : 
+  - "Auricchio"
+
+album : "Alleluia è risorto"
+tonalita : "Do"
+famiglia : 
+  - "Liturgica"
+
+gruppo : 
+  - ""
+
+momenti : 
+  - "Pasqua"
+  - "Comunione"
+  - "Congedo"
+
+video : 
+identificatore : "arderanno_sempre_i_nostri_cuori"
+data_revisione : "2011-12-31"
+---
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+memorize  
+Quando scende su di noi la sera e scopri che   
+nel cuore resta nostalgia  
+di un giorno che non avrà tramonto  
+ed avrà il colore della sua pace.   
+  
+  
+Quando scende su di noi il buio e senti che  
+nel cuore manca l'allegria  
+del tempo che non avrà mai ne  
+ed allora cercherai parole nuove.    
+  
+  
+E all'improvviso la strada si illumina  
+e scopri che non sei più solo;    
+sarà il Signore risorto a tracciare il cammino   
+e a ridare la vita.   
+  
+  
+Arderanno sempre i nostri cuori   
+se la tua Parola in noi dimorerà   
+spezza tu, Signore, questo pane:   
+porteremo al mondo la tua verità.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Quando all'alba sentirai la sua voce capirai  
+che non potrà fermarsi mai  
+l'annuncio che non avrà conni  
+che riporterà nel mondo la speranza.    
+  
+  
+Gesù è il Signore risorto che vive nel tempo,  
+è presente tra gli uomini;   
+è lui la vita del mondo,  
+il pane che nutre la Chiesa in cammino.   
+  
+  
+Arderanno sempre i nostri cuori   
+se la tua Parola in noi dimorerà   
+spezza tu, Signore, questo pane:   
+porteremo al mondo la tua verità.  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+Rit.   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

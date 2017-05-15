@@ -33,6 +33,7 @@ canonifyurls = true
   momenti = "momenti"
   gruppo = "gruppo"
   famiglia = "famiglia"
+  categoria = "categoria"
 
 [author]
   name = "Canzoniere Online"
@@ -52,28 +53,28 @@ canonifyurls = true
 # Menu Configuration
 [[menu.main]]
   weight = 0
-  identifier = "home"
-  name = "Home"
+  identifier = "Blog"
+  name = "Blog"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/"
+  url = "/post"
 [[menu.main]]
   weight = 1
-  identifier = "categories"
-  name = "Categories"
+  identifier = "Canzoni"
+  name = "Canzoni"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/categories"
+  url = "/Canzoni"
 [[menu.main]]
   weight = 2
-  identifier = "tags"
-  name = "Tags"
+  identifier = "Autori"
+  name = "Autori"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  url = "/autori"
 [[menu.main]]
   weight = 3
-  identifier = "archives"
-  name = "Archives"
+  identifier = "Momenti"
+  name = "Momenti"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+  url = "/momenti"
 [[menu.main]]
   weight = 4
   identifier = "about"
@@ -93,13 +94,25 @@ canonifyurls = true
   name = "Stack Overflow"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
   url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+  weight = 2
+  identifier = "documentazione"
+  name = "Documentazione"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+  url = "/pagina/documentazione"
+[[menu.links]]
+  weight = 3
+  identifier = "progetto"
+  name = "Il progetto"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+  url = "/pagina/progetto"
 
 [[menu.misc]]
   weight = 0
-  identifier = "rss"
-  name = "RSS"
+  identifier = "crea"
+  name = "Canzoniere"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/index.xml"
+  url = "/crea/canzoniere"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -170,11 +183,11 @@ canonifyurls = true
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  # customCSS = ["css/foo.css"]
+  customCSS = ["css/canzoniere.css"]
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
-  # customJS = ["js/foo.js"]
+   customJS = ["js/list.js", "js/carrellocanzoni.js"]
 
   [params.header.rightLink]
     class = ""

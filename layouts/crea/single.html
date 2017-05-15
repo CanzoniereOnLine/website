@@ -22,8 +22,8 @@
       <div class="row">
         <div class="col-md-10"></div>
         <div class="col-md-2">
-          <a v-on:click="undo"><i class="fa fa-undo" aria-hidden="true" data-toggle="tooltip" title="Annulla l'ultima operazione"></i></a>
-          <a v-on:click="sort"><span class="glyphicon glyphicon glyphicon-sort-by-alphabet" aria-hidden="true" data-toggle="tooltip" data-toggle="Ordina in ordine alfabetico"></span></a>
+          <a v-on:click="undo" class="tooltip-top" data-tooltip="Annulla l'ultima operazione" ><i class="fa fa-undo" aria-hidden="true" ></i></a>
+          <a v-on:click="sort" class="tooltip-top" data-tooltip="Ordina in ordine alfabetico"><span class="glyphicon glyphicon glyphicon-sort-by-alphabet" aria-hidden="true"></span></a>
         </div>
       </div>
       <ul>
@@ -34,9 +34,9 @@
               <canzoniselezionate v-bind:daticanzone="canzone"></canzoniselezionate>
             </div>
             <div class="col-md-4">
-              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose + 1); evento +=1;'><span class="glyphicon glyphicon-plus" aria-hidden="true"  data-toggle="tooltip" title="Alza di un semitono"></span></a></span>
-              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose - 1); evento +=1;'><span class="glyphicon glyphicon-minus" aria-hidden="true" data-toggle="tooltip" title="Abbassa di un semitono"></span></a></span>
-              <span class="inline"><a v-on:click="canzoniere.selezionecanzoni.splice(canzoniere.selezionecanzoni.indexOf(canzone), 1)"><span class="glyphicon glyphicon-trash" aria-hidden="true"  data-toggle="tooltip" title="Elimina la canzone"></span></a></span>
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose + 1); evento +=1;' class="tooltip-top" data-tooltip="Alza di un semitono"><span class="glyphicon glyphicon-plus" aria-hidden="true" ></span></a></span>
+              <span class="inline"><a v-on:click='canzone.transpose = (canzone.transpose - 1); evento +=1;' class="tooltip-top" data-tooltip="Abbassa di un semitono"><span class="glyphicon glyphicon-minus" aria-hidden="true" ></span></a></span>
+              <span class="inline"><a v-on:click="canzoniere.selezionecanzoni.splice(canzoniere.selezionecanzoni.indexOf(canzone), 1)" class="tooltip-top" data-tooltip="Elimina la canzone"><span class="glyphicon glyphicon-trash" aria-hidden="true"></span></a></span>
             </div>
           </div>  
         </li>
