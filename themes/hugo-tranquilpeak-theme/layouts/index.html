@@ -10,7 +10,35 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
           <h1>Benvenuti nel nuovo Canzoniere Online</h1>
-
+          <p>Il modo più facile e veloce per creare i tuoi canzonieri!</p>
+          <ol>
+            <li>Scegli le canzoni sfogliando il sito oppure direttamente dalla tabella</li>
+            <li>Ordinale come vuoi</li>
+            <li>Imposta la formattazione e inserisci la tua mail</li>
+            <li>Fatto! Troverai il canzoniere nella tua casella di posta elettronica!</li>
+          </ol>
+          <div class="row frontpage">
+            <div  class="col-md-6">
+            <a href="/canzoni" class="btn btn-success btn-lg">Sfoglia le canzoni</a>
+            </div>
+            <div  class="col-md-6">
+            <a href="/crea/canzoniere" class="btn btn-success btn-lg">Crea Canzoniere</a>
+            </div>
+          </div>
+          <div class="row frontpage">
+            <div  class="col-md-6">
+            <a href="/canzoni" class="btn btn-success btn-lg">Documentazione</a>
+            </div>
+            <div  class="col-md-6">
+            <a href="/crea/canzoniere" class="btn btn-success btn-lg">Collabora</a>
+            </div>
+          </div>
+          <h1>Ultime notizie</h1>
+          {{ $paginator := .Paginate (where .Data.Pages "Type" "post") 3}}
+          {{ range $paginator.Pages }}
+            {{ .Render "summary" }}
+          {{ end }}
+          <a href="/post">Leggi le altre notizie</a>
         </section>
         {{ partial "footer.html" . }}
       </div>

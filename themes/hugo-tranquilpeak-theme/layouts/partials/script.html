@@ -67,6 +67,9 @@ $(document).ready(function() {
   {{ end }}
 {{ end }}
 
+<script src="/js/canzoniereonlinebootstrap.min.js"></script>
+
+
 {{ range .Site.Params.customJS }}
    <script src="{{ $.Site.BaseURL }}{{ . }}"></script>
 {{ end }}

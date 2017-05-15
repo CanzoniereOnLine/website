@@ -77,9 +77,9 @@ canonifyurls = true
   url = "/momenti"
 [[menu.main]]
   weight = 4
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  identifier = "carrello"
+  name = "Carrello"
+  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-book\"></i><span class='badge badgecart' id='badgecart'></span></span>"
   url = "/#about"
 
 [[menu.links]]

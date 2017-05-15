@@ -84,6 +84,11 @@
       <link rel="publisher" href="https://plus.google.com/{{ . | urlize }}">
     {{ end }}
 
+
+    <link rel="stylesheet" href="/css/canzonierebootstrap.min.css" />
+    <link rel="stylesheet" href="/css/canzonierebootstraptheme.css" />
+    
+
     <!--EXTERNAL STYLES-->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.css" />
@@ -91,7 +96,11 @@
     <!--EXTERNAL STYLES END-->
     <!--STYLES-->
     <link rel="stylesheet" href="/css/style-u6mk0ojoywresbx8iepslrmmhl4stuhrsxuwhkpwrkrx7mryjcaimasnk4pi.min.css" />
+    
 
+
+
+    <!--EXTERNAL BOOTSTRAP-->
     <!--STYLES END-->
     {{ range .Site.Params.customCSS }}
       <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">

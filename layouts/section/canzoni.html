@@ -10,6 +10,11 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
           <h1>Tutte le canzoni <small>({{ len .Pages }}!)</small></h1>
+          <p>Cercale anche per:
+          <a href="/autori" class="btn">Autori</a>
+          <a href="/famiglia" class="btn">Famiglia</a>
+          <a href="/momenti" class="btn">Momenti</a>
+          </p>
           <form id="filter-form" action="#">
               <input id="filterfield" type="text" class="form-control input--xlarge" placeholder="Cerca Canzone" autofocus="autofocus" onkeyup="livefilter()">
           </form>
