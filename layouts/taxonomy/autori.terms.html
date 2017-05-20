@@ -8,8 +8,9 @@
         class="{{ with .Params.coverImage }}hasCover{{ end }}
                {{ if eq .Params.coverMeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
-
         <div id="tags-archives" class="main-content-wrap">
+           {{ partial "canzoni/menu.html" . }}
+
           <form id="filter-form" action="#">
             <input name="tag" type="text" class="form-control input--xlarge" placeholder="{{ i18n "global.search_tag" }}" autofocus="autofocus">
           </form>

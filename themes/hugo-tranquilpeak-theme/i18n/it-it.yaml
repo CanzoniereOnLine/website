@@ -63,7 +63,7 @@
   translation: "Cerca categoria"
 
 - id: "global.search_tag"
-  translation: "Cerca etichetta"
+  translation: "Cerca nelle etichette"
 
 - id: "global.search_date"
   translation: "Cerca data (YYYY/MM/DD)"

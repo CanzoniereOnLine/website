@@ -20,10 +20,11 @@
         
     <div class="col-md-4">
       <div class="row">
-        <div class="col-md-10"></div>
-        <div class="col-md-2">
-          <a v-on:click="undo" class="tooltip-top" data-tooltip="Annulla l'ultima operazione" ><i class="fa fa-undo" aria-hidden="true" ></i></a>
-          <a v-on:click="sort" class="tooltip-top" data-tooltip="Ordina in ordine alfabetico"><span class="glyphicon glyphicon glyphicon-sort-by-alphabet" aria-hidden="true"></span></a>
+        <div class="col-md-12 actionmenu" id="actionmenu">
+          <a v-on:click="sort" class="tooltip-top" data-tooltip="Ordina in ordine alfabetico"><span class="glyphicon glyphicon glyphicon-sort-by-alphabet" aria-hidden="true"></span>Ordina</a><b class="spaced"> | </b>
+          <a v-on:click="undo" class="tooltip-top" data-tooltip="Annulla l'ultima operazione" ><i class="fa fa-undo" aria-hidden="true" ></i>Annulla</span></a><b class="spaced"> | </b>
+          <a href="#about" class="tooltip-top" data-tooltip="Apri gli appunti" ><span class="glyphicon glyphicon glyphicon-paperclip" aria-hidden="true"></span>Appunti</a><b class="spaced"> | </b>
+          <a v-on:click="erase" class="tooltip-top" data-tooltip="Cancella tutte le canzoni"><span class="glyphicon glyphicon glyphicon-trash" aria-hidden="true"></span>Cancella</a>
         </div>
       </div>
       <ul>

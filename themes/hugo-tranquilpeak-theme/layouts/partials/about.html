@@ -3,26 +3,30 @@
     <div id="about-btn-close">
       <i class="fa fa-remove"></i>
     </div>
-    {{ with ($.Scratch.Get "authorPicture") }}
-      <img id="about-card-picture" src="{{ . }}{{ if in . "//www.gravatar.com/avatar/" }}?s=110{{ end }}" alt="{{ i18n "global.author_picture" }}" />
-    {{ end }}
-    <h4 id="about-card-name">{{ .Site.Author.name }}</h4>
-    {{ with .Site.Author.bio }}
-      <div id="about-card-bio">{{ . | markdownify }}</div>
-    {{ end }}
-    {{ with .Site.Author.job }}
-      <div id="about-card-job">
-        <i class="fa fa-briefcase"></i>
-        <br/>
-        {{ . | markdownify }}
+    <h1 id="about-card-name"><i class="fa fa-paperclip" aria-hidden="true"></i><span class="spaced"></span>Blocco appunti</h1>
+    
+      <div id="about-card-bio">
+      <div class="row">
+      <div class="col-md-6 left">
+        <p> 
+          Questo elenco serve solo per appuntare le canzoni che vuoi inserire nel canzoniere.
+          Puoi scegliere in ogni momento se eliminarle dalla lista(<a><i class="fa fa-trash" aria-hidden="true"></i></a>)
+          oppure inserirle nel canzoniere (<a><span class='glyphicon glyphicon-share-alt' aria-hidden='true'></span></a>).
+        </p>
+        <p>
+          Quando <b><a href="localhost:1313/crea/canzoniere"><i class="fa fa-magic" aria-hidden="true"></i>creerai il canzoniere</a></b>
+          le troverai già nell'elenco delle canzoni scelte, e ti basterà scegliere la tonalità e ordinarle.
+        </p>
       </div>
-    {{ end }}
-    {{ with .Site.Author.location }}
-      <div id="about-card-location">
-        <i class="fa fa-map-marker"></i>
-        <br/>
-        {{ . }}
+      <div class="col-md-6">
+      <ul id="cardcart">
+
+      </ul>      
       </div>
-    {{ end }}
+      </div>
+      </div>
+      <div>
+        <h4><a onclick="addtosongbook()">Aggiungi tutte al canzoniere</a></h4>
+      </div>
   </div>
 </div>

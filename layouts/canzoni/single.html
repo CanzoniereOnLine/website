@@ -9,6 +9,8 @@
                {{ if eq .Params.covermeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+
           {{ with .Params.covercaption }}
             <span class="post-header-cover-caption caption">{{ . | markdownify }}</span>
           {{ end }}
@@ -17,11 +19,12 @@
           {{ end }}
 
           <div class="post-content markdown" itemprop="articleBody">
-          <span class="downloadpdf">
-            <a target="_.blank" href="http:\\pdf.canzoniereonline.it\{{ .Params.identificatore }}.pdf">Scarica il pdf </a>
-          </span>
-            <a onclick="addtocart(canzone)">Aggiungi al carrello</a>
             <div class="main-content-wrap">
+              <span class="azionicanzoni">
+              <a target="_.blank" href="http:\\pdf.canzoniereonline.it\{{ .Params.identificatore }}.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Scarica il pdf </a>
+              <br />
+              <a onclick="addtocart(canzone)"><i class="fa fa-paperclip" aria-hidden="true"></i>Aggiungi agli appunti</a>
+              </span>
               {{ .Content }}
               {{ partial "canzoni/gallery.html" . }}
             </div>
@@ -34,9 +37,13 @@
       </div>
       {{ partial "canzoni/share-options.html" . }}
     </div>
+    <div id="autorimeta" style="display:none;">
+      {{ with .Params.autori }} {{ $Len := len . }} {{ if gt $Len 0 }} {{ range $k, $v := . }} {{ . }} {{ if lt $k (sub $Len 1) }}, {{ end }} {{ end }}  {{ end }} {{ end }}
+    </div>
     <script>
       var canzone = new Object();
       canzone.titolo = "{{ .Title }}";
+      canzone.autori= document.getElementById("autorimeta").innerText;
       canzone.identificatore = "{{ .Params.identificatore }}";
       canzone.tonalita = "{{ .Params.tonalita }}";
       canzone.transpose = 0;

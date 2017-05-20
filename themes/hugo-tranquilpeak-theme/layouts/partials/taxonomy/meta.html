@@ -1,5 +1,5 @@
 <p>
-  <b><a href="{{.Permalink}}">{{ .Title}}</a></b>
+  <a href="{{.Permalink}}">{{ .Title}}</a>
   {{ with .Params.autori }}
   {{ $Len := len . }}
   {{ if gt $Len 0 }}

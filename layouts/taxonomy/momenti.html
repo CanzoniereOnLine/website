@@ -12,6 +12,8 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         {{ if or (not (isset .Site.Params "tagPagination")) (.Site.Params.tagPagination) }}
           <section class="postShorten-group main-content-wrap">
+              {{ partial "canzoni/menu.html" . }}
+
             <h1>Momento: {{ .Title }}<small>({{ len .Pages }})</small></h1>
             {{ $paginator := .Paginate (where .Data.Pages "Type" "canzoni") 100 }}
             {{ range $paginator.Pages }}

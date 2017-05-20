@@ -15,7 +15,7 @@
 baseurl = "http://localhost:1313/"
 languageCode = "it-it"
 defaultContentLanguage = "it-it"
-title = "Canzoniere Online"
+title = "CanzoniereOnline.it"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -36,8 +36,8 @@ canonifyurls = true
   categoria = "categoria"
 
 [author]
-  name = "Canzoniere Online"
-  bio = "Versione **2**!"
+  name = "CanzoniereOnline"
+  bio = "Un modo *semplice*, *veloce* e *gratuito* per creare i tuoi canzonieri!"
   #job = "Your job title"
   #location = "France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -52,67 +52,63 @@ canonifyurls = true
 
 # Menu Configuration
 [[menu.main]]
-  weight = 0
-  identifier = "Blog"
-  name = "Blog"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/post"
-[[menu.main]]
   weight = 1
-  identifier = "Canzoni"
-  name = "Canzoni"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  url = "/Canzoni"
+  identifier = "Crea"
+  name = "Crea"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-magic\"></i>"
+  url = "/crea/canzoniere"
 [[menu.main]]
   weight = 2
-  identifier = "Autori"
-  name = "Autori"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/autori"
+  identifier = "Appunti"
+  name = "Appunti"
+  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-paperclip\"></i><span class='badge badgecart' id='badgecart'></span></span>"
+  url = "/#about"
+[[menu.main]]
+  weight = 2
+  identifier = "Canzoni"
+  name = "Canzoni"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-music\"></i>"
+  url = "/Canzoni"
 [[menu.main]]
   weight = 3
-  identifier = "Momenti"
-  name = "Momenti"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/momenti"
-[[menu.main]]
-  weight = 4
-  identifier = "carrello"
-  name = "Carrello"
-  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-book\"></i><span class='badge badgecart' id='badgecart'></span></span>"
-  url = "/#about"
+  identifier = "Autori"
+  name = "Autori"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user-o\"></i>"
+  url = "/autori/"
 
 [[menu.links]]
+  weight = 1
+  identifier = "Blog"
+  name = "Blog"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "/post/"
+[[menu.links]]
+  weight = 2
+  identifier = "progetto"
+  name = "Il progetto"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-sitemap\"></i>"
+  url = "/pagina/progetto"
+[[menu.links]]
+  weight = 3
+  identifier = "documentazione"
+  name = "Documentazione"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
+  url = "/pagina/documentazione"
+[[menu.links]]
+  weight = 4
+  identifier = "Collabora"
+  name = "Collabora"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-handshake-o\"></i>"
+  url = "/pagina/collabora"
+
+
+
+[[menu.misc]]
   weight = 0
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/kakawait"
-[[menu.links]]
-  weight = 1
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
-[[menu.links]]
-  weight = 2
-  identifier = "documentazione"
-  name = "Documentazione"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "/pagina/documentazione"
-[[menu.links]]
-  weight = 3
-  identifier = "progetto"
-  name = "Il progetto"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  url = "/pagina/progetto"
-
-[[menu.misc]]
-  weight = 0
-  identifier = "crea"
-  name = "Canzoniere"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
-  url = "/crea/canzoniere"
 
 [params]
   # Customize date format use to render blog post date, categories and other
@@ -131,7 +127,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Canzoniere Online"
+  description = "CanzoniereOnline.it"
 
   # Customization
   # Define the behavior of the sidebar
@@ -171,7 +167,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+   favicon = "images/logo.png"
 
   # Header configuration
   # The link at the right of the header is customizable
