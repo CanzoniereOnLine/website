@@ -1,10 +1,25 @@
 <div class="row">
+    {{ if and (eq .Section "canzoni") (eq .Kind "section") }}
+    <b> Canzoni </b>
+    {{ else }}
     <a href="/canzoni">Canzoni</a>
+    {{ end }}
     <span class="spaced">|</span>
+    {{ if eq .Data.Singular  "autori" }}
+    <b>Autori</b>
+    {{ else }}
     <a href="/autori">Autori</a>
+    {{ end }}
     <span class="spaced">|</span>
+    {{ if eq .Data.Singular  "momenti" }}
+    <b>Momenti</b>
+    {{ else }}
     <a href="/momenti">Momenti</a>
+    {{ end }}
     <span class="spaced">|</span>
+    {{ if eq .Data.Singular  "famiglia" }}
+    <b>Famiglia</b>
+    {{ else }}
     <a href="/famiglia">Famiglie</a>
-    <span class="spaced">|</span>
+    {{ end }}
 </div>

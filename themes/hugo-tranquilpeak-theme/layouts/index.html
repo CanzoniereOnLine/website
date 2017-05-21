@@ -10,29 +10,32 @@
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
         <section class="postShorten-group main-content-wrap">
           <h1>Benvenuti nel nuovo Canzoniere Online</h1>
-          <p>Il modo più facile e veloce per creare i tuoi canzonieri!</p>
-          <ol>
-            <li>Scegli le canzoni sfogliando il sito oppure direttamente dalla tabella</li>
-            <li>Ordinale come vuoi</li>
-            <li>Imposta la formattazione e inserisci la tua mail</li>
-            <li>Fatto! Troverai il canzoniere nella tua casella di posta elettronica!</li>
-          </ol>
-          <div class="row frontpage">
-            <div  class="col-md-6">
-            <a href="/canzoni" class="btn btn-success btn-lg">Sfoglia le canzoni</a>
-            </div>
-            <div  class="col-md-6">
-            <a href="/crea/canzoniere" class="btn btn-success btn-lg">Crea Canzoniere</a>
-            </div>
-          </div>
-          <div class="row frontpage">
-            <div  class="col-md-6">
-            <a href="/canzoni" class="btn btn-success btn-lg">Documentazione</a>
-            </div>
-            <div  class="col-md-6">
-            <a href="/crea/canzoniere" class="btn btn-success btn-lg">Collabora</a>
-            </div>
-          </div>
+          <p>In questo sito puoi trovare oltre 600 
+            <a href="/canzoni"><i class="fa fa-music spaced" aria-hidden="true"></i>canzoni</a>
+            organizzate anche per
+            <a href="/autori"><i class="fa fa-user-o spaced" aria-hidden="true"></i>autori</a>.
+            Sfogliale, aggiungile agli 
+            <a href="/#appunti"><i class="fa fa-paperclip spaced" aria-hidden="true"></i>appunti</a>
+            oppure 
+            <b><a href="/crea/canzoniere"><i class="fa fa-magic spaced" aria-hidden="true"></i>crea</a></b>
+            direttamente il tuo canzoniere.
+          </p>
+          <p> 
+            Canzoniere Online è un <a href="/crea/canzoniere"><i class="fa fa-sitemap spaced" aria-hidden="true"></i> progetto</a> open source e si appoggia a <a href="">LaTeX</a> per la creazione dei pdf.
+            Trovi più informazioni nella <a href="/crea/canzoniere"><i class="fa fa-book spaced" aria-hidden="true"></i>documentazione</a>. 
+            Se vuoi contribuire al progetto, leggi come <a href="/crea/canzoniere"><i class="fa fa-handshake-o spaced" aria-hidden="true"></i>collaborare</a>.
+          </p>
+          <p>
+            Buona navigazione!
+          </p>
+          <p class='right'>
+            <i>
+              Lo staff di Canzoniere Online
+            </i>
+          </p>
+          <br />
+          <hr>
+          
           <h1>Ultime notizie</h1>
           {{ $paginator := .Paginate (where .Data.Pages "Type" "post") 3}}
           {{ range $paginator.Pages }}
