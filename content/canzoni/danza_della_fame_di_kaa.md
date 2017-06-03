@@ -1,27 +1,23 @@
----
-date : "2012-11-28"
-title : "Danza della fame di Kaa"
+--- 
+title : Danza della fame di Kaa
+description : Il testo completo di accordi di Danza della fame di Kaa. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : ""
+   - ""
+album : 
+tonalita : 
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : danza_della_fame_di_kaa
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "danza_della_fame_di_kaa"
-data_revisione : "2012-11-28"
----
-  
-  
-  
-Lentamente va il pitone delle rocce, sono Kaa.  
-Lentamente va, la mia danza è questa qua, Bandar Log!  
-  
+
+
+Lentamente va il pitone delle rocce, sono Kaa.
+Lentamente va, la mia danza è questa qua, Bandar Log!
+
+

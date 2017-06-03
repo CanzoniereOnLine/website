@@ -1,31 +1,27 @@
----
-date : "2013-12-31"
-title : "Appello al grande cerchio"
+--- 
+title : Appello al grande cerchio
+description : Il testo completo di accordi di Appello al grande cerchio. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : appello_al_grande_cerchio
+datarevisione : 2013_12_31
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "appello_al_grande_cerchio"
-data_revisione : "2013-12-31"
----
-  
-  
-Akela chiama, Akela chiama, brk Akela chiama al gran cerchio!  
-Corriamo su, corriamo su, brk chi primo arriverà.  
-  
-  
-Sì! Sì! Tutti pronti all'appello,  
-Sì! Sì! Chi primo arriverà.  
-  
-  
+
+
+Akela chiama, Akela chiama, 
+Corriamo su, corriamo su, 
+
+
+Sì! Sì! Tutti pronti all'appello,
+Sì! Sì! Chi primo arriverà.
+
+

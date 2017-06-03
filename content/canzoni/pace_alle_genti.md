@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Pace alle genti"
+--- 
+title : Pace alle genti
+description : Il testo completo di accordi di Pace alle genti. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Mariano"
-
-album : "Venite a me"
-tonalita : "La"
+   - "Mariano"
+album : Venite a me
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pace"
+   - "Pace"
+identificatore : pace_alle_genti
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "pace_alle_genti"
-data_revisione : "2011-12-31"
----
-  
-  
-Spezzerai l'arco della guerra,   
-annunzierai pace alle genti  
-e regnerai da mare a mare  
-no ai conni di questa terra.  
-  
-  
-  
+
+
+Spezzerai l'arco della guerra, 
+annunzierai pace alle genti
+e regnerai da mare a mare
+fino ai confini di questa terra.
+
+

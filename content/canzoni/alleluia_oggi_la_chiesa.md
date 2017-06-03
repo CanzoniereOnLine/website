@@ -1,40 +1,30 @@
----
-date : "2011-12-31"
-title : "Alleluia, oggi la chiesa"
+--- 
+title : Alleluia, oggi la chiesa
+description : Il testo completo di accordi di Alleluia, oggi la chiesa. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Giombini"
-
-album : "I semi del futuro"
-tonalita : "Sol"
+   - "Giombini"
+album : I semi del futuro
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_oggi_la_chiesa
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "alleluia_oggi_la_chiesa"
-data_revisione : "2011-12-31"
----
-  
-  
-Alleluia, alleluia! Alleluia, alleluia! rep  
-  
-  
-  
-Oggi la chiesa di Cristo è festa!  
-Chiesa sei bella, sei viva, sei vera!  
-  
-  
-  
-  
-Cristo cammina sempre con noi!  
-Chiesa più forte! Chiesa più nuova!  
-  
-  
-  
-  
-  
+
+
+Alleluia, alleluia! Alleluia, alleluia! 
+
+
+Oggi la chiesa di Cristo è festa!
+Chiesa sei bella, sei viva, sei vera!
+
+
+Cristo cammina sempre con noi!
+Chiesa più forte! Chiesa più nuova!
+
+

@@ -113,16 +113,16 @@
             <input type="checkbox" id="testo" v-model="canzoniere.versionetesto"/> Versione solo testi
           </label>
         </div>
-        <div class="checkbox">
-          <label>
-            <input type="checkbox" id="singole" v-model="canzoniere.versionesingoli"/> Un file per canzone
-          </label>
-        </div>
+        <hr>
         <div class="form-group">
           <input id="last_name" type="email" class="form-control" placeholder="email" v-model="canzoniere.email"/>
         </div>
-        <hr>
-        <button type="button" class="btn btn-success btn-lg">Crea il canzoniere</button>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" id="eula" v-model="canzoniere.eula"/> Accetto le <a href="">condizioni di utilizzo</a>
+          </label>
+        </div>
+        <button type="button" class="btn btn-success btn-lg" v-on:click="send">Crea il canzoniere</button>
         <hr>
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#caricacanzoniere">Carica Canzoniere</button>
 

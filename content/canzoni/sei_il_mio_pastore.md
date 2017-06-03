@@ -1,27 +1,23 @@
----
-date : "2012-01-11"
-title : "Sei il mio pastore"
+--- 
+title : Sei il mio pastore
+description : Il testo completo di accordi di Sei il mio pastore. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : sei_il_mio_pastore
+datarevisione : 2012_01_11
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "sei_il_mio_pastore"
-data_revisione : "2012-01-11"
----
-  
-  
-Sei il mio pastore, nulla mi mancherà,  
-sei il mio pastore, nulla mi mancherà.  
-  
-  
+
+
+Sei il mio pastore, nulla mi mancherà,
+sei il mio pastore, nulla mi mancherà.
+
+

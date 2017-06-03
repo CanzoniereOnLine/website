@@ -1,29 +1,29 @@
----
-date : "2012-01-22"
-title : "Alleluia"
+--- 
+title : Alleluia
+description : Il testo completo di accordi di Alleluia. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Verde"
-
-album : "È bello lodarti"
-tonalita : "Sol"
+   - "Gen Verde"
+album : È bello lodarti
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_e_bello_lodarti
+datarevisione : 2012_01_22
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_e_bello_lodarti"
-data_revisione : "2012-01-22"
----
-  
-  
-Alleluia Alleluia  
-Alleluia   Alleia.  
-  
-  
-  
-  
+
+
+Alleluia Alleluia
+Alleluia   Alleluia.
+
+
+
+#### Video
+{{< youtube ynVbACsr0Hs >}} 
+
+{{< youtube AuEPfJaFGb8 >}} 
+

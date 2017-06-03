@@ -1,54 +1,47 @@
----
-date : "2011-12-31"
-title : "Uomini nuovi"
+--- 
+title : Uomini nuovi
+description : Il testo completo di accordi di Uomini nuovi. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Fanelli"
-
-album : "Uomini nuovi"
-tonalita : "Mi"
+   - "Fanelli"
+album : Uomini nuovi
+tonalita : Mi
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Congedo"
+   - "Congedo"
+identificatore : uomini_nuovi
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "uomini_nuovi"
-data_revisione : "2011-12-31"
----
-  
-transpose  
-  
-Uomini nuovi saremo in te  
-cammineremo nella tua novità   
-e cresceremo ogni giorno nel sole  
-gridando al mondo la tua libertà.   
-  
-  
-Se trasformate il vostro cuore   
-se accoglierete la Parola  
-come la pioggia che scende giù dal cielo  
-nascerà un mondo di luce.   
-Se accoglierete in voi l'amore   
-se lo vivrete tra di voi  
-come fratelli con la mano nella mano  
-ritornerà la nuova primavera.   
-  
-  
-Se lotterete per la pace   
-se cercherete la giustizia  
-se difendete la dignità dell'uomo  
-rinascerà nel mondo la speranza.   
-  
-  
-transpose  
- Uomini nuovi saremo in te  
-cammineremo nella tua novità   
-e cresceremo ogni giorno nel sole  
-gridando al mondo la tua libertà.  
-  
-  
-  
+
+
+Uomini nuovi saremo in te
+cammineremo nella tua novità 
+e cresceremo ogni giorno nel sole
+gridando al mondo la tua libertà. 
+
+
+Se trasformate il vostro cuore 
+se accoglierete la Parola
+come la \A7+pioggia che scende giù dal cielo
+nascerà un mondo di luce. 
+Se accoglierete in voi l'amore 
+se lo vivrete tra di voi
+come fra\A7+telli con la mano nella mano
+ritornerà la nuova prima\A7+vera. 
+
+
+Se lotterete per la pace 
+se cercherete la giustizia
+se difendete la dignità dell'uomo
+rinascerà nel mondo la spe\A7+ranza. 
+
+
+ Uomini nuovi saremo in te
+cammineremo nella tua novità 
+e cresceremo ogni giorno nel sole
+gridando al mondo la tua libertà.
+
+

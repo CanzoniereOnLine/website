@@ -1,28 +1,23 @@
----
-date : "2011-12-31"
-title : "Angelo di Dio"
+--- 
+title : Angelo di Dio
+description : Il testo completo di accordi di Angelo di Dio. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Spoladore"
-
-album : "Dacci pace"
-tonalita : "Do"
+   - "Spoladore"
+album : Dacci pace
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : angelo_di_dio
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "angelo_di_dio"
-data_revisione : "2011-12-31"
----
-  
-  
-Angelo di Dio, che sei il custode mio,  
-veglia su di me,     io dormirò con Te.  
-  
-  
-  
+
+
+Angelo di Dio, che sei il custode mio,
+veglia su di me,     io dormirò con Te.
+
+

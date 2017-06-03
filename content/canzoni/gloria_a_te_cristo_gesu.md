@@ -1,49 +1,39 @@
----
-date : "2011-12-31"
-title : "Gloria a te Cristo Gesù"
+--- 
+title : Gloria a te Cristo Gesù
+description : Il testo completo di accordi di Gloria a te Cristo Gesù. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Lecot"
-
-album : "Inno del giubileo"
-tonalita : "Sol"
+   - "Lecot"
+album : Inno del giubileo
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ingresso"
-  - "Congedo"
+   - "Ingresso"
+   - "Congedo"
+identificatore : gloria_a_te_cristo_gesu
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "gloria_a_te_cristo_gesu"
-data_revisione : "2011-12-31"
----
-  
-  
-Gloria a te, Cristo Gesù, brk oggi e sempre tu regnerai.  
-Gloria a te! Presto verrai: brk sei speranza solo tu.  
-  
-  
-  
-Sia lode a te! Cristo Signore, brk offri perdono, chiedi giustizia:  
-l'anno di grazia apre le porte. brk Solo in te pace e unità!   
-Amen! Alleluia!  
-  
-  
-  
-  
-Sia lode a te! Prega con noi brk la benedetta Vergine Madre:  
-tu l'esaudisci, tu la coroni. brk Solo in te pace e unità   
-Amen! Alleluia!  
-  
-  
-  
-  
-Sia lode a te! Tutta la Chiesa brk celebra il Padre con la tua voce  
-e nello Spirito canta di gioia. brk Solo in te pace e unità.   
-Amen! Alleluia!  
-  
-  
-  
+
+
+Gloria a te, Cristo Gesù, 
+Gloria a te! Presto verrai: 
+
+
+Sia lode a te! Cristo Signore, 
+l'anno di grazia apre le porte. 
+Amen! Alleluia!
+
+
+Sia lode a te! Prega con noi 
+tu l'esaudisci, tu la coroni. 
+Amen! Alleluia!
+
+
+Sia lode a te! Tutta la Chiesa 
+e nello Spirito canta di gioia. 
+Amen! Alleluia!
+
+

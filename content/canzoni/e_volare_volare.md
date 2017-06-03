@@ -1,54 +1,38 @@
----
-date : "2013-12-31"
-title : "e_volare_volare"
+--- 
+title : e_volare_volare
+description : Il testo completo di accordi di e_volare_volare. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Michele Paulicelli"
-
-album : "Forza venite gente"
-tonalita : "Re"
+   - "Michele Paulicelli"
+album : Forza venite gente
+tonalita : Re
 famiglia : 
-  - "Altre"
-
+   - "Altre"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : e_volare_volare
+datarevisione : 2013_12_31
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "e_volare_volare"
-data_revisione : "2013-12-31"
----
-  
-  
-  
-    rep  
-  
-  
-  
- E il sole uscì color cinese,   
- e il suo ventaglio al cielo aprì.   
- E in quel fantastico paese,   
- Francesco ha dentro un quadro naif.  
-  
-  
-  
-  E tutto il cielo è sceso in  terra,   
- e uccelli a frotte ai piedi  miei;   
- buongiorno piccoli fratelli,   
- felicità della tribù di Dio.  
-  
-  
- Noi siamo l'allegria!  
- Leggero il cuore sia!  
- Chi ha piume volerà!   
-  Na na naneu nanè nanà. brk    Na na naneu nanè nanà.    
-  
-  
-  
-  E come tanti fraticelli    
- a gu e passeri parlò.   
-  Attraversate monti e  valli  
- e dite al mondo quello  che dirò.  
-  
-  
+
+
+ \D7+   
+
+
+ e il suo ven\D7+taglio al cielo aprì. 
+ E in quel fan\D7+tastico paese, 
+ Francesco ha \D7+dentro un quadro naif.
+
+
+ e uccelli a f\D7+rotte ai piedi  miei; 
+ buongiorno \D7+piccoli fratelli, 
+ felici\D7+tà della tribù di Dio.
+
+
+ a gufi e \D7+passeri parlò. 
+
+
+ e dite al \D7+mondo quello  che dirò.
+
+

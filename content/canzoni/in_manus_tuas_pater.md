@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "In manus tuas pater"
+--- 
+title : In manus tuas pater
+description : Il testo completo di accordi di In manus tuas pater. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Do"
+   - "Taizé"
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : in_manus_tuas_pater
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "in_manus_tuas_pater"
-data_revisione : "2011-12-31"
----
-  
-  
-In manus tuas Pater brk commendo spiritum meum.  
-In manus tuas Pater brk commendo spiritum meum.  
-  
-  
-  
+
+
+In manus tuas Pater 
+In manus tuas Pater 
+
+

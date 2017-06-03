@@ -1,41 +1,37 @@
----
-date : "2012-11-28"
-title : "Fratelli alla candida luna"
+--- 
+title : Fratelli alla candida luna
+description : Il testo completo di accordi di Fratelli alla candida luna. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Fa"
+   - ""
+album : 
+tonalita : Fa
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : fratelli_alla_candida_luna
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "fratelli_alla_candida_luna"
-data_revisione : "2012-11-28"
----
-  
-  
-Fratelli alla candida luna cantiamo  
-la nostra canzone più bella:  
-tra faggi ed abeti, che gioia!  
-veniamo la nostra canzone a cantar.  
-  
-  
-“Una via sola è vera” brk ci disse il Lupo Anziano  
-e dietro a lui noi siamo brk la traccia a seguitar.  
-Costanti alla ricerca, brk gioiosi nel cammino,  
-erriam no al mattino, brk seguendo il Lupo Anzian.   
-  
-  
-  
-La via è troppo scoscesa brk la traccia già si perde.  
-Solo non si disperde brk chi segue il lupo anzian.  
-Lupetto, non lasciare brk oh, non lasciare il branco,  
-il pelo è ancora bianco; brk seguiamo il Lupo Anzian.  
-  
+
+
+Fratelli alla candida luna cantiamo
+la nostra canzone più bella:
+tra faggi ed abeti, che gioia!
+veniamo la nostra canzone a cantar.
+
+
+“Una via sola è vera” 
+e dietro a lui noi siamo 
+Costanti alla ricerca, 
+erriam fino al mattino, 
+
+
+La via è troppo scoscesa 
+Solo non si disperde 
+Lupetto, non lasciare 
+il pelo è ancora bianco; 
+
+

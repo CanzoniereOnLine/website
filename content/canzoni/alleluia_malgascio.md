@@ -1,56 +1,61 @@
----
-date : "2011-12-31"
-title : "Alleluia malgascio"
+--- 
+title : Alleluia malgascio
+description : Il testo completo di accordi di Alleluia malgascio. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Mi"
+   - ""
+album : 
+tonalita : Mi
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_malgascio
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_malgascio"
-data_revisione : "2011-12-31"
----
-  
-  
-Alleluia, Alleluia,  Alleluia oh  
-Alleluia, Alleluia, Alleluia oh  
-Alleluia, Alleluia,  Alleluia oh  
-Alleluia.  
-  
-  
-Raha falifaly ianao!  
-  
-Raha malahely ianao!  
-  
-Aza mitanudrica  
-  
-Fa jereo izahay  
-  
-Zay miaraka  mihira hue  
-  
-Zay miaraka  mihira hue.  
-  
-  
-Mihira ianao!  
-  
-Fa lejilahy ianao!  
-  
-Aza mitanudrica  
-  
-Fa jereo iazahay  
-  
-Zay miaraka  mihira hue  
-  
-Zay miaraka  mihira hue.  
-  
-  
-  
+
+
+Alleluia, Alleluia,  Alleluia oh
+Alleluia, Alleluia, Alleluia oh
+Alleluia, Alleluia,  Alleluia oh
+Alleluia.
+
+
+Raha falifaly ianao!
+
+
+Raha malahely ianao!
+
+
+Aza mitanudrica
+
+
+Fa jereo izahay
+
+
+Zay miaraka  mihira hue
+
+
+Zay miaraka  mihira hue.
+
+
+Mihira ianao!
+
+
+Fa lejilahy ianao!
+
+
+Aza mitanudrica
+
+
+Fa jereo iazahay
+
+
+Zay miaraka  mihira hue
+
+
+Zay miaraka  mihira hue.
+
+

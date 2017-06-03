@@ -1,55 +1,34 @@
----
-date : "2012-11-04"
-title : "Agnello di Dio"
+--- 
+title : Agnello di Dio
+description : Il testo completo di accordi di Agnello di Dio. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Rosso, Gen Verde"
-
-album : "Come fuoco vivo"
-tonalita : "Fa"
+   - "Gen Rosso"
+   - " Gen Verde"
+album : Come fuoco vivo
+tonalita : Fa
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Agnello"
-
+   - "Liturgica"
+gruppo : Agnello
 momenti : 
-  - "Agnello di Dio"
+   - "Agnello di Dio"
+identificatore : agnello_di_dio_come_fuoco_vivo
+datarevisione : 2012_11_04
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "agnello_di_dio_come_fuoco_vivo"
-data_revisione : "2012-11-04"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Agnello di Dio   
-che togli i peccati   del mondo          
-abbi pietà, abbi pietà di noi.        
-  
-  
-  
-Agnello di Dio   
-che togli i peccati   del mondo          
-abbi pietà, abbi pietà di noi.       
-  
-  
-  
-Agnello di Dio che togli i peccati   del mondo   
-dona a noi la Pace, dona a noi la Pace.   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+Agnello di Dio 
+che togli i peccati   del mondo        
+abbi pietà, abbi pietà di noi.      
+
+
+Agnello di Dio 
+che togli i peccati   del mondo        
+abbi pietà, abbi pietà di noi.     
+
+
+Agnello di Dio che togli i peccati   del mondo 
+dona a noi la Pace, dona a noi la Pace. 
+
+

@@ -1,30 +1,24 @@
----
-date : "2013-12-30"
-title : "Mistero della fede"
+--- 
+title : Mistero della fede
+description : Il testo completo di accordi di Mistero della fede. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Bonfitto"
-
-album : "Sei grande nell'amore"
-tonalita : "Re"
+   - "Bonfitto"
+album : Sei grande nell'amore
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Anamnesi"
-
+   - "Liturgica"
+gruppo : Anamnesi
 momenti : 
-  - "Mistero della fede"
+   - "Mistero della fede"
+identificatore : mistero_della_fede_bonfitto
+datarevisione : 2013_12_30
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "mistero_della_fede_bonfitto"
-data_revisione : "2013-12-30"
----
-  
-  
-  
-Annunciamo la Tua morte Signore,   
-proclamiamo la Tua risurrezione,   
-nell'attesa della Tua venuta.   
-  
-  
-  
+
+
+Annunciamo la Tua morte Signore, 
+proclamiamo la Tua risurrezione, 
+nell'attesa della Tua venuta. 
+
+

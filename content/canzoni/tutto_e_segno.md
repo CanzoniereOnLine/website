@@ -1,38 +1,34 @@
----
-date : "2013-12-31"
-title : "Tutto è segno"
+--- 
+title : Tutto è segno
+description : Il testo completo di accordi di Tutto è segno. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : tutto_e_segno
+datarevisione : 2013_12_31
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "tutto_e_segno"
-data_revisione : "2013-12-31"
----
-  
-  
-Tutto è segno per quelli che credono rep  
-  
-  
- Ho visto il sole nella luce del mattino. rep  
-  
-  
-  
-Ho bevuto l’acqua chiara e pura.  
-  
-  
-Ho sentito un coro di amici in festa.  
-  
-  
-Nelle piccole cose io vedo Dio.  
-  
+
+
+Tutto è segno per quelli che credono 
+
+
+ Ho visto il sole nella luce del mattino. 
+
+
+Ho bevuto l’acqua chiara e pura.
+
+
+Ho sentito un coro di amici in festa.
+
+
+Nelle piccole cose io vedo Dio.
+
+

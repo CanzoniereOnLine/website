@@ -1,52 +1,40 @@
----
-date : "2011-12-31"
-title : "Receive the power"
+--- 
+title : Receive the power
+description : Il testo completo di accordi di Receive the power. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Sebastian, Pinto"
-
-album : "Inno della XXIII GMG, Sydney 2008"
-tonalita : "Mi-"
+   - "Sebastian"
+   - " Pinto"
+album : Inno della XXIII GMG, Sydney 2008
+tonalita : Mi-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : receive_the_power
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "receive_the_power"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Ogni popolo e tribù, si inginocchia davanti a te.  
-Esultiamo in te, Gesù, ti seguiamo: brk solo tu sei la Via.  
-  
-  
-  
-Alleluia, alleluia  
-Receive the Power, from the Holy Spirit  
-Alleluia, alleluia  
-Receive the Power to be a light unto the orld  
-  
-  
-  
-  
-Nello Spirito ci dai, la fortezza, la santità.  
-Nel battesimo ci fai, testimoni della tua fedeltà.  
-  
-  
-  
-Vero Dio, la lode a te, nostro Re, la lode a te,  
-Dio-con-noi, la lode a te, Carità, la lode a te,  
-Vero Dio, la lode a te, nostro Re, la lode a te,  
-Dio-con-noi, la lode a te, Trinità, brk canterò per sempre.  
-  
-  
-  
-  
-  
-  
+
+
+Ogni popolo e tribù, si inginocchia davanti a te.
+Esultiamo in te, Gesù, ti seguiamo: 
+
+
+Alle\G7+luia, alleluia
+Receive the Power, from the Holy Spirit
+Alle\G7+luia, alleluia
+Receive the Power to be a light unto the world
+
+
+Nello Spirito ci dai, la fortezza, la santità.
+Nel battesimo ci fai, testimoni della tua fedeltà.
+
+
+Vero Dio, la lode a te, nostro Re, la lode a te,
+Dio-con-noi, la lode a te, Carità, la lode a te,
+Vero Dio, la lode a te, nostro Re, la lode a te,
+Dio-con-noi, la lode a te, Trinità, 
+
+

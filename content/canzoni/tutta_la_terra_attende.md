@@ -1,75 +1,59 @@
----
-date : "2011-12-31"
-title : "Tutta la terra attende"
+--- 
+title : Tutta la terra attende
+description : Il testo completo di accordi di Tutta la terra attende. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Baggio"
-
-album : "Maranathà"
-tonalita : "Do#-"
+   - "Baggio"
+album : Maranathà
+tonalita : Do#-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Natale"
+   - "Natale"
+identificatore : tutta_la_terra_attende
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "tutta_la_terra_attende"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Tutta la terra attende impaziente   
-che si rivelino i gli di Dio   
-e soffre ancora le doglie del parto,  brk aspetta il suo Messia.   
-  
-  
-memorize  
-Germoglio della radice di Jesse  brk ti innalzi segno per noi.    
-vieni Signore a salvare il tuo popolo  brk dona  la libertà   
-Vieni Signore a salvare il tuo popolo  brk dona  la libertà   
-  
-  
-   
-Rit.   
-  
-  
-Oh chiave della famiglia di Davide   brk ci apri il regno di Dio   
-vieni Signore rischiara le tenebre  brk vinci  l'oscurità.   
-Vieni Signore rischiara le tenebre  brk vinci  l'oscurità.  
-  
-  
-   
-Rit.   
-  
-  
-O stella che fai brillare la notte   brk splendi di luce per noi,   
-vieni Signore e illumina il misero, brk  sana  la cecità.   
-Vieni Signore e illumina il misero,  brk sana  la cecità.  
-  
-  
-   
-Rit.   
-  
-  
-Re delle genti sostieni la chiesa,   brk pietra angolare sei tu   
-vieni Signore e salva il tuo popolo,  brk tutta  l'umanità.    
-Vieni Signore e salva il tuo popolo,  brk tutta  l'umanità.   
-  
-  
-Tutta la terra attende impaziente   
-che si rivelino i gli di Dio   
-e soffre ancora le doglie del parto,  brk aspetta il suo Messia.   
-Tutta la terra attende impaziente  brk aspetta il suo Messia.   
-  
-  
-  
+
+
+Tutta la terra attende impaziente 
+che si rivelino i figli di Dio 
+e soffre ancora le doglie del parto,  
+
+
+Germoglio della radice di Jesse  
+vieni Signore a salvare il tuo popolo  
+Vieni Signore a salvare il tuo popolo  
+
+
+Rit. 
+
+
+Oh chiave della famiglia di Davide   
+vieni Signore rischiara le tenebre  
+Vieni Signore rischiara le tenebre  
+
+
+Rit. 
+
+
+O stella che fai brillare la notte   
+vieni Signore e illumina il misero, 
+Vieni Signore e illumina il misero,  
+
+
+Rit. 
+
+
+Re delle genti sostieni la chiesa,   
+vieni Signore e salva il tuo popolo,  
+Vieni Signore e salva il tuo popolo,  
+
+
+Tutta la terra attende impaziente 
+che si rivelino i figli di Dio 
+e soffre ancora le doglie del parto,  
+Tutta la terra attende impaziente  
+
+

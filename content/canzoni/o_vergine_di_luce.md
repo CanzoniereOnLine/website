@@ -1,36 +1,31 @@
----
-date : "2012-11-28"
-title : "O vergine di luce"
+--- 
+title : O vergine di luce
+description : Il testo completo di accordi di O vergine di luce. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re-"
+   - ""
+album : 
+tonalita : Re-
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : o_vergine_di_luce
+datarevisione : 2012_11_28
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "o_vergine_di_luce"
-data_revisione : "2012-11-28"
----
-  
-  
-Scende la sera e distende brk il suo mantello di vel.  
-Ed il campo, calmo e silente brk si raccoglie nel mister.  
-  
-  
-O Vergine di luce brk stella dei nostri cuor,  
-ascolta la preghiera brk Madre degli esplorator.  
-  
-  
-O delle stelle Signora brk volgi lo sguardo quaggiù  
-dove i tuoi gli sotto le stelle brk ti ameranno sempre più.  
-  
-  
-  
+
+
+Scende la sera e distende 
+Ed il campo, calmo e silente 
+
+
+O Vergine di luce 
+ascolta la preghiera 
+
+
+O delle stelle Signora 
+dove i tuoi figli sotto le stelle 
+
+

@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Ostende nobis domine"
+--- 
+title : Ostende nobis domine
+description : Il testo completo di accordi di Ostende nobis domine. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : ostende_nobis_domine
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "ostende_nobis_domine"
-data_revisione : "2011-12-31"
----
-  
-  
-Ostende nobis Domine, misericordiam tuam.   
-Amen, amen! Maranatha! Maranatha!  
-  
-  
-  
+
+
+Ostende nobis Domine, misericordiam tuam. 
+Amen, amen! Maranatha! Maranatha!
+
+

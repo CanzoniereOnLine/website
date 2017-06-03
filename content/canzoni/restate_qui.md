@@ -1,29 +1,25 @@
----
-date : "2012-01-11"
-title : "Restate qui"
+--- 
+title : Restate qui
+description : Il testo completo di accordi di Restate qui. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Fa"
+   - ""
+album : 
+tonalita : Fa
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : restate_qui
+datarevisione : 2012_01_11
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "restate_qui"
-data_revisione : "2012-01-11"
----
-  
-  
-Restate qui vegliate con me,  
-voglio donarvi il mio amore;  
-Restate qui vegliate con me,  
-voglio riempirvi di gioia.  
-  
-  
+
+
+Restate qui vegliate con me,
+voglio donarvi il mio amore;
+Restate qui vegliate con me,
+voglio riempirvi di gioia.
+
+

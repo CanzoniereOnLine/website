@@ -1,34 +1,31 @@
----
-date : "2012-11-28"
-title : "Sul cappello un bel fior"
+--- 
+title : Sul cappello un bel fior
+description : Il testo completo di accordi di Sul cappello un bel fior. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Fa"
+   - ""
+album : 
+tonalita : Fa
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : sul_cappello_un_bel_fior
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "sul_cappello_un_bel_fior"
-data_revisione : "2012-11-28"
----
-  
-  
-Sul cappello un bel or, brk sulle labbra una canzon,  
-un cuor gioioso e sincero!  
-Questo solo ci vuol brk per un bravo esplorator  
-per girare il mondo intero!  
-  
-  
-Voi che passare ci vedete brk sotto la pioggia o il sole a raggio  
-certamente penserete brk che ci vuole un bel coraggio  
-per andar sempre così brk pur se ripida è la via.  
-Voi V.P. non ci capite brk perché certo non avetedots  
-  
+
+
+Sul cappello un bel fior, 
+un cuor gioioso e sincero!
+Questo solo ci vuol 
+per girare il mondo intero!
+
+
+Voi che passare ci vedete 
+certamente penserete 
+per andar sempre così 
+Voi V.P. non ci capite 
+
+

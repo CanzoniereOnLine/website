@@ -1,47 +1,35 @@
----
-date : "2013-03-02"
-title : "Gloria, gloria ao Pai Criador"
+--- 
+title : Gloria, gloria ao Pai Criador
+description : Il testo completo di accordi di Gloria, gloria ao Pai Criador. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Lode"
+   - "Lode"
+identificatore : gloria_ao_pai_criador
+datarevisione : 2013_03_02
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "gloria_ao_pai_criador"
-data_revisione : "2013-03-02"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Gloria, gloria ao Pai Criador,  
-ao Filho Redentor e ao Espirito, gloria.rep  
-  
-  
-Ao Pai Criador do mundo;  
-ao Filho, Redentor dos homens;  
-ao Espirito que anima a sua igreja,  
-ao Espirito gloria.  
-  
-  
-Gloria, gloria ao Pai Criador,  
-ao Filho Redentor e ao Espirito, gloria.rep  
-Gloria, gloria ao Pai Criador,  
-ao Filho Redentor e ao Espirito, gloria.  
-  
-  
-  
+
+
+Gloria, gloria ao Pai Criador,
+ao Filho Redentor e ao Espirito, gloria.
+
+
+Ao Pai Criador do mundo;
+ao Filho, Redentor dos homens;
+ao Espirito que anima a sua igreja,
+ao Espirito gloria.
+
+
+Gloria, gloria ao Pai Criador,
+ao Filho Redentor e ao Espirito, gloria.
+Gloria, gloria ao Pai Criador,
+ao Filho Redentor e ao Espirito, gloria.
+
+

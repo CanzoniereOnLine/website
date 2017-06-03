@@ -1,38 +1,35 @@
----
-date : "2013-12-31"
-title : "Santo"
+--- 
+title : Santo
+description : Il testo completo di accordi di Santo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Paolo Spoladore"
-
-album : ""
-tonalita : "Si-"
+   - "Paolo Spoladore"
+album : 
+tonalita : Si-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Santo"
-
+   - "Liturgica"
+gruppo : Santo
 momenti : 
-  - "Santo"
+   - "Santo"
+identificatore : santo_spoladore
+datarevisione : 2013_12_31
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "santo_spoladore"
-data_revisione : "2013-12-31"
----
-  
-  
-|Santo, Santo, Santo  
-il Signore Dio dell'universo.  
-I cieli e la terra son pieni  
-della Tua gloria.  
-  
-  
-Osanna, Osanna nell'alto dei cieli!  
-Osanna nell'alto dei cieli, Osanna!    rep  
-  
-  
-Benedetto Colui che viene  
-nel nome del Signore.  
-Benedetto Colui che viene  
-nel nome del Signore.  
-  
+
+
+|Santo, Santo, Santo
+il Signore Dio dell'universo.
+I cieli e la terra son pieni
+della Tua gloria.
+
+
+Osanna, Osanna nell'alto dei cieli!
+Osanna nell'alto dei cieli, Osanna!    
+
+
+Benedetto Colui che viene
+nel nome del Signore.
+Benedetto Colui che viene
+nel nome del Signore.
+
+

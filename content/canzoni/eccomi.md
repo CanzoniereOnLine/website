@@ -1,60 +1,44 @@
----
-date : "2011-12-31"
-title : "Eccomi"
+--- 
+title : Eccomi
+description : Il testo completo di accordi di Eccomi. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Frisina"
-
-album : "Non temere"
-tonalita : "Do"
+   - "Frisina"
+album : Non temere
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Comunione"
-  - "Salmi"
+   - "Comunione"
+   - "Salmi"
+identificatore : eccomi
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "eccomi"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Eccomi, eccomi! Signore io vengo.    
-Eccomi, eccomi! si compia in me brk la tua volontà.    
-  
-  
-  
-Nel mio Signore ho sperato brk e su di me si è chinato  
-ha dato ascolto al mio grido brk m'ha liberato dalla morte.  
-  
-  
-  
-  
-I miei piedi ha reso saldi brk sicuri ha reso i miei passi.  
-Ha messo sulla mia bocca brk un nuovo canto di lode.  
-  
-  
-  
-  
-Il sacricio non gradisci brk ma mi hai aperto l'orecchio  
-non hai voluto olocausti, brk allora ho detto: io vengo!  
-  
-  
-  
-  
-Sul tuo libro di me è scritto: brk si compia il tuo volere.  
-Questo, mio Dio, desidero, brk la tua legge è nel mio cuore.  
-  
-  
-  
-  
-La tua giustizia ho proclamato brk non tengo chiuse le labbra;  
-non riutarmi, Signore, brk la tua misericordia.  
-  
-  
-  
-  
+
+
+Eccomi, eccomi! Signore io vengo.  
+Eccomi, eccomi! si compia in me 
+
+
+Nel mio Signore ho sperato 
+ha dato ascolto al mio grido 
+
+
+I miei piedi ha reso saldi 
+Ha messo sulla mia bocca 
+
+
+Il sacrificio non gradisci 
+non hai voluto olocausti, 
+
+
+Sul tuo libro di me è scritto: 
+Questo, mio Dio, desidero, 
+
+
+La tua giustizia ho proclamato 
+non rifiutarmi, Signore, 
+
+

@@ -1,51 +1,37 @@
----
-date : "2011-12-31"
-title : "Alleluia Canta all'Altissimo"
+--- 
+title : Alleluia Canta all'Altissimo
+description : Il testo completo di accordi di Alleluia Canta all'Altissimo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Ricci"
-
-album : "La tua dimora"
-tonalita : "Re"
+   - "Ricci"
+album : La tua dimora
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_canta_allaltissimo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_canta_allaltissimo"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Alleluia! Canta all'Altissimo l'anima!  
-Alleluia! Canta alleluia!  
-Alleluia! Canta all'Altissimo l'anima!  
-Alleluia! Canta alleluia!  
-  
-  
-memorize  
-Apri, Signore, spalancaci il cuore  
-e comprenderemo le tue parole!  
-Apri, Signore, spalancaci il cuore  
-e comprenderemo le tue parole!  
-  
-  
-  
-Soltanto tu hai parole che sono  
-la vita eterna, Spirito e vita!  
-Soltanto tu hai parole che sono  
-la vita eterna, Spirito e vita!  
-  
-  
-  
+
+
+Alleluia! Canta all'Altissimo l'anima!
+Alleluia! Canta alleluia!
+Alleluia! Canta all'Altissimo l'anima!
+Alleluia! Canta alleluia!
+
+
+Apri, Signore, spalancaci il cuore
+e comprenderemo le tue parole!
+Apri, Signore, spalancaci il cuore
+e comprenderemo le tue parole!
+
+
+Soltanto tu hai parole che sono
+la vita eterna, Spirito e vita!
+Soltanto tu hai parole che sono
+la vita eterna, Spirito e vita!
+
+

@@ -1,30 +1,24 @@
----
-date : "2011-12-31"
-title : "Confitemini domino"
+--- 
+title : Confitemini domino
+description : Il testo completo di accordi di Confitemini domino. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re"
+   - "Taizé"
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : confitemini_domino
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "confitemini_domino"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Contemini Domino quoniam bonus  
-contemini Domino alleluia!  
-  
-  
-  
+
+
+Confitemini Domino quoniam bonus
+confitemini Domino alleluia!
+
+

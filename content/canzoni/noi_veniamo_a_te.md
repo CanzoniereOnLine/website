@@ -1,62 +1,37 @@
----
-date : "2011-12-31"
-title : "Noi veniamo a Te"
+--- 
+title : Noi veniamo a Te
+description : Il testo completo di accordi di Noi veniamo a Te. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Buttazzo"
-
-album : "Vita nuova con Te"
-tonalita : "Fa"
+   - "Buttazzo"
+album : Vita nuova con Te
+tonalita : Fa
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ingresso"
+   - "Ingresso"
+identificatore : noi_veniamo_a_te
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "noi_veniamo_a_te"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Noi veniamo a te, ti seguiamo Signor,   
-solo Tu hai parole di vita  
-e rinascerà dall'incontro con Te   
-una nuova umanità.  
-  
-  
-  
-Tu, maestro degli uomini, brk tu ci chiami all'ascolto     
-e rinnovi con noi brk l'alleanza d'amore innito.      
-  
-  
-  
-  
-Tu, speranza degli uomini, brk ti ci apri alla vita  
-e rinnovi per noi brk la promessa del mondo futuro.  
-  
-  
-  
-  
-Tu, amico degli uomini, brk tu ci chiami fratelli  
-e rivivi con noi brk l'avventura di un nuovo cammino.  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+Noi veniamo a te, ti seguiamo Signor, 
+solo Tu hai parole di vita
+e rinascerà dall'incontro con Te 
+una nuova umanità.
+
+
+Tu, maestro degli uomini, 
+e rinnovi con noi 
+
+
+Tu, speranza degli uomini, 
+e rinnovi per noi 
+
+
+Tu, amico degli uomini, 
+e rivivi con noi 
+
+

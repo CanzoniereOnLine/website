@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Dacci pace"
+--- 
+title : Dacci pace
+description : Il testo completo di accordi di Dacci pace. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Spoladore"
-
-album : "Dacci pace"
-tonalita : "Sol-"
+   - "Spoladore"
+album : Dacci pace
+tonalita : Sol-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : dacci_pace
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "dacci_pace"
-data_revisione : "2011-12-31"
----
-  
-  
-O Signore dacci pace tutto infatti è dono tuo. rep (II volta: D7)  
-  
-La pace del silenzio, la pace della festa, brk la pace senza ne.  
-  
-  
-  
-  
+
+
+O Signore dacci pace tutto infatti è dono tuo.  \(II volta: D7)
+
+
+La pace del silenzio, la pace della festa, 
+
+

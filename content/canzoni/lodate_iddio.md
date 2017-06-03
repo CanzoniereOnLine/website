@@ -1,55 +1,44 @@
----
-date : "2011-12-31"
-title : "Lodate Iddio"
+--- 
+title : Lodate Iddio
+description : Il testo completo di accordi di Lodate Iddio. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Cento"
-
-album : "È il giorno del Signore"
-tonalita : "Re-"
+   - "Cento"
+album : È il giorno del Signore
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Salmi"
-  - "Lode"
+   - "Salmi"
+   - "Lode"
+identificatore : lodate_iddio
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "lodate_iddio"
-data_revisione : "2011-12-31"
----
-  
-  
-Sole, vento e ori del campo, brk lodate, lodate, lodate Iddio.  
-Terra, uomo, uccelli del cielo, brk lodate, lodate, lodate Iddio.  
-Voi che amate la vita e i fratelli, brk lodate, lodate, lodate Iddio.  
-Voi che siete felici o tristi, brk lodate, lodate, lodate Iddio.  
-  
-  
-  
-  
-Fuoco e nebbia e cime dei monti, brk lodate, lodate, lodate Iddio  
-Nevi eterne e acque dei umi, brk lodate, lodate, lodate Iddio  
-Voi che avete la pace nel cuore, brk lodate, lodate, lodate Iddio  
-Voi che lottate sul posto di lavoro, brk lodate, lodate, lodate Iddio.  
-  
-  
-  
-  
-Con le stelle accese nel cielo, brk lodate, lodate, lodate Iddio  
-con i bimbi felici nel mondo, brk lodate, lodate, lodate Iddio  
-Con i ragazzi che cercano amore, brk lodate, lodate, lodate Iddio  
-Con gli oppressi di ogni colore, brk lodate, lodate, lodate Iddio.  
-  
-  
-  
-  
-È Gesù la speranza dell'uomo brk lodate, lodate, lodate Iddio  
-Noi cristiani viviamo di Lui brk lodate, lodate, lodate Iddio  
-E cantiamo la gioia e l'amore brk lodate, lodate, lodate Iddio  
-Che rinasce in chi crede in Lui, brk lodate, lodate, lodate Iddio.  
-  
-  
-  
+
+
+Sole, vento e fiori del campo, 
+Terra, uomo, uccelli del cielo, 
+Voi che amate la vita e i fratelli, 
+Voi che siete felici o tristi, 
+
+
+Fuoco e nebbia e cime dei monti, 
+Nevi eterne e acque dei fiumi, 
+Voi che avete la pace nel cuore, 
+Voi che lottate sul posto di lavoro, 
+
+
+Con le stelle accese nel cielo, 
+con i bimbi felici nel mondo, 
+Con i ragazzi che cercano amore, 
+Con gli oppressi di ogni colore, 
+
+
+È Gesù la speranza dell'uomo 
+Noi cristiani viviamo di Lui 
+E cantiamo la gioia e l'amore 
+Che rinasce in chi crede in Lui, 
+
+

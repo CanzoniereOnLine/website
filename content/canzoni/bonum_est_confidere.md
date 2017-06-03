@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Bonum est confidere"
+--- 
+title : Bonum est confidere
+description : Il testo completo di accordi di Bonum est confidere. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : bonum_est_confidere
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "bonum_est_confidere"
-data_revisione : "2011-12-31"
----
-  
-  
-Bonum est condere in no  
-Bonum sperare in no.  
-  
-  
-  
+
+
+Bonum est confidere in Domino
+Bonum sperare in Domino.
+
+

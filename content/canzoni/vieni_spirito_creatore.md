@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Vieni Spirito creatore"
+--- 
+title : Vieni Spirito creatore
+description : Il testo completo di accordi di Vieni Spirito creatore. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : vieni_spirito_creatore
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "vieni_spirito_creatore"
-data_revisione : "2011-12-31"
----
-  
-  
-Vieni Spirito creatore, vieni, ni.  
-Vieni Spirito creatore, vieni, ni.  
-  
-  
-  
+
+
+Vieni Spirito creatore, vieni, vieni.
+Vieni Spirito creatore, vieni, vieni.
+
+

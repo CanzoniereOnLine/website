@@ -1,33 +1,27 @@
----
-date : "2011-12-31"
-title : "Alleluia, ed oggi ancora"
+--- 
+title : Alleluia, ed oggi ancora
+description : Il testo completo di accordi di Alleluia, ed oggi ancora. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Sequeri"
-
-album : "E mi sorprende"
-tonalita : "Re-"
+   - "Sequeri"
+album : E mi sorprende
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_ed_oggi_ancora
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "alleluia_ed_oggi_ancora"
-data_revisione : "2011-12-31"
----
-  
-  
- Alleluia,  alleluia,  brk alleluia,  alleluia,  
- alleluia,  alleluia, brk  alleluia,  alleluia.  
-  
-  
-  
-Ed oggi ancora, mio Signore, brk ascolterò la tua parola,  
-che mi guida nel cammino della vita.  
-  
-  
-  
+
+
+ Alleluia,  alleluia,  
+ alleluia,  alleluia, 
+
+
+Ed oggi ancora, mio Signore, 
+che mi guida nel cammino della vita.
+
+

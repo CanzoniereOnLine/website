@@ -1,32 +1,28 @@
----
-date : "2013-12-30"
-title : "Alleluia Passeranno i cieli"
+--- 
+title : Alleluia Passeranno i cieli
+description : Il testo completo di accordi di Alleluia Passeranno i cieli. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Costa, Varnavà"
-
-album : "Canti Cristiani"
-tonalita : "Re"
+   - "Costa"
+   - " Varnavà"
+album : Canti Cristiani
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_passeranno_i_cieli
+datarevisione : 2013_12_30
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_passeranno_i_cieli"
-data_revisione : "2013-12-30"
----
-  
-  
-Alleluia, alleluia, alleluia,  
-alleluia, alleluia,  alleluia, alleluia.  
-  
-  
-Passeranno i cieli e passerà la terra,  
-la Tua parola non passerà.  brk Alleluia, alleluia.  
-  
-  
-  
+
+
+Alleluia, alleluia, alleluia,
+alleluia, alleluia,  alleluia, alleluia.
+
+
+Passeranno i cieli e passerà la terra,
+la Tua parola non passerà.  
+
+

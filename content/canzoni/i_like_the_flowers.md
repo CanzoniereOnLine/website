@@ -1,28 +1,25 @@
----
-date : "2012-11-28"
-title : "I like the flowers"
+--- 
+title : I like the flowers
+description : Il testo completo di accordi di I like the flowers. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : i_like_the_flowers
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "i_like_the_flowers"
-data_revisione : "2012-11-28"
----
-  
-  
- I like the flowers!  I like the daffodils!  
-I like the mountains! I like the rolling hills!  
-I like the re place when the light is low!  
-Mmmmmmmmdots  
-  
+
+
+ I like the flowers!  I like the daffodils!
+I like the mountains! I like the rolling hills!
+I like the fire place when the light is low!
+Mmmmmmmm
+
+

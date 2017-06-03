@@ -1,78 +1,62 @@
----
-date : "2011-12-31"
-title : "Benedici"
+--- 
+title : Benedici
+description : Il testo completo di accordi di Benedici. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Spoladore"
-
-album : "Così"
-tonalita : "Re"
+   - "Spoladore"
+album : Così
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Offertorio"
-  - "Comunione"
+   - "Offertorio"
+   - "Comunione"
+identificatore : benedici_spoladore
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "benedici_spoladore"
-data_revisione : "2011-12-31"
----
-  
-  
-Padre buono che sei in cielo   
-il tuo nome è ogni uomo,    
-ogni cuore è il tuo cielo,   
-la tua casa siamo noi.   
-Benedici questa terra   
-che Tu abiti e fai bella,    
-benedici questo giorno   
-che ci cresce fra le mani.   
-  
-  
-Benedici questa vita   
-che per tutti sia felice,   
-e il coraggio di donare  
-sia lo Spirito del mondo,  
-benedici o mio Signore,  
-benedici o mio Signore.    
-  
-  
-  
-Benedici questo tempo  (textsc voce: o o o)  
-ogni uomo che lavora,   
-ogni mamma e il suo bambino   
-che di Te sono il sorriso.   
-Benedici chi Ti cerca  brk nel silenzio del deserto   
-e chi invece ti ha confuso  brk con la fretta ed il rumore.   
-  
-  
-  
-Benedici chi Ti prega  (textsc voce: o mio Signor)  
-e non sa il nome Tuo   
-ogni glio che ha paura   
-di esser solo e del futuro.   
-Benedici i Tuoi poveri  brk ed il grido della fame   
-prendi questo nostro pane   brk per la mensa dell'amore.   
-  
-  
-  
-Il dolore e la fatica    
-benedici o Signore   
-chi ha il fucile tra le mani   
-e il perché lui non lo sa.   
-Benedici la speranza  brk che sa nascere dal buio   
-benedici questa gioia  brk che cantiamo assieme a Te.   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+Padre buono che sei in cielo 
+il tuo nome è ogni uomo,  
+ogni cuore è il tuo cielo, 
+la tua casa siamo noi. 
+Benedici questa terra 
+che Tu abiti e fai bella,  
+benedici questo giorno 
+che ci cresce fra le mani. 
+
+
+Benedici questa vita 
+che per tutti sia felice, 
+e il coraggio di donare
+sia lo Spirito del mondo,
+benedici o mio Signore,
+benedici o mio Signore.  
+
+
+Benedici questo tempo  ( voce: o o o)
+ogni uomo che lavora, 
+ogni mamma e il suo bambino 
+che di Te sono il sorriso. 
+Benedici chi Ti cerca  
+e chi invece ti ha confuso  
+
+
+Benedici chi Ti prega  ( voce: o mio Signor)
+e non sa il nome Tuo 
+ogni figlio che ha paura 
+di esser solo e del futuro. 
+Benedici i Tuoi poveri  
+prendi questo nostro pane   
+
+
+Il dolore e la fatica  
+benedici o Signore 
+chi ha il fucile tra le mani 
+e il perché lui non lo sa. 
+Benedici la speranza  
+benedici questa gioia  
+
+

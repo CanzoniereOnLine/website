@@ -1,48 +1,43 @@
----
-date : "2011-12-31"
-title : "Alleluia Canto per Cristo"
+--- 
+title : Alleluia Canto per Cristo
+description : Il testo completo di accordi di Alleluia Canto per Cristo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Costa"
-
-album : "Nella Casa del Padre 446"
-tonalita : "Re"
+   - "Costa"
+album : Nella Casa del Padre 446
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_canto_per_cristo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_canto_per_cristo"
-data_revisione : "2011-12-31"
----
-  
-  
-Alleluia, alleluia, alleluia,  
-alleluia, alleluia!  
-Alleluia, alleluia, alleluia,  
-alleluia, alleluia!  
-  
-  
-Canto per Cristo che mi libererà  
-quando verrà nella gloria,  
-quando la vita con Lui rinascerà,  
-alleluia, alleluia!  
-  
-  
-Canto per Cristo: in Lui riorirà  
-ogni speranza perduta,  
-ogni creatura con Lui risorgerà,  
-alleluia, alleluia!  
-  
-   
-Canto per Cristo: un giorno tornerà!  
-Festa per tutti gli amici,  
-festa di un mondo che più non morirà,  
-alleluia, alleluia!  
-  
-  
-  
+
+
+Alleluia, alleluia, alleluia,
+alleluia, alleluia!
+Alleluia, alleluia, alleluia,
+alleluia, alleluia!
+
+
+Canto per Cristo che mi libererà
+quando verrà nella gloria,
+quando la vita con Lui rinascerà,
+alleluia, alleluia!
+
+
+Canto per Cristo: in Lui rifiorirà
+ogni speranza perduta,
+ogni creatura con Lui risorgerà,
+alleluia, alleluia!
+
+
+Canto per Cristo: un giorno tornerà!
+Festa per tutti gli amici,
+festa di un mondo che più non morirà,
+alleluia, alleluia!
+
+

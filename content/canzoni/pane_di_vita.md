@@ -1,76 +1,56 @@
----
-date : "2011-12-31"
-title : "Pane di vita"
+--- 
+title : Pane di vita
+description : Il testo completo di accordi di Pane di vita. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Marranzino, Pesare"
-
-album : "Il Tuo amore è grande"
-tonalita : "Sol"
+   - "Marranzino"
+   - " Pesare"
+album : Il Tuo amore è grande
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Offertorio"
-  - "Comunione"
+   - "Offertorio"
+   - "Comunione"
+identificatore : pane_di_vita
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "pane_di_vita"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-           
-          
-  
-  
-  
-  
-Pane di vita sei, brk spezzato per tutti noi,  
-chi ne mangia per sempre in te vivrà.      
-  
-Veniamo al tuo santo altare,   
-mensa del tuo amore.  
-Come pane vieni in mezzo a noi.  
-  
-  
-  
-Il tuo corpo ci sazierà    
-Il tuo sangue ci salverà  
-perché Signor tu sei morto per amore  
-e ti offri oggi per noi.  rep  
-( e ti offri oggi per noi. )  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Fonte di vita sei, brk immensa carità,  
-il tuo sangue ci dona l'eternità.  
-  
-Veniamo al tuo santo altare,   
-mensa del tuo amore.  
-Come vino vieni in mezzo a noi.  
-  
-  
-  
-Il tuo corpo ci sazierà    
-Il tuo sangue ci salverà  
-perché Signor tu sei morto per amore  
-e ti offri   
-()  
-  
-  
-  
-  
+
+
+  \G7+ \C7+     
+
+
+Pane di vita \C7+sei, 
+chi ne mangia per \G7+sempre in \C7+te vivrà.    
+
+
+Veniamo al tuo santo altare, 
+mensa del tuo amore.
+Come pane vieni in mezzo a noi.
+
+
+Il tuo corpo ci sazie\C7+rà  
+Il tuo sangue ci salve\C7+rà
+perché Signor tu sei morto per amore
+e ti offri oggi per noi.  
+(
+
+
+Fonte di vita sei, 
+il tuo sangue ci dona l'eternità.
+
+
+Veniamo al tuo santo altare, 
+mensa del tuo amore.
+Come vino vieni in mezzo a noi.
+
+
+Il tuo corpo ci sazie\C7+rà  
+Il tuo sangue ci salve\C7+rà
+perché Signor tu sei morto per amore
+e ti offri oggi per noi. 
+(
+
+

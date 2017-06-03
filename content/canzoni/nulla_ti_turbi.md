@@ -1,31 +1,27 @@
----
-date : "2011-12-31"
-title : "Nulla ti turbi"
+--- 
+title : Nulla ti turbi
+description : Il testo completo di accordi di Nulla ti turbi. Inseriscila nel tuo canzoniere!
 autori : 
-  - "S. Teresa D'avila, Taizé"
-
-album : ""
-tonalita : "La-"
+   - "S. Teresa D'avila"
+   - " Taizé"
+album : 
+tonalita : La-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : nulla_ti_turbi
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "nulla_ti_turbi"
-data_revisione : "2011-12-31"
----
-  
-  
-Nulla ti turbi, nulla ti spaventi:   
-chi ha Dio nulla gli manca.  
-Nulla ti turbi, nulla ti spaventi:   
-solo Dio basta.  
-  
-  
-  
+
+
+Nulla ti turbi, nulla ti spa\C7+venti: 
+chi ha Dio nulla gli manca.
+Nulla ti turbi, nulla ti spa\C7+venti: 
+solo Dio basta.
+
+

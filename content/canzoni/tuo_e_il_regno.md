@@ -1,30 +1,23 @@
----
-date : "2011-12-31"
-title : "Tuo è il regno"
+--- 
+title : Tuo è il regno
+description : Il testo completo di accordi di Tuo è il regno. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Dossologia"
-
+   - "Liturgica"
+gruppo : Dossologia
 momenti : 
-  - "Dossologia"
+   - "Dossologia"
+identificatore : tuo_e_il_regno
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "tuo_e_il_regno"
-data_revisione : "2011-12-31"
----
-  
-  
-Tuo è il Regno, tua la potenza  
-e la gloria nei secoli.  
-  
-  
-  
-  
-  
+
+
+Tuo è il Regno, tua la potenza
+e la gloria nei secoli.
+
+

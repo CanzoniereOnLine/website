@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Adoramus te Domine"
+--- 
+title : Adoramus te Domine
+description : Il testo completo di accordi di Adoramus te Domine. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Fa"
+   - "Taizé"
+album : 
+tonalita : Fa
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizè"
+   - "Ritornelli"
+   - "Taizè"
+identificatore : adoramus_domine
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "adoramus_domine"
-data_revisione : "2011-12-31"
----
-  
-  
-Oh  adoramus te, Domine  
-Oh  adoramus te, Domine.  
-  
-  
-  
+
+
+Oh  adoramus te, Domine
+Oh  adoramus te, Domine.
+
+

@@ -1,35 +1,25 @@
----
-date : "2011-12-31"
-title : "Rendete grazie"
+--- 
+title : Rendete grazie
+description : Il testo completo di accordi di Rendete grazie. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Smith"
-
-album : "Come Davide"
-tonalita : "Fa"
+   - "Smith"
+album : Come Davide
+tonalita : Fa
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ringraziamento"
+   - "Ringraziamento"
+identificatore : rendete_grazie
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "rendete_grazie"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Rendete grazie a Colui che è Santo,   
-rendete grazie a Dio brk per suo Figlio Gesù! rep  
-E possa il debole dir son forte e possa  
-il povero dir son ricco per quel che ha fatto il Signore per me. rep  
-  
-  
-  
-  
-  
-  
-  
+
+
+Rendete grazie a Colui che è Santo, 
+rendete grazie a Dio 
+E possa il debole dir son forte e possa
+il povero dir son \F7+ricco per quel che ha fatto il Signore per me. 
+
+

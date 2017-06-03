@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Spirito Santo, soffia su di noi"
+--- 
+title : Spirito Santo, soffia su di noi
+description : Il testo completo di accordi di Spirito Santo, soffia su di noi. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "La"
+   - ""
+album : 
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pentecoste"
+   - "Pentecoste"
+identificatore : spirito_santo_soffia_su_di_noi
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "spirito_santo_soffia_su_di_noi"
-data_revisione : "2011-12-31"
----
-  
-  
-Spirito Santo, sofa su noi  
-Fiume di pace, un mare d'amore  
-Come una fonte,	 dai la Tua gioia  
-Spirito Santo, riempici di Te.  
-  
-  
-  
+
+
+Spirito Santo, soffia su noi
+Fiume di pace, un mare d'amore
+Come una fonte,	 dai la Tua gioia
+Spirito Santo, riempici di Te.
+
+

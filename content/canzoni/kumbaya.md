@@ -1,36 +1,31 @@
----
-date : "2011-12-31"
-title : "Kumbaya"
+--- 
+title : Kumbaya
+description : Il testo completo di accordi di Kumbaya. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : kumbaya
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "kumbaya"
-data_revisione : "2011-12-31"
----
-  
-  
-Kumbaya, my Lord,  kumbaya;  
-Kumbaya, my Lord,  kumbaya;  
-Kumbaya, my Lord,  kumbaya;  
- O Lord,  kumbaya.  
-  
-  
-Someone's singing, Lord, kumbayadots  
-Someone's praying, Lord, kumbayadots   
-Someone's crying, Lord, kumbayadots   
-Someone's sleeping Lord, kumbayadots  
-  
-  
-  
+
+
+Kumbaya, my Lord,  kumbaya;
+Kumbaya, my Lord,  kumbaya;
+Kumbaya, my Lord,  kumbaya;
+ O Lord,  kumbaya.
+
+
+Someone's singing, Lord, kumbaya
+Someone's praying, Lord, kumbaya
+Someone's crying, Lord, kumbaya
+Someone's sleeping Lord, kumbaya
+
+

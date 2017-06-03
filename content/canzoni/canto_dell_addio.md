@@ -1,41 +1,35 @@
----
-date : "2012-11-08"
-title : "Canto dell'addio"
+--- 
+title : Canto dell'addio
+description : Il testo completo di accordi di Canto dell'addio. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Fa"
+   - ""
+album : 
+tonalita : Fa
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : canto_dell_addio
+datarevisione : 2012_11_08
+trascrittore : Antonio Badan, Francesco Endrici
+--- 
 
-video : 
-identificatore : "canto_dell_addio"
-data_revisione : "2012-11-08"
----
-  
-  
-memorize  
-È l'ora dell'addio, fratelli, brk è l'ora di partir,  
-il canto si fa triste, è ver, brk partir è un po' morir.  
-  
-  
-replay  
-Ma noi ci rivedremo ancor, brk ci rivedremo un dì.  
-Arrivederci allor, fratelli, brk arrivederci, sì.  
-  
-  
-  
-Iddio che tutto vede e sa brk ci voglia benedir,  
-Iddio che tutto vede e sa brk ci voglia un dì riunir.  
-  
-  
-Formiamo una catena brk con le mani nelle man,  
-uniamoci l'un l'altro brk prima di tornar lontan.  
-  
+
+
+È l'ora dell'addio, fratelli, 
+il canto si fa triste, è ver, 
+
+
+Ma noi ci rivedremo ancor, 
+Arrivederci allor, fratelli, 
+
+
+Iddio che tutto vede e sa 
+Iddio che tutto vede e sa 
+
+
+Formiamo una catena 
+uniamoci l'un l'altro 
+
+

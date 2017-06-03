@@ -1,74 +1,57 @@
----
-date : "2011-12-31"
-title : "Abbà misericordia"
+--- 
+title : Abbà misericordia
+description : Il testo completo di accordi di Abbà misericordia. Inseriscila nel tuo canzoniere!
 autori : 
-  - "de Luca, Aguila"
-
-album : "Io scelgo te"
-tonalita : "Do"
+   - "de Luca"
+   - " Aguila"
+album : Io scelgo te
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ingresso"
-  - "Quaresima"
-  - "Conversione"
-  - "Riconciliazione"
+   - "Ingresso"
+   - "Quaresima"
+   - "Conversione"
+   - "Riconciliazione"
+identificatore : abba_misericordia
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "abba_misericordia"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Non sono degno di essere qui,  
-ho abbandonato la tua casa,  
-ho dissipato i tuoi beni,  
-Padre ho peccato contro il cielo e contro di te.     
-  
-  
-  
-Abbà, misericordia Abbà,  
-misericordia Abbà, bà.    
-Abbà, misericordia Abbà,  
-misericordia Abbà, bà  
-  
-  
-  
-  
-Non sono degno di esser tuo glio,  
-in Gesù Cristo rialzami  
-e in lui ridammi la vita,  
-Padre ho peccato contro il cielo e contro di te.  
-  
-  
-  
-  
-Non sono degno del tuo amore,  
-riempi il mio cuore del tuo Spirito,  
-insieme a te farò festa per sempre,  
-Padre ho peccato contro il cielo e contro di te.  
-  
-  
-  
-Abbà, misericordia Abbà,  
-misericordia Abbà, Abbà.   
-Abbà, misericordia Abbà,  
-misericordia Abbà, Abbà,   
-Abbà, misericordia Abbà,  
-misericordia Ab Abbà    
-Abbà, misericordia Abbà,  
-misericordia Abbà, Abbà, bà  
-  
-  
-  
+
+
+Non sono degno di essere qui,
+ho abbandonato la tua casa,
+ho dissipato i tuoi beni,
+Padre ho peccato contro il cielo e contro di te.   
+
+
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà.  
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà,  Abbà
+
+
+Non sono degno di esser tuo figlio,
+in Gesù Cristo rialzami
+e in lui ridammi la vita,
+Padre ho peccato contro il cielo e contro di te.
+
+
+Non sono degno del tuo amore,
+riempi il mio cuore del tuo Spirito,
+insieme a te farò festa per sempre,
+Padre ho peccato contro il cielo e contro di te.
+
+
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà. 
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà, 
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà  
+Abbà, misericordia Abbà,
+misericordia Abbà, Abbà, Abbà
+
+

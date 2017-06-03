@@ -1,40 +1,37 @@
----
-date : "2013-12-30"
-title : "Alleluia, come parola"
+--- 
+title : Alleluia, come parola
+description : Il testo completo di accordi di Alleluia, come parola. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Paolo Sartore"
-
-album : ""
-tonalita : "Sol"
+   - "Paolo Sartore"
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_come_parola
+datarevisione : 2013_12_30
+trascrittore : Antonio Badan - Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_come_parola"
-data_revisione : "2013-12-30"
----
-  
-  
- Come parola di vita,  
-come acqua tra le dita,  
-la tua parola Signore! rep  
-  
-  
-Alleluia, Alleluia, Alleluia!  
-Alleluia, Alleluia, Alleluia!  
-  
-  
- La forza della tua parola  
-mi sostiene mi consola  
-no al tuo ritorno! rep  
-  
-  
-Alleluia, Alleluia, Alleluia!  
-Alleluia, Alleluia, Alleluia!  
-  
+
+
+ Come parola di vita,
+come acqua tra le dita,
+la tua parola Signore! 
+
+
+Alleluia, Alleluia, Alleluia!
+Alleluia, Alleluia, Alleluia!
+
+
+ La forza della tua parola
+mi sostiene mi consola
+fino al tuo ritorno! 
+
+
+Alleluia, Alleluia, Alleluia!
+Alleluia, Alleluia, Alleluia!
+
+

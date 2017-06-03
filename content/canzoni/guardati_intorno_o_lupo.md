@@ -1,40 +1,36 @@
----
-date : "2012-11-28"
-title : "Guardati intorno, o lupo"
+--- 
+title : Guardati intorno, o lupo
+description : Il testo completo di accordi di Guardati intorno, o lupo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : guardati_intorno_o_lupo
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "guardati_intorno_o_lupo"
-data_revisione : "2012-11-28"
----
-  
-  
-Guardati intorno, o lupo: brk il bosco si ridesta;  
-ulula di lontano brk un cuccioletto in festa.  
-  
-  
-E par che ti ripeta: brk “sei sulla giusta traccia  
-prosegui il tuo cammino,  brk lupetto, buona caccia!  
-Buona caccia, lupetto!”  
-  
-  
-  
-Il sol splende radioso brk là nell'azzurro cielo;  
-si libra in alto un'aquila brk nell'aria senza velo.  
-  
-  
-Quando tramonta il sole brk e discende la notte,  
-escono dalle tane, brk a caccia, i lupi a frotte.  
-  
+
+
+Guardati intorno, o lupo: 
+ulula di lontano 
+
+
+E par che ti ripeta: 
+prosegui il tuo cammino,  
+Buona caccia, lupetto!”
+
+
+Il sol splende radioso 
+si libra in alto un'aquila 
+
+
+Quando tramonta il sole 
+escono dalle tane, 
+
+

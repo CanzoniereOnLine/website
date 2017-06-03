@@ -1,40 +1,31 @@
----
-date : "2011-12-31"
-title : "Alleluia venite a me"
+--- 
+title : Alleluia venite a me
+description : Il testo completo di accordi di Alleluia venite a me. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_venite_a_me
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "alleluia_venite_a_me"
-data_revisione : "2011-12-31"
----
-  
-  
-Venite a me: allelu brk Credete in me: alleluja!  
-Io sono la via, la verità: alleluja, alleluja!  
-  
-  
-  
-  
-Restate in me: alleluia! brk Vivete in me: alleluia!  
-Io sono la vita, la santità, alleluia, alleluia.  
-  
-  
-  
-  
-Cantate con me: alleluia! brk Danzate con me: alleluia!  
-Io sono la gioia, la libertà: alleluia, alleluia.  
-  
-  
-  
+
+
+Venite a me: alleluja! 
+Io sono la via, la verità: alleluja, alleluja!
+
+
+Restate in me: alleluia! 
+Io sono la vita, la santità, alleluia, alleluia.
+
+
+Cantate con me: alleluia! 
+Io sono la gioia, la libertà: alleluia, alleluia.
+
+

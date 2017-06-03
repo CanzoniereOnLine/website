@@ -1,51 +1,42 @@
----
-date : "2014-10-01"
-title : "Spirito di Dio"
+--- 
+title : Spirito di Dio
+description : Il testo completo di accordi di Spirito di Dio. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Rangoni, Soldano"
-
-album : "Celebrate"
-tonalita : "Re"
+   - "Rangoni"
+   - " Soldano"
+album : Celebrate
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pentecoste"
+   - "Pentecoste"
+identificatore : spirito_di_dio_rangoni
+datarevisione : 2014_10_01
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "spirito_di_dio_rangoni"
-data_revisione : "2014-10-01"
----
-  
-  
-  
-  
-  
-            
-  
-  
-  
-  
-memorize  
-Spirito di Dio riempimi,   brk Spirito di Dio battezzami,    
-Spirito di Dio consacrami, brk vieni ad abitare dentro me!     
-  
-  
-  
-Spirito di Dio guariscimi, brk Spirito di Dio rinnovami   
-Spirito di Dio consacrami, brk vieni ad abitare dentro me!   
-  
-  
-  
-Spirito di Dio guariscici, brk Spirito di Dio rinnovaci,   
-Spirito di Dio consacraci, brk vieni ad abitare dentro noi!   
-  
-  
-  
-Spirito di Dio riempici, brk Spirito di Dio battezzaci   
-Spirito di Dio consacraci, brk vieni ad abitare dentro noi!   
-  
-  
+
+
+\
+
+
+         
+
+
+Spirito di Dio riempimi,   
+Spirito di Dio consacrami, 
+
+
+Spirito di Dio guariscimi, 
+Spirito di Dio consacrami, 
+
+
+Spirito di Dio guariscici, 
+Spirito di Dio consacraci, 
+
+
+Spirito di Dio riempici, 
+Spirito di Dio consacraci, 
+
+

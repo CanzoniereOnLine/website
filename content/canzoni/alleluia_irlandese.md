@@ -1,44 +1,33 @@
----
-date : "2011-12-31"
-title : "Alleluia irlandese"
+--- 
+title : Alleluia irlandese
+description : Il testo completo di accordi di Alleluia irlandese. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Carrol, Lecot"
-
-album : ""
-tonalita : "Sol"
+   - "Carrol"
+   - " Lecot"
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
-  - "Natale"
+   - "Alleluia"
+   - "Natale"
+identificatore : alleluia_irlandese
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "alleluia_irlandese"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-Allelu Alleluia  
-Allelu Alleluia  
-  
-  
-  
-Cantiam al Signore con inni.  
-Egli ha fatto prodigi: in coro tutti cantiamo.  
-  
-  
-  
-  
-Mostrò la sua giustizia,   
-la grande sua potenza, ai popoli tutti del mondo.  
-  
-  
-  
-  
-  
+
+
+Alleluia Alleluia
+Alleluia Alleluia
+
+
+Cantiam al Signore con inni.
+Egli ha fatto prodigi: in coro tutti cantiamo.
+
+
+Mostrò la sua giustizia, 
+la grande sua potenza, ai popoli tutti del mondo.
+
+

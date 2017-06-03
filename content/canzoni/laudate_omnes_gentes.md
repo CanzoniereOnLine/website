@@ -1,31 +1,24 @@
----
-date : "2013-12-31"
-title : "Laudate omnes gentes"
+--- 
+title : Laudate omnes gentes
+description : Il testo completo di accordi di Laudate omnes gentes. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re"
+   - "Taizé"
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : laudate_omnes_gentes
+datarevisione : 2013_12_31
+trascrittore : Francesco Endrici - Manuel Toniato - Antonio Badan
+--- 
 
-video : 
-identificatore : "laudate_omnes_gentes"
-data_revisione : "2013-12-31"
----
-  
-  
-  
-Laudate omnes gentes, brk laudate Dominum.  
-Laudate omnes gentes, laudate Dominum.  
-  
-  
-  
-  
+
+
+Laudate omnes gentes, 
+Laudate omnes gentes, laudate Dominum.
+
+

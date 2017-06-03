@@ -1,33 +1,28 @@
----
-date : "2011-12-31"
-title : "Messa dei fanciulli"
+--- 
+title : Messa dei fanciulli
+description : Il testo completo di accordi di Messa dei fanciulli. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Consacrazione"
+   - "Consacrazione"
+identificatore : messa_dei_fanciulli
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "messa_dei_fanciulli"
-data_revisione : "2011-12-31"
----
-  
-  
-Gloria a Te Signore che ci vuoi bene.  
-  
-  
-È il Signore Gesù, si offre per noi.  
-  
-  
-Un cuor solo, un'anima sola, brk per la Tua gloria, Signore.  
-  
-  
-  
+
+
+Gloria a Te Signore che ci vuoi bene.
+
+
+È il Signore Gesù, si offre per noi.
+
+
+Un cuor solo, un'anima sola, 
+
+

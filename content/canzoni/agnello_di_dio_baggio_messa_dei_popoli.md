@@ -1,41 +1,37 @@
----
-date : "2012-03-30"
-title : "Agnello di Dio"
+--- 
+title : Agnello di Dio
+description : Il testo completo di accordi di Agnello di Dio. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Baggio"
-
-album : "Messa dei popoli"
-tonalita : "Do"
+   - "Baggio"
+album : Messa dei popoli
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Agnello"
-
+   - "Liturgica"
+gruppo : Agnello
 momenti : 
-  - "Agnello di Dio"
+   - "Agnello di Dio"
+identificatore : agnello_di_dio_baggio_messa_dei_popoli
+datarevisione : 2012_03_30
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "agnello_di_dio_baggio_messa_dei_popoli"
-data_revisione : "2012-03-30"
----
-  
-  
-Agnello, agnello di Dio   
-che togli i peccati, i peccati del mondo,    
-abbi pietà di noi,  abbi pietà di noi.    
-Abbi pietà di noi,  brkabbi pietà di noi.    
-transpose  
-Agnello, agnello di Dio   
-che togli i peccati, i peccati del mondo,    
-abbi pietà di noi,  abbi pietà di noi.    
-Abbi pietà di noi,  abbi pietà di noi.    
-transpose  
-Agnello, agnello di Dio   
-che togli i peccati, i peccati del mondo,    
-dona a noi la pace,  dona a noi la pace.    
-Dona a noi la pace,  brkdona a noi la pace.    
-  
-  
-  
-  
+
+
+Agnello, agnello di Dio 
+che togli i peccati, i peccati del mondo,  
+abbi pietà di noi,  abbi pietà di noi.  
+Abbi pietà di noi,  
+
+
+Agnello, agnello di Dio 
+che togli i peccati, i peccati del mondo,  
+abbi pietà di noi,  abbi pietà di noi.  
+Abbi pietà di noi,  abbi pietà di noi.  
+
+
+Agnello, agnello di Dio 
+che togli i peccati, i peccati del mondo,  
+dona a noi la pace,  dona a noi la pace.  
+Dona a noi la pace,  
+
+

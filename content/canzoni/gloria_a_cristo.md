@@ -1,53 +1,37 @@
----
-date : "2011-12-31"
-title : "Gloria a Cristo"
+--- 
+title : Gloria a Cristo
+description : Il testo completo di accordi di Gloria a Cristo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Jef"
-
-album : ""
-tonalita : "Sol"
+   - "Jef"
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Acclamazione al Vangelo"
+   - "Acclamazione al Vangelo"
+identificatore : gloria_a_cristo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "gloria_a_cristo"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Gloria a Cristo splendore eterno del Dio vivente!  
-  
-  
-  
-Gloria a te, Signor!  
-  
-  
-  
-  
-Gloria a Cristo sapienza eterna del Dio vivente!  
-  
-  
-  
-  
-Gloria a Cristo parola eterna del Dio vivente!  
-  
-  
-  
-  
-Gloria a Cristo che muore e risorge brk per tutti i fratelli.  
-  
-  
-  
-  
-Gloria a Cristo che ascende nei cieli brk alla destra del Padre.  
-  
-  
-  
-  
+
+
+Gloria a Cristo splendore eterno del Dio vivente!
+
+
+Gloria a te, Signor!
+
+
+Gloria a Cristo sapienza eterna del Dio vivente!
+
+
+Gloria a Cristo parola eterna del Dio vivente!
+
+
+Gloria a Cristo che muore e risorge 
+
+
+Gloria a Cristo che ascende nei cieli 
+
+

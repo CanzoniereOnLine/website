@@ -1,31 +1,26 @@
----
-date : "2013-11-28"
-title : "Nada te turbe"
+--- 
+title : Nada te turbe
+description : Il testo completo di accordi di Nada te turbe. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizè"
-
-album : ""
-tonalita : "La-"
+   - "Taizè"
+album : 
+tonalita : La-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : nada_te_turbe
+datarevisione : 2013_11_28
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "nada_te_turbe"
-data_revisione : "2013-11-28"
----
-  
-  
-Nada te turbe, nada te espante,  
-quien a Dios tiene nada la falta.  
-Nada te turbe, nada te espante,  
-solo Dios basta.  
-  
-  
-  
+
+
+Nada te turbe, nada te espante,
+quien a Dios tiene nada la falta.
+Nada te turbe, nada te espante,
+solo Dios basta.
+
+

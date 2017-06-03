@@ -1,45 +1,36 @@
----
-date : "2011-12-31"
-title : "Noi veglieremo"
+--- 
+title : Noi veglieremo
+description : Il testo completo di accordi di Noi veglieremo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Machetta"
-
-album : ""
-tonalita : "Re"
+   - "Machetta"
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Avvento"
+   - "Avvento"
+identificatore : noi_veglieremo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "noi_veglieremo"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Nella notte, o Dio,  noi veglieremo,  
-con le lampade, vestiti a festa:     
-presto arriverai   e sarà giorno.  
-  
-  
-  
-Rallegratevi in attesa del Signore:  
-improvvisa giungerà la sua voce.   
-Quando Lui verrà, sarete pronti  
-e vi chiamerà “amici” per sempre.     
-  
-  
-  
-  
-Raccogliete per il giorno della vita  
-dove tutto sarà giovane in eterno.  
-Quando lui verrà sarete pronti  
-e vi chiamerà amici per sempre.  
-  
-  
-  
+
+
+Nella notte, o Dio,  noi veglieremo,
+con le lampade, vestiti a festa:   
+presto arriverai   e sarà giorno.
+
+
+Rallegratevi in attesa del Si\D7+gnore:
+improvvisa giungerà la sua voce. 
+Quando Lui verrà, sarete \D7+pronti
+e vi chiamerà “amici” per sempre.   
+
+
+Raccogliete per il giorno della vita
+dove tutto sarà giovane in eterno.
+Quando lui verrà sarete pronti
+e vi chiamerà amici per sempre.
+
+

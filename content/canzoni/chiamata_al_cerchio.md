@@ -1,30 +1,27 @@
----
-date : "2012-11-28"
-title : "Chiamata al cerchio"
+--- 
+title : Chiamata al cerchio
+description : Il testo completo di accordi di Chiamata al cerchio. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : chiamata_al_cerchio
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "chiamata_al_cerchio"
-data_revisione : "2012-11-28"
----
-  
-  
-Oplà tutti qua, qui si canta, qui si danza!  
-Oplà tutti qua, qui si canta e danzerà!  
-              
-                        
-Più presto ci si riunirà, più cose molte più co  
-Più presto ci si riunirà, più cose si faran!  
-  
+
+
+Oplà tutti qua, qui si canta, qui si danza!
+Oplà tutti qua, qui si canta e danzerà!
+
+
+Più presto ci si riunirà, più cose molte più cose
+Più presto ci si riunirà, più cose si faran!
+
+

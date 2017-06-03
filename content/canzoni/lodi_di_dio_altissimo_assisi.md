@@ -1,52 +1,39 @@
----
-date : "2012-07-02"
-title : "Lodi di Dio Altissimo"
+--- 
+title : Lodi di Dio Altissimo
+description : Il testo completo di accordi di Lodi di Dio Altissimo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "La"
+   - ""
+album : 
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "San Francesco"
+   - "San Francesco"
+identificatore : lodi_di_dio_altissimo_assisi
+datarevisione : 2012_07_02
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "lodi_di_dio_altissimo_assisi"
-data_revisione : "2012-07-02"
----
-  
-  
-  
-Tu sei Santo, Signore Dio, fai cose grandi, meravigliose,  
-Tu sei il bene, il sommo bene, brk Tu sei il Signore onnipotente!  
-  
-  
-  
-Tu sei forte, Tu sei grande, brk Tu sei l'Altissimo, Onnipotente,  
-Tu sei presente, sei, per sempre Dio presente sei.  
-  
-  
-  
-  
-Tu sei trino e un solo Dio  
-Tu sei il Re del cielo e della terra brk Tu sei bellezza, sei per sempre Dio bellezza sei  
-  
-  
-  
-  
-Tu sei amore e carità brk Tu sei sapienza ed umiltà,  
-Tu sei letizia sei, per sempre Dio letizia sei  
-  
-  
-  
-  
-Tu sei la mia speranza e la mia forza brk Tu sei la mia ricchezza e la mia gioia  
-Tu sei la pace, sei per sempre Dio la pace sei  
-  
-  
-  
+
+
+Tu sei Santo, Signore Dio, fai cose grandi, meravigliose,
+Tu sei il bene, il sommo bene, 
+
+
+Tu sei forte, Tu sei grande, 
+Tu sei presente, sei, per sempre Dio presente sei.
+
+
+Tu sei trino e un solo Dio
+Tu sei il Re del cielo e della terra 
+
+
+Tu sei amore e carità 
+Tu sei letizia sei, per sempre Dio letizia sei
+
+
+Tu sei la mia speranza e la mia forza 
+Tu sei la pace, sei per sempre Dio la pace sei
+
+

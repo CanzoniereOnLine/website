@@ -1,61 +1,46 @@
----
-date : "2014-09-20"
-title : "Accogli i nostri doni"
+--- 
+title : Accogli i nostri doni
+description : Il testo completo di accordi di Accogli i nostri doni. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Buttazzo"
-
-album : "Vita nuova con Te"
-tonalita : "Re"
+   - "Buttazzo"
+album : Vita nuova con Te
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Offertorio"
+   - "Offertorio"
+identificatore : accogli_i_nostri_doni_buttazzo
+datarevisione : 2014_09_20
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "accogli_i_nostri_doni_buttazzo"
-data_revisione : "2014-09-20"
----
-  
-  
-  
-  
+
+
          
-           
-  
-  
-  
-  
-Accogli i nostri doni, Dio dell'universo    
-in questo misterioso incontro col tuo Figlio.  
-Ti och    
-trasformalo in gnor.   
-  
-  
-  
-Benedetto nei secoli il Signore    
-innita sorgente della vita.        
-Benedetto nei      
-benedetto nei seco     
-  
-  
-  
-  
-Accogli i nostri doni, Dio dell'universo    
-in questo misterioso incontro col tuo Figlio.  
-Ti och    
-trasformalo in gnor.   
-  
-  
-  
-Benedetto nei secoli il Signore    
-innita sorgente della vita.        
-Benedetto nei      
-Benedetto nei secoli.    
-  
-  
-  
-  
+
+
+Accogli i nostri doni, Dio dell'universo  
+in questo misterioso incontro col tuo Figlio.
+Ti o  
+trasformalo in te, Signor. 
+
+
+Benedetto nei secoli il Signore  
+infinita sorgente della vita.     \F#-5+ 
+Benedetto nei secoli,   
+benedetto nei secoli.   
+
+
+Accogli i nostri doni, Dio dell'universo  
+in questo misterioso incontro col tuo Figlio.
+Ti o  
+trasformalo in te, Signor. 
+
+
+Benedetto nei secoli il Signore  
+infinita sorgente della vita.     \F#-5+ 
+Benedetto nei secoli,   
+Benedetto nei secoli.  
+
+

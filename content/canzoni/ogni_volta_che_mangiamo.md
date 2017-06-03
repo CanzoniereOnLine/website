@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Ogni volta che mangiamo"
+--- 
+title : Ogni volta che mangiamo
+description : Il testo completo di accordi di Ogni volta che mangiamo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Anamnesi"
-
+   - "Liturgica"
+gruppo : Anamnesi
 momenti : 
-  - "Anamnesi"
+   - "Anamnesi"
+identificatore : ogni_volta_che_mangiamo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "ogni_volta_che_mangiamo"
-data_revisione : "2011-12-31"
----
-  
-  
-Ogni volta che mangiamo di questo pane    
-e beviamo a questo calice    
-annunciamo la tua morte Signore    
-nell'attesa della tua venuta.  
-  
-  
-  
+
+
+Ogni volta che mangiamo di questo pane  
+e beviamo a questo calice  
+annunciamo la tua morte Signore  
+nell'attesa della tua venuta.
+
+

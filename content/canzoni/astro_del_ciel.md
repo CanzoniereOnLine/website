@@ -1,44 +1,34 @@
----
-date : "2011-12-31"
-title : "Astro del ciel"
+--- 
+title : Astro del ciel
+description : Il testo completo di accordi di Astro del ciel. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gruber"
-
-album : ""
-tonalita : "La"
+   - "Gruber"
+album : 
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Natale"
+   - "Natale"
+identificatore : astro_del_ciel
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "astro_del_ciel"
-data_revisione : "2011-12-31"
----
-  
-  
-Astro del ciel, Pargol divin, mite agnello redentor!  
-Tu che i Vati da lungi sognar, brk tu che angeliche voci annunziar,  
-  
-  
-  
-Luce dona alle menti, brk pace infondi nei cuor. rep  
-  
-  
-  
-Astro del ciel, Pargol divin, mite agnello redentor,  
-tu di stirpe regale decor, brk tu virgineo mistico or.  
-  
-  
-  
-Astro del ciel, Pargol divin, mite agnello redentor  
-tu disceso a scontare l'error, brk tu sol nato a parlare d'amor.  
-  
-  
-  
-  
-  
+
+
+Astro del ciel, Pargol divin, mite agnello redentor!
+Tu che i Vati da lungi sognar, 
+
+
+Luce dona alle menti, 
+
+
+Astro del ciel, Pargol divin, mite agnello redentor,
+tu di stirpe regale decor, 
+
+
+Astro del ciel, Pargol divin, mite agnello redentor
+tu disceso a scontare l'error, 
+
+

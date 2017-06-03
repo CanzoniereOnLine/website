@@ -1,41 +1,37 @@
----
-date : "2012-12-05"
-title : "Il branco di Akela"
+--- 
+title : Il branco di Akela
+description : Il testo completo di accordi di Il branco di Akela. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : il_branco_di_akela
+datarevisione : 2012_12_05
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "il_branco_di_akela"
-data_revisione : "2012-12-05"
----
-  
-  
-Akela aveva un Branco felice e er  
-sestiglie Rossi e fulvi, Pezzati e Ner.  
-Furbi i Rossi in verità  con la loro abilità  
-nel seguir la traccia di Akela.  
-  
-  
-  
-Ridenti anche i Pezzati, felici ognor,   
-perché sestiglia in gamba è quella lor.   
-Ecco adesso venir giù dalla caccia di Baloo   
-vincitori i Neri pien di virtù.  
-  
-  
-Audaci e agili sono i Fulvi ancor,   
-i primi nella corsa e allegri in cor.   
-La migliore qual sarà che per prima arriverà   
-a conquistar la preda di Akela.  
-  
+
+
+Akela aveva un Branco felice e fier
+sestiglie Rossi e fulvi, Pezzati e Ner.
+Furbi i Rossi in verità  con la loro abilità
+nel seguir la traccia di Akela.
+
+
+Ridenti anche i Pezzati, felici ognor, 
+perché sestiglia in gamba è quella lor. 
+Ecco adesso venir giù dalla caccia di Baloo 
+vincitori i Neri pien di virtù.
+
+
+Audaci e agili sono i Fulvi ancor, 
+i primi nella corsa e allegri in cor. 
+La migliore qual sarà che per prima arriverà 
+a conquistar la preda di Akela.
+
+

@@ -1,33 +1,28 @@
----
-date : "2011-12-31"
-title : "Pace Shalom"
+--- 
+title : Pace Shalom
+description : Il testo completo di accordi di Pace Shalom. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "La"
+   - ""
+album : 
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pace"
+   - "Pace"
+identificatore : pace_shalom
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "pace_shalom"
-data_revisione : "2011-12-31"
----
-  
-  
-Vi lascio la pace vi do la mia pace  
-shalom shalom shalom.  
-  
-  
-Rimanete in me e porterete frutto  
-shalom shalom shalom.  
-Shalom shalom shalom.  
-  
-  
-  
+
+
+Vi lascio la pace vi do la mia pace
+shalom shalom shalom.
+
+
+Rimanete in me e porterete frutto
+shalom shalom shalom.
+Shalom shalom shalom.
+
+

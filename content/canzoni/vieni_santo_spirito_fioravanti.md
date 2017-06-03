@@ -1,65 +1,51 @@
----
-date : "2011-12-31"
-title : "Vieni Santo Spirito"
+--- 
+title : Vieni Santo Spirito
+description : Il testo completo di accordi di Vieni Santo Spirito. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Fioravanti"
-
-album : "Spirito Santo vieni"
-tonalita : "Mi"
+   - "Fioravanti"
+album : Spirito Santo vieni
+tonalita : Mi
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pentecoste"
+   - "Pentecoste"
+identificatore : vieni_santo_spirito_fioravanti
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "vieni_santo_spirito_fioravanti"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Vieni Santo Spirito, vieni in noi.   
-Vieni Santo Spirito, vieni in noi.  
-  
-  
-Padre dei poveri, ricco di doni,   
-vieni Spirito d'amor.  
-  
-  
-Vieni Santo Spirito, vieni in noi.   
-Vieni Santo Spirito, vieni in noi.  
-  
-  
-Piega ciò che è arido, scalda ciò che è gelido  
-vieni Spirito d'amor.  
-  
-  
-Vieni Santo Spirito, vieni in noi.   
-Vieni Santo Spirito, vieni in noi.  
-  
-  
-Lava ciò che è sordido, bagna ciò che è arido  
-Vieni Spirito d'amor  
-  
-  
-Vieni Santo Spirito, vieni in noi.  
-Vieni Santo Spirito, vieni in noi.  
-  
-  
-Dona virtù e premio, dona sapienza e gioia  
-Vieni Spirito d'amor  
-  
-  
-  
+
+
+Vieni Santo Spirito, vieni in noi. 
+Vieni Santo Spirito, vieni in noi.
+
+
+Padre dei poveri, ricco di doni, 
+vieni Spirito d'amor.
+
+
+Vieni Santo Spirito, vieni in noi. 
+Vieni Santo Spirito, vieni in noi.
+
+
+Piega ciò che è arido, scalda ciò che è gelido
+vieni Spirito d'amor.
+
+
+Vieni Santo Spirito, vieni in noi. 
+Vieni Santo Spirito, vieni in noi.
+
+
+Lava ciò che è sordido, bagna ciò che è arido
+Vieni Spirito d'amor
+
+
+Vieni Santo Spirito, vieni in noi.
+Vieni Santo Spirito, vieni in noi.
+
+
+Dona virtù e premio, dona sapienza e gioia
+Vieni Spirito d'amor
+
+

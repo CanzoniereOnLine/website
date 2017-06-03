@@ -1,46 +1,35 @@
----
-date : "2011-12-31"
-title : "Quando venne la sua ora"
+--- 
+title : Quando venne la sua ora
+description : Il testo completo di accordi di Quando venne la sua ora. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Machetta"
-
-album : ""
-tonalita : "Re-"
+   - "Machetta"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pasqua"
+   - "Pasqua"
+identificatore : quando_venne_la_sua_ora
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "quando_venne_la_sua_ora"
-data_revisione : "2011-12-31"
----
-  
-  
-                   
-Quando venne la sua ora brk di passare dal mondo al Padre  
-volle amarci sino alla ne Cristo,  brk nostra vita.  
-  
-  
-  
-Dà la vita solo chi muore, ama chi sa perdere;  
-è Signore solo chi serve: brk farsi schiavo è libertà.  
-  
-  
-  
-  
-Ha lavato le nostre piaghe, disprezzato e umiliato,   
-respinto dalla sua gente, Cristo, il Salvatore.  
-  
-  
-  
-  
-Mi chiamate Rabbì e Signore: brk ho tracciato la vostra via.   
-Annunciate in tutta la terra questa mia parola.  
-  
-  
-  
+
+
+Quando venne la sua ora 
+volle amarci sino alla fine Cristo,  
+
+
+Dà la vita solo chi muore, ama chi sa perdere;
+è Signore solo chi serve: 
+
+
+Ha lavato le nostre piaghe, disprezzato e umiliato, 
+respinto dalla sua gente, Cristo, il Salvatore.
+
+
+Mi chiamate Rabbì e Signore: 
+Annunciate in tutta la terra questa mia parola.
+
+

@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Tui amoris ignem"
+--- 
+title : Tui amoris ignem
+description : Il testo completo di accordi di Tui amoris ignem. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Mi-"
+   - "Taizé"
+album : 
+tonalita : Mi-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : tui_amoris_ignem
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "tui_amoris_ignem"
-data_revisione : "2011-12-31"
----
-  
-  
-Veni Sancte Spiritus brk tui amoris ignem accende.   
-Veni Sancte Spiritus, Veni Sancte Spiritus.  
-  
-  
-  
+
+
+Veni Sancte Spiritus 
+Veni Sancte Spiritus, Veni Sancte Spiritus.
+
+

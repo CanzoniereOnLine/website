@@ -1,29 +1,27 @@
----
-date : "2013-12-31"
-title : "Gioia"
+--- 
+title : Gioia
+description : Il testo completo di accordi di Gioia. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Do"
+   - ""
+album : 
+tonalita : Do
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : gioia
+datarevisione : 2013_12_31
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "gioia"
-data_revisione : "2013-12-31"
----
-  
-  
-|Gioia, gioia, gioia, gioia,  
-  
-là nei prati tutti in or;  
-primavera sì è tornata!  
-Ah! Ah! Ah! Gioia, gioia nei cuor!  
-  
+
+
+|Gioia, gioia, gioia, gioia,
+
+
+là nei prati tutti in fior;
+primavera sì è tornata!
+Ah! Ah! Ah! Gioia, gioia nei cuor!
+
+

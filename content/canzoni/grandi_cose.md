@@ -1,38 +1,33 @@
----
-date : "2011-12-31"
-title : "Grandi cose"
+--- 
+title : Grandi cose
+description : Il testo completo di accordi di Grandi cose. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Rosso"
-
-album : "Se siamo uniti"
-tonalita : "Do"
+   - "Gen Rosso"
+album : Se siamo uniti
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ingresso"
+   - "Ingresso"
+identificatore : grandi_cose
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "grandi_cose"
-data_revisione : "2011-12-31"
----
-  
-  
-Grandi cose ha fatto il Signore per noi,  
-ha fatto germogliare i ori tra le rocce.   
-Grandi cose ha fatto il Signore per noi,  
-ci ha riportati liberi alla nostra terra.  
-Ed ora possiamo cantare, possiamo gridare  
-l'amore che Dio ha versato su noi.   
-  
-  
-Tu che sai strappare dalla morte,   
-hai sollevato il nostro viso dalla polvere.  
-Tu che hai sentito il nostro pianto,   
-nel nostro cuore hai messo un seme di felicità.  
-  
-  
-  
+
+
+Grandi cose ha fatto il Signore per noi,
+ha fatto germogliare i fiori tra le rocce. 
+Grandi cose ha fatto il Signore per noi,
+ci ha riportati liberi alla nostra terra.
+Ed ora possiamo cantare, possiamo gridare
+l'amore che Dio ha versato su noi. 
+
+
+Tu che sai strappare dalla morte, 
+hai sollevato il nostro viso dalla polvere.
+Tu che hai sentito il nostro pianto, 
+nel nostro cuore hai messo un seme di felicità.
+
+

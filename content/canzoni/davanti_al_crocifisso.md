@@ -1,31 +1,26 @@
----
-date : "2011-12-31"
-title : "Davanti al Crocifisso"
+--- 
+title : Davanti al Crocifisso
+description : Il testo completo di accordi di Davanti al Crocifisso. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "La-"
+   - ""
+album : 
+tonalita : La-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Adorazione"
+   - "Adorazione"
+identificatore : davanti_al_crocifisso
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "davanti_al_crocifisso"
-data_revisione : "2011-12-31"
----
-  
-  
-O alto e glorioso Dio,  
-illumina el core mio.  
- Dame fede diritta, speranza certa, carità perfetta,  
- umiltà profonda,  senno e cognosemento  
-che io servi li toi comandamenti.  
-  
-  
-  
+
+
+O alto e glorioso Dio,
+illumina el core mio.
+ Dame fede diritta, speranza certa, carità perfetta,
+ umiltà profonda,  senno e cognosemento
+che io servi li toi comandamenti.
+
+

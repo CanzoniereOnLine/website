@@ -1,40 +1,32 @@
----
-date : "2011-12-31"
-title : "Io credo risorgerò"
+--- 
+title : Io credo risorgerò
+description : Il testo completo di accordi di Io credo risorgerò. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Stefani"
-
-album : ""
-tonalita : "Re"
+   - "Stefani"
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Esequie"
+   - "Esequie"
+identificatore : io_credo_risorgero
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "io_credo_risorgero"
-data_revisione : "2011-12-31"
----
-  
-  
-Io credo  risorgerò, brk questo mio corpo vedrà il Salvatore!  
-  
-  
-  
-Prima che io nascessi, mio Dio tu mi conosci:  
-ricordati, Signore, che l'uomo è come l'erba,   
-come il ore del campo.  
-  
-  
-  
-  
-Ora è nelle tue mani quest'anima che mi hai data:  
-accoglila, Signore, da sempre tu l'hai amata,  
-è preziosa ai tuoi occhi.  
-  
-  
-  
+
+
+Io credo  risorgerò, 
+
+
+Prima che io nascessi, mio Dio tu mi conosci:
+ricordati, Signore, che l'uomo è come l'erba, 
+come il fiore del campo.
+
+
+Ora è nelle tue mani quest'anima che mi hai data:
+accoglila, Signore, da sempre tu l'hai amata,
+è preziosa ai tuoi occhi.
+
+

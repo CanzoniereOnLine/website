@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Christe Lux mundi"
+--- 
+title : Christe Lux mundi
+description : Il testo completo di accordi di Christe Lux mundi. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : christe_lux_mundi
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "christe_lux_mundi"
-data_revisione : "2011-12-31"
----
-  
-  
-Christe Lux mundi, qui sequitur te,   
-habebit lumen vitae, lumen vitae.  
-  
-  
-  
+
+
+Christe Lux mundi, qui sequitur te, 
+habebit lumen vit
+
+

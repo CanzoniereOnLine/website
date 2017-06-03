@@ -1,97 +1,64 @@
----
-date : "2011-12-31"
-title : "Re di gloria"
+--- 
+title : Re di gloria
+description : Il testo completo di accordi di Re di gloria. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Marranzino, De Luca"
-
-album : "Cantiamo con gioia"
-tonalita : "Sol"
+   - "Marranzino"
+   - " De Luca"
+album : Cantiamo con gioia
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Comunione"
+   - "Comunione"
+identificatore : re_di_gloria
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "re_di_gloria"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Ho incontrato Te Gesù brk e ogni cosa in me è cambiata  
-tutta la mia vita ora ti appartiene  
-tutto il mio passato io lo achido a Te    
-Gesù Re di gloria mio Signor.  
-  
-  
-  
-  
-Tutto in Te riposa, la mia mente il mio cuore  
-trovo pace in Te Signor,Tu mi dai la gioia  
-voglio stare insieme a Te,non lasciarti mai  
-Gesù Re di gloria mio Signor.  
-  
-  
-  
-Dal Tuo amore chi mi separerà    
-sulla croce hai dato la vita per me  
-una corona di gloria mi darai    
-quando un giorno ti vedrò.  
-  
-  
-  
-  
-Tutto in Te riposa,la mia mente il mio cuore  
-trovo pace in Te Signor, Tu mi dai la gioia vera  
-voglio stare insieme a Te, non lasciarti mai  
-Gesù Re di gloria mio Signor.  
-  
-  
-  
-Dal Tuo amore chi mi separerà    
-sulla croce hai dato la vita per me  
-una corona di gloria mi darai    
-quando un giorno ti vedrò.   
-Dal Tuo amore chi mi separerà ldots  
-  
-  
-  
-  
-  
-  
-  
-bfseries  
-Io ti aspetto mio Signor    
-io ti aspetto mio Signor    
-io ti aspetto mio Re!    
-  
-textnote  
-bfseries  
-Dal Tuo amore chi mi separerà ldots  
-  
-  
-  
-  
-  
-  
-  
-bfseries  
-Io ti aspetto mio Signor    
-io ti aspetto mio Signor    
-io ti aspetto mio Re!    
-  
-  
-  
-  
-  
+
+
+Ho incontrato Te Gesù 
+tutta la mia vita ora ti appartiene
+tutto il mio passato io lo aido a Te  
+Gesù Re di \C7+gloria mio Signor.
+
+
+Tutto in Te riposa, la mia mente il mio cuore
+trovo pace in Te Signor,Tu mi dai la gioia
+voglio stare insieme a Te,non lasciarti mai
+Gesù Re di gloria mio Signor.
+
+
+Dal Tuo amore chi \C7+mi separerà  
+sulla croce hai \C7+dato la vita per me
+una corona di \C7+gloria mi darai  
+quando un giorno ti vedrò.
+
+
+Tutto in Te riposa,la mia mente il mio cuore
+trovo pace in Te Signor, Tu mi dai la gioia vera
+voglio stare insieme a Te, non lasciarti mai
+Gesù Re di gloria mio Signor.
+
+
+Dal Tuo amore chi \C7+mi separerà  
+sulla croce hai \C7+dato la vita per me
+una corona di \C7+gloria mi darai  
+quando un giorno ti vedrò. 
+Dal Tuo amore chi \D&7+mi separerà 
+
+
+Io ti aspet\D&7+to mio Signor  
+io ti aspetto mio Signor  
+io ti aspetto mio Re!  
+
+
+Dal Tuo amore chi \C7+mi separerà 
+
+
+Io ti aspet\C7+to mio Signor  
+io ti aspetto mio Signor  
+io ti aspetto mio Re!  
+
+

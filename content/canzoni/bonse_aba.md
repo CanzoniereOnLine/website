@@ -1,66 +1,73 @@
----
-date : "2011-12-31"
-title : "Bonse aba"
+--- 
+title : Bonse aba
+description : Il testo completo di accordi di Bonse aba. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Reb"
+   - ""
+album : 
+tonalita : Reb
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : bonse_aba
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "bonse_aba"
-data_revisione : "2011-12-31"
----
-  
-textnoteCanto tradizionale dello Zambia che signica:  
-‘‘Tutti quelli che cantano vanno chiamati gli di Dio''.  
-  
-  
-Bonse aba mu pokelela Ba li pele maka akuba bana	  
-		echo  
-  
-Bonse aba mu pokelela Ba li pele maka akuba bana	  
-		echo  
-  
-Kuba bana		echo   
-  
-Kuba bana 		echo   
-  
-Kuba bana		echo    
-  
-Kuba bana 		echo   
-  
-Kuba bana	echo    
-      
-Kuba bana	echo  
-  
-  
-Bonse aba mu pokelela Ba li pele maka akuba bana	  
-		echo  
-  
-Bonse aba mu pokelela Ba li pele maka akuba bana	  
-		echo  
-  
-Kuba bana		echo   
-  
-Kuba bana 		echo   
-  
-Kuba bana		echo    
-  
-Kuba bana 		echo   
-  
-  
-Muya ya ya	echo  
-  
-Muya ya ya	echo  
-  
-  
-  
+
+
+‘‘Tutti quelli che cantano vanno chiamati figli di Dio''.
+
+
+Bonse aba mu pokelela Ba li pele maka akuba bana	
+		
+
+
+Bonse aba mu pokelela Ba li pele maka akuba bana	
+		
+
+
+Kuba bana		 
+
+
+Kuba bana 		 
+
+
+Kuba bana		  
+
+
+Kuba bana 		 
+
+
+Kuba bana	  
+    
+Kuba bana	
+
+
+Bonse aba mu pokelela Ba li pele maka akuba bana	
+		
+
+
+Bonse aba mu pokelela Ba li pele maka akuba bana	
+		
+
+
+Kuba bana		 
+
+
+Kuba bana 		 
+
+
+Kuba bana		  
+
+
+Kuba bana 		 
+
+
+Muya ya ya	
+
+
+Muya ya ya	
+
+

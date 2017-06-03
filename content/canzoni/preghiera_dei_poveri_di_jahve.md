@@ -1,49 +1,35 @@
----
-date : "2011-12-31"
-title : "Preghiera dei poveri di Jahvè"
+--- 
+title : Preghiera dei poveri di Jahvè
+description : Il testo completo di accordi di Preghiera dei poveri di Jahvè. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Amadei"
-
-album : "Giovani in festa"
-tonalita : "Mi-"
+   - "Amadei"
+album : Giovani in festa
+tonalita : Mi-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Avvento"
+   - "Avvento"
+identificatore : preghiera_dei_poveri_di_jahve
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "preghiera_dei_poveri_di_jahve"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-O cieli, piovete dall'alto, brk o nubi mandateci il Santo,  
-o terra, apriti o terra e germina il Salvatore.  
-  
-  
-  
-Siamo il deserto, siamo l'arsura: brk Maranathà, Maranathà!  
-  
-  
-  
-  
-Siamo il vento, nessuno ci ode: brk Maranathà, Maranathà!  
-  
-  
-  
-  
-Siamo le tenebre, nessuno ci guida: brk Maranathà, Maranathà!  
-  
-  
-  
-  
-Siam le catene, nessuno ci scioglie: brk Maranathà, Maranathà!  
-  
-  
-  
-  
+
+
+O cieli, piovete dall'alto, 
+o terra, apriti o terra e germina il Salvatore.
+
+
+Siamo il deserto, siamo l'arsura: 
+
+
+Siamo il vento, nessuno ci ode: 
+
+
+Siamo le tenebre, nessuno ci guida: 
+
+
+Siam le catene, nessuno ci scioglie: 
+
+

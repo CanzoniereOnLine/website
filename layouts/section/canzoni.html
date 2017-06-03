@@ -18,12 +18,18 @@
           <div id="listacanzoni">
             <ul id="coul">
           {{ range .Pages }}
-           <li>
-           <a href="{{ .RelPermalink }}">{{ .Title}}</a> di 
-             {{ range .Params.autori }}
-              <a href="{{ "/autori/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+          <li>
+            <a href="{{.Permalink}}">{{ .Title}}</a>
+            {{ with .Params.autori }}
+            {{ $Len := len . }}
+            {{ if gt $Len 0 }}
+              <span>di </span>
+              {{ range $k, $v := . }}
+                <a class="category-link" href="/autori/{{ . | urlize | lower }}">{{ . }}</a>{{ if lt $k (sub $Len 1) }}, {{ end }}
               {{ end }}
-            </li>
+            {{ end }}
+          {{ end }}
+          </li>
           {{ end }}
             </ul>
           <div id="noresult" style="display:none;">

@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Venite exultemus"
+--- 
+title : Venite exultemus
+description : Il testo completo di accordi di Venite exultemus. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re"
+   - "Taizé"
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : venite_exultemus
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "venite_exultemus"
-data_revisione : "2011-12-31"
----
-  
-  
-Venite  exultemus mino, brk venite, adoremus.  
-Venite  exultemus mino, brk venite, adoremus.  
-  
-  
-  
+
+
+Venite  exultemus Domino, 
+Venite  exultemus Domino, 
+
+

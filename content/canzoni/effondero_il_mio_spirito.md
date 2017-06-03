@@ -1,51 +1,40 @@
----
-date : "2011-12-31"
-title : "Effonderò il mio Spirito"
+--- 
+title : Effonderò il mio Spirito
+description : Il testo completo di accordi di Effonderò il mio Spirito. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Frisina"
-
-album : "Benedici il Signore"
-tonalita : "Sol"
+   - "Frisina"
+album : Benedici il Signore
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Pentecoste"
-  - "Ingresso"
+   - "Pentecoste"
+   - "Ingresso"
+identificatore : effondero_il_mio_spirito
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "effondero_il_mio_spirito"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Effonderò il mio Spirito, su ogni creatura  
-effonderò  la mia gioia, brk la mia pace sul mondo.  
-  
-  
-  
-Vieni, o Spirito Consolatore,  
-vieni echondi sul mondo la tua dolcezza.  
-  
-  
-  
-Vieni e dona ai tuoi gli la pace,  
-vieni e donaci la tua forza.  
-  
-  
-  
-Vieni, o Spirito Onnipotente,  
-vieni, e crea negli uomini un cuore nuovo.  
-  
-  
-  
-Vieni, e dona ai tuoi gli l'amore,  
-vieni, riscalda il cuore del mondo.  
-  
-  
-  
-  
+
+
+Effonderò il mio Spirito, su ogni creatura
+effonderò  la mia gioia, 
+
+
+Vieni, o Spirito Consolatore,
+vieni eondi sul mondo la tua dolcezza.
+
+
+Vieni e dona ai tuoi figli la pace,
+vieni e donaci la tua forza.
+
+
+Vieni, o Spirito Onnipotente,
+vieni, e crea negli uomini un cuore nuovo.
+
+
+Vieni, e dona ai tuoi figli l'amore,
+vieni, riscalda il cuore del mondo.
+
+

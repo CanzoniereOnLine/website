@@ -1,39 +1,32 @@
----
-date : "2011-12-31"
-title : "Alleluia"
+--- 
+title : Alleluia
+description : Il testo completo di accordi di Alleluia. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Casucci, Balduzzi"
-
-album : "Verbum panis"
-tonalita : "Si-"
+   - "Casucci"
+   - " Balduzzi"
+album : Verbum panis
+tonalita : Si-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_casucci
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "alleluia_casucci"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Alleluia Alleluia Alleluia Alleluia   
-Alleluia Alleluia Alleluia   Alleluia.  
-  
-  
-  
- Alleluia alleluia alleluia brk alleluia alleluia    
- Alleluia alleluia alleluia brk alleluia alleluia.      
-  
-  
-  
-Alleluia Alleluia Alleluia   Alleluia     
-Alleluia Alleluia Alleluia   Alleluia.  
-  
-  
-  
+
+
+Alleluia Alleluia Alleluia Alleluia 
+Alleluia Alleluia Alleluia   Alleluia.
+
+
+ Alleluia alleluia alleluia 
+ Alleluia alleluia alleluia 
+
+
+Alleluia Alleluia Alleluia   Alleluia   
+Alleluia Alleluia Alleluia   Alleluia.
+
+

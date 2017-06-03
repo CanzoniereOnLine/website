@@ -1,46 +1,38 @@
----
-date : "2011-12-31"
-title : "Alleluia è risorto"
+--- 
+title : Alleluia è risorto
+description : Il testo completo di accordi di Alleluia è risorto. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Rosso"
-
-album : "Noi veniamo a te"
-tonalita : "Mi"
+   - "Gen Rosso"
+album : Noi veniamo a te
+tonalita : Mi
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_e_risorto
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_e_risorto"
-data_revisione : "2011-12-31"
----
-  
-  
-    Alleluia,  alleluia, alleluia, alleluia      
-è risorto il Signor.   
-  
-  
-È risorto  per noi il salvatore,   
-vive  nella sua Chiesa,   
-porta gli uomini alla pace.   
-  
-  
-  
-Alleluiadots  
-  
-  
-  
-È risorto  per noi il salvatore,    
-in lui  risorgerà  brk ogni uomo dalla terra.   
-  
-  
-  
-Alleluiadots  
-  
-  
-  
+
+
+    Alleluia,  alleluia, alleluia, alleluia    
+è risorto il Signor. 
+
+
+È risorto  per noi il salvatore, 
+vive  nella sua Chiesa, 
+porta gli uomini alla pace. 
+
+
+Alleluia
+
+
+È risorto  per noi il salvatore,  
+in lui  risorgerà  
+
+
+Alleluia
+
+

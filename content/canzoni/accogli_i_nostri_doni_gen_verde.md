@@ -1,34 +1,29 @@
----
-date : "2011-12-31"
-title : "Accogli i nostri doni"
+--- 
+title : Accogli i nostri doni
+description : Il testo completo di accordi di Accogli i nostri doni. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Verde"
-
-album : "È bello lodarti"
-tonalita : "Do"
+   - "Gen Verde"
+album : È bello lodarti
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Offertorio"
+   - "Offertorio"
+identificatore : accogli_i_nostri_doni_gen_verde
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "accogli_i_nostri_doni_gen_verde"
-data_revisione : "2011-12-31"
----
-  
-  
-Accogli Signore i nostri doni  
-in questo misterioso incontro  
-tra la nostra povertà   
-e la tua grandezza.   
-Noi ti offriamo le cose   
-che tu stesso ci hai dato  
-e tu in cambio donaci   
-donaci te stesso.  
-  
-  
-  
+
+
+Accogli Signore i nostri doni
+in questo misterioso incontro
+tra la nostra povertà 
+e la tua grandezza. 
+Noi ti offriamo le cose 
+che tu stesso ci hai dato
+e tu in cambio donaci 
+donaci te stesso.
+
+

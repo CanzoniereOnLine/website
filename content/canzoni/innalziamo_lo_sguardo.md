@@ -1,53 +1,40 @@
----
-date : "2011-12-31"
-title : "Innalziamo lo sguardo"
+--- 
+title : Innalziamo lo sguardo
+description : Il testo completo di accordi di Innalziamo lo sguardo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Buttazzo"
-
-album : "Maranathà"
-tonalita : "La"
+   - "Buttazzo"
+album : Maranathà
+tonalita : La
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Ingresso"
-  - "Natale"
+   - "Ingresso"
+   - "Natale"
+identificatore : innalziamo_lo_sguardo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "innalziamo_lo_sguardo"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Innalziamo lo sguardo, brk rinnoviamo l'attesa.  
-Ecco viene il Signore, brk viene non tarderà.   
-  
-  
-memorize  
-Brillerà come luce brk la salvezza per noi:   
-la Parola di Dio brk nascerà in mezzo a noi.   
-  
-  
-Questo è tempo di gioia, brk di speranza per noi:   
-il Creatore del mondo brk regnerà in mezzo a noi.   
-  
-  
-Proclamiamo con forza brk il Vangelo di Dio.   
-Annunciamo con gioia brk la salvezza di Dio.   
-  
-  
-Percorriamo i sentieri brk che ci portano a Dio.   
-Nell'amore vedremo brk la presenza di Dio.   
-  
-  
-  
+
+
+Innalziamo lo sguardo, 
+Ecco viene il Signore, 
+
+
+Brillerà come luce 
+la Parola di Dio 
+
+
+Questo è tempo di gioia, 
+il Creatore del mondo 
+
+
+Proclamiamo con forza 
+Annunciamo con gioia 
+
+
+Percorriamo i sentieri 
+Nell'amore vedremo 
+
+

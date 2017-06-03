@@ -1,27 +1,23 @@
----
-date : "2012-01-11"
-title : "Signore aiutaci"
+--- 
+title : Signore aiutaci
+description : Il testo completo di accordi di Signore aiutaci. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : signore_aiutaci
+datarevisione : 2012_01_11
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "signore_aiutaci"
-data_revisione : "2012-01-11"
----
-  
-  
-Signore aiutaci amarti di più,  
-Signore aiutaci ad amarci di più.  
-  
-  
+
+
+Signore aiutaci amarti di più,
+Signore aiutaci ad amarci di più.
+
+

@@ -1,31 +1,26 @@
----
-date : "2011-12-31"
-title : "Magnificat"
+--- 
+title : Magnificat
+description : Il testo completo di accordi di Magnificat. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Sol"
+   - "Taizé"
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : magnificat_taize
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "magnificat_taize"
-data_revisione : "2011-12-31"
----
-  
-  
-Magnicat, magnicat.   
-Magnicat, anima mea Dominum.  
-Magnicat, magnicat,   
-Magnicat anima a.  
-  
-  
-  
+
+
+Magnificat, magnificat. 
+Magnificat, anima mea Dominum.
+Magnificat, magnificat, 
+Magnificat anima mea.
+
+

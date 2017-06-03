@@ -1,28 +1,23 @@
----
-date : "2011-12-31"
-title : "Jubilate Deo"
+--- 
+title : Jubilate Deo
+description : Il testo completo di accordi di Jubilate Deo. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Do"
+   - "Taizé"
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : jubilate_deo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "jubilate_deo"
-data_revisione : "2011-12-31"
----
-  
-  
-Jubilate Deo Jubilate Deo  Alleluia!     
-  
-  
-  
+
+
+Jubilate Deo Jubilate Deo  Alleluia!   
+
+

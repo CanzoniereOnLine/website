@@ -1,45 +1,30 @@
----
-date : "2011-12-31"
-title : "Santo"
+--- 
+title : Santo
+description : Il testo completo di accordi di Santo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : "Noi veniamo a te"
-tonalita : "Sol"
+   - ""
+album : Noi veniamo a te
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Santo"
-
+   - "Liturgica"
+gruppo : Santo
 momenti : 
-  - "Santo"
+   - "Santo"
+identificatore : santo_gen_rosso_noi_veniamo
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "santo_gen_rosso_noi_veniamo"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-Santo, Santo, Santo il Signore Dio dell'universo.  
-I ra sono pieni della tua gloria.  
-  
-  
-Osanna, osanna, osanna nell'alto dei cieli.  
-Osanna, osanna, osanna nell'alto dei cieli.  
-  
-  
-Benedetto colui che viene nel nome del Signore.  
-  
-  
-  
-  
+
+
+Santo, Santo, Santo il Signore Dio dell'universo.
+I cieli e la terra sono pieni della tua gloria.
+
+
+Osanna, osanna, osanna nell'alto dei cieli.
+Osanna, osanna, osanna nell'alto dei cieli.
+
+
+Benedetto colui che viene nel nome del Signore.
+
+

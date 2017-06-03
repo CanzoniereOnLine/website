@@ -1,43 +1,38 @@
----
-date : "2013-07-15"
-title : "Alleluia e poi"
+--- 
+title : Alleluia e poi
+description : Il testo completo di accordi di Alleluia e poi. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Luca Diliberto, Giuliana Monti"
-
-album : ""
-tonalita : "Do"
+   - "Luca Diliberto"
+   - " Giuliana Monti"
+album : 
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_e_poi_diliberto
+datarevisione : 2013_07_15
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_e_poi_diliberto"
-data_revisione : "2013-07-15"
----
-  
-transpose  
-begin  
-Chiama, ed io verrò da Te:  
-Figlio, nel silenzio, mi accoglierai.  
-Voce e  la libertà,  
-nella Tua Parola camminerò.  
-end  
-begin  
-Alleluia, alleluia, alleluia,  
-alleluia, alleluia,  
-Alleluia, alleluia, alleluia,  
-alleluia, alleluia.  
-end  
-begin  
-Danza, ed io verrò con Te:  
-Figlio, la Tua strada comprenderò.  
-Luce, e poi, nel tempo tuo,  
-oltre il desiderio riposerò.   
-end  
-  
-  
+
+
+Chiama, ed io verrò da Te:
+Figlio, nel silenzio, mi accoglierai.
+Voce e poi
+nella Tua Parola camminerò.
+
+
+Alleluia, alleluia, alleluia,
+alleluia, alleluia,
+Alleluia, alleluia, alleluia,
+alleluia, alleluia.
+
+
+Danza, ed io verrò con Te:
+Figlio, la Tua strada comprenderò.
+Luce, e poi, nel tempo tuo,
+oltre il desiderio riposerò. 
+
+

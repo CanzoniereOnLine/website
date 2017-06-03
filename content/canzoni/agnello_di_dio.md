@@ -1,37 +1,34 @@
----
-date : "2013-12-30"
-title : "Agnello di Dio"
+--- 
+title : Agnello di Dio
+description : Il testo completo di accordi di Agnello di Dio. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Agnello"
-
+   - "Liturgica"
+gruppo : Agnello
 momenti : 
-  - "Agnello di Dio"
+   - "Agnello di Dio"
+identificatore : agnello_di_dio
+datarevisione : 2013_12_30
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "agnello_di_dio"
-data_revisione : "2013-12-30"
----
-  
-  
-Agnello di Dio,  
-che togli i peccati del mondo,  
-abbi pietà di noi.  
-  
-  
-Agnello di Dio,  
-che togli i peccati del mondo,  
-abbi pietà di noi.  
-  
-  
-Agnello di Dio,  
-che togli i peccati del mondo,  
-dona a noi la pace.  
-  
+
+
+Agnello di Dio,
+che togli i peccati del mondo,
+abbi pietà di noi.
+
+
+Agnello di Dio,
+che togli i peccati del mondo,
+abbi pietà di noi.
+
+
+Agnello di Dio,
+che togli i peccati del mondo,
+dona a noi la pace.
+
+

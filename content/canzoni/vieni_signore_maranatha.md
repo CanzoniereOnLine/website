@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Vieni, Signore, Maranathà"
+--- 
+title : Vieni, Signore, Maranathà
+description : Il testo completo di accordi di Vieni, Signore, Maranathà. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : vieni_signore_maranatha
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "vieni_signore_maranatha"
-data_revisione : "2011-12-31"
----
-  
-  
-Vieni Signore, vieni, Maranathà,   
-Signore vieni, Maranathà,   
-Signore vieni, Signore.  
-  
-  
-  
+
+
+Vieni Signore, vieni, Maranathà, 
+Signore vieni, Maranathà, 
+Signore vieni, Signore.
+
+

@@ -1,39 +1,31 @@
----
-date : "2011-12-31"
-title : "Guarda questa offerta"
+--- 
+title : Guarda questa offerta
+description : Il testo completo di accordi di Guarda questa offerta. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Gen Rosso"
-
-album : ""
-tonalita : "Re-"
+   - "Gen Rosso"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - "Offertorio"
+   - "Offertorio"
+identificatore : guarda_questa_offerta
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "guarda_questa_offerta"
-data_revisione : "2011-12-31"
----
-  
-  
-Guarda questa offerta guarda noi Signor,  
-tutto noi t'ochfriamo per unirci a te.  
-  
-  
-  
-Nella tua mensa la nostra mensa,   
-nella tua vita la nostra vita.  rep  
-  
-  
-  
-  
-Che possiamo offrirti nostro Creator?  
-Ecco il nostro niente prendilo Signor!  
-  
-  
-  
+
+
+Guarda questa offerta guarda noi Signor,
+tutto noi t'ofriamo per unirci a te.
+
+
+Nella tua mensa la nostra mensa, 
+nella tua vita la nostra vita.  
+
+
+Che possiamo offrirti nostro Creator?
+Ecco il nostro niente prendilo Signor!
+
+

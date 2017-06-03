@@ -1,42 +1,37 @@
----
-date : "2012-10-30"
-title : "La montanara"
+--- 
+title : La montanara
+description : Il testo completo di accordi di La montanara. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : ""
+   - ""
+album : 
+tonalita : 
 famiglia : 
-  - "Altre"
-
+   - "Altre"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : la_montanara
+datarevisione : 2012_10_30
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "la_montanara"
-data_revisione : "2012-10-30"
----
-  
-  
-  
-Là su per le montagne,   
-tra boschi e valli d'or,   
-fra l'aspre rupi echeggia   
-un cantico d'amor.  
-  
-  
-"La montanara, ohè!"   
-si sente cantare,   
-"cantiam la montanara   
-e chi non la sa?".   
-  
-  
-Là su sui monti dai rivi d'argento   
-una capanna cosparsa di or   
-era la piccola, dolce dimora   
-di Soreghina, la glia del sol.  
-  
-  
+
+
+Là su per le montagne, 
+tra boschi e valli d'or, 
+fra l'aspre rupi echeggia 
+un cantico d'amor.
+
+
+"La montanara, ohè!" 
+si sente cantare, 
+"cantiam la montanara 
+e chi non la sa?". 
+
+
+Là su sui monti dai rivi d'argento 
+una capanna cosparsa di fior 
+era la piccola, dolce dimora 
+di Soreghina, la figlia del sol.
+
+

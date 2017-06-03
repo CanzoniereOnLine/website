@@ -1,41 +1,37 @@
----
-date : "2012-11-28"
-title : "L'uomo torna all'uomo"
+--- 
+title : L'uomo torna all'uomo
+description : Il testo completo di accordi di L'uomo torna all'uomo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : l_uomo_torna_all_uomo
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "l_uomo_torna_all_uomo"
-data_revisione : "2012-11-28"
----
-  
-  
-L'uomo torna all'uomo, brk tutta la giungla griderà.   
-Chi fu nostro fratello brk ora se ne va.  
-L'uomo torna all'uomo, brk tutta la giungla si adunerà.  
-Nostro fratello andiamo brk or a salutar.    
-  
-  
-  
-L'uomo torna all'uomo, tutta la giungla piangerà  
-il dolore del fratello che ora se ne va.  
-L'uomo torna all'uomo, tutta la giungla si fermerà.  
-La traccia del fratello nessun più seguirà.  
-  
-  
-L'uomo torna all'uomo, tutta la giungla griderà.  
-Chi fu nostro fratello scordar non si potrà.  
-L'uomo torna all'uomo la giungla poi sussurrerà:  
-“Buona caccia, fratello, la giungla non scordar”.   
-  
+
+
+L'uomo torna all'uomo, 
+Chi fu nostro fratello 
+L'uomo torna all'uomo, 
+Nostro fratello andiamo 
+
+
+L'uomo torna all'uomo, tutta la giungla piangerà
+il dolore del fratello che ora se ne va.
+L'uomo torna all'uomo, tutta la giungla si fermerà.
+La traccia del fratello nessun più seguirà.
+
+
+L'uomo torna all'uomo, tutta la giungla griderà.
+Chi fu nostro fratello scordar non si potrà.
+L'uomo torna all'uomo la giungla poi sussurrerà:
+“Buona caccia, fratello, la giungla non scordar”. 
+
+

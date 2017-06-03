@@ -1,30 +1,25 @@
----
-date : "2011-12-31"
-title : "Adoramus te Christe"
+--- 
+title : Adoramus te Christe
+description : Il testo completo di accordi di Adoramus te Christe. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Fa#-"
+   - "Taizé"
+album : 
+tonalita : Fa#-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizè"
+   - "Ritornelli"
+   - "Taizè"
+identificatore : adoramus_te_christe
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "adoramus_te_christe"
-data_revisione : "2011-12-31"
----
-  
-  
-Adoramus te Christe, benediciums tibi,   
-quia per crucem tuam redemisti mundum,  
-quia per crucem tuam redemisti mundum.  
-  
-  
-  
+
+
+Adoramus te Christe, benediciums tibi, 
+quia per crucem tuam redemisti mundum,
+quia per crucem tuam redemisti mundum.
+
+

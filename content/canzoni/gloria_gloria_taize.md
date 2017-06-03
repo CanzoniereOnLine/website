@@ -1,29 +1,24 @@
----
-date : "2011-12-31"
-title : "Gloria, gloria"
+--- 
+title : Gloria, gloria
+description : Il testo completo di accordi di Gloria, gloria. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Taizé"
-
-album : ""
-tonalita : "Re-"
+   - "Taizé"
+album : 
+tonalita : Re-
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
-  - "Taizé"
+   - "Ritornelli"
+   - "Taizé"
+identificatore : gloria_gloria_taize
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "gloria_gloria_taize"
-data_revisione : "2011-12-31"
----
-  
-  
-Gloria, gloria  in excelsis Deo  
-Gloria, gloria, alleluia, alleluia.   
-  
-  
-  
+
+
+Gloria, gloria  in excelsis Deo
+Gloria, gloria, alleluia, alleluia. 
+
+

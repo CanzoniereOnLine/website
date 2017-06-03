@@ -1,45 +1,34 @@
----
-date : "2011-12-31"
-title : "Osanna al figlio di David"
+--- 
+title : Osanna al figlio di David
+description : Il testo completo di accordi di Osanna al figlio di David. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Liturgica"
-
+   - "Liturgica"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : osanna_al_figlio_di_david
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "osanna_al_figlio_di_david"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-Osanna al Figlio di David, osanna al Redentor!  
-  
-  
-  
-Apritevi, o porte eterne, avanzi il Re della gloria,  
-adori cielo e terra, l'eterno suo poter.  
-  
-  
-  
-  
-O monti stillate dolcezza il re d'amor s'avvicina  
-si dona pane vivo ed offre pace al cuor.  
-  
-  
-  
-  
-O vergine presso l'Altissimo trovasti grazia ed onor:  
-soccorri i tuoi glioli donando il Salvator.  
-  
-  
-  
+
+
+Osanna al Figlio di David, osanna al Redentor!
+
+
+Apritevi, o porte eterne, avanzi il Re della gloria,
+adori cielo e terra, l'eterno suo poter.
+
+
+O monti stillate dolcezza il re d'amor s'avvicina
+si dona pane vivo ed offre pace al cuor.
+
+
+O vergine presso l'Altissimo trovasti grazia ed onor:
+soccorri i tuoi figlioli donando il Salvator.
+
+

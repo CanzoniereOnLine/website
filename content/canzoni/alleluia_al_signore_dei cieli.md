@@ -1,51 +1,36 @@
----
-date : "2011-12-31"
-title : "Alleluia, al Signore dei cieli"
+--- 
+title : Alleluia, al Signore dei cieli
+description : Il testo completo di accordi di Alleluia, al Signore dei cieli. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Martinez, Leone"
-
-album : "RnS 146"
-tonalita : "Re"
+   - "Martinez"
+   - " Leone"
+album : RnS 146
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_al_signore_dei cieli
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_al_signore_dei cieli"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-  
-  
-  
-  
-Lodate il Signore che è nei cieli, brk lodate le sue meraviglie;    
-Lodate il Signore che è nei cieli, brk lodate la sua bon     
-  
-  
-  
-Alleluia alleluia al Signore dei cieli;  
-Alleluia alleluia al Signore dei cieli.  
-  
-  
-  
-  
-Cantate al Signore che viene in terra, brk cantate la sua presenza;  
-Cantate al Signore che viene in terra, brk cantate perché è qui.  
-  
-  
-  
-  
-Parlate al Signore che tutti ama, brk parlate al suo cuore grande;  
-Parlate al Signore che tutti ama, brk parlate vi ascolterà.  
-  
-  
-  
+
+
+Lodate il Signore che è nei cieli, 
+Lodate il Signore che è nei cieli, 
+
+
+Alleluia alleluia al Signore dei cieli;
+Alleluia alleluia al Signore dei cieli.
+
+
+Cantate al Signore che viene in terra, 
+Cantate al Signore che viene in terra, 
+
+
+Parlate al Signore che tutti ama, 
+Parlate al Signore che tutti ama, 
+
+

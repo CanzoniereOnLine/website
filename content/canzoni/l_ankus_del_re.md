@@ -1,36 +1,32 @@
----
-date : "2012-12-05"
-title : "L'Ankus del re"
+--- 
+title : L'Ankus del re
+description : Il testo completo di accordi di L'Ankus del re. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re-"
+   - ""
+album : 
+tonalita : Re-
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : l_ankus_del_re
+datarevisione : 2012_12_05
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "l_ankus_del_re"
-data_revisione : "2012-12-05"
----
-  
-  
-Son quattro i matti, mai soddisfatti,  
-mai sazi appieno dal dì sereno  
-quando a mattina venne la brina  
-son quattro i matti:  
-  
-  
-  
-Un, di Jacala la boccadots  
-due, d'avvoltoio il gran gozzodots  
-tre, delle scimmie le manidots  
-quattro, degli uomini gli occhidots  
-son quattro i matti.  
-  
+
+
+Son quattro i matti, mai soddisfatti,
+mai sazi appieno dal dì sereno
+quando a mattina venne la brina
+son quattro i matti:
+
+
+Un, di Jacala la bocca
+due, d'avvoltoio il gran gozzo
+tre, delle scimmie le mani
+quattro, degli uomini gli occhi
+son quattro i matti.
+
+

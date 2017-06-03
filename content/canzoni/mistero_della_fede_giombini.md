@@ -1,32 +1,25 @@
----
-date : "2011-12-31"
-title : "Annunciamo la tua morte"
+--- 
+title : Annunciamo la tua morte
+description : Il testo completo di accordi di Annunciamo la tua morte. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Giombini"
-
-album : "Camminiamo nella speranza"
-tonalita : "Do"
+   - "Giombini"
+album : Camminiamo nella speranza
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Anamnesi"
-
+   - "Liturgica"
+gruppo : Anamnesi
 momenti : 
-  - "Anamnesi"
+   - "Anamnesi"
+identificatore : mistero_della_fede_giombini
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "mistero_della_fede_giombini"
-data_revisione : "2011-12-31"
----
-  
-  
-  
-  
-Annunciamo la Tua morte Signore,  
-proclamiamo la Tua Risurrezione    
-nell'attesa della Tua venuta    
-nell'attesa della Tua venuta.  
-  
-  
-  
+
+
+Annunciamo la Tua morte Signore,
+proclamiamo la Tua Risurrezione  
+nell'attesa della Tua venuta  
+nell'attesa della Tua venuta.
+
+

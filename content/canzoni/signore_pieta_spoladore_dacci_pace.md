@@ -1,39 +1,30 @@
----
-date : "2012-11-01"
-title : "Kyrie"
+--- 
+title : Kyrie
+description : Il testo completo di accordi di Kyrie. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Spoladore"
-
-album : "Dacci pace"
-tonalita : "Do"
+   - "Spoladore"
+album : Dacci pace
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Signore_pieta"
-
+   - "Liturgica"
+gruppo : Signore_pieta
 momenti : 
-  - "Signore pietà"
+   - "Signore pietà"
+identificatore : signore_pieta_spoladore_dacci_pace
+datarevisione : 2012_11_01
+trascrittore : Francesco Endrici - Manuel Toniato
+--- 
 
-video : 
-identificatore : "signore_pieta_spoladore_dacci_pace"
-data_revisione : "2012-11-01"
----
-  
-  
-  
-Kyrie eleison  
-Kyrie eleison  
-Ky eleison  
-Ky eleison.  
-  
-  
-  
-Christe eleison  
-Chri eleison  
-Christe eleison.  
-  
-  
-  
-  
-  
+
+
+Kyrie eleison
+Kyrie eleison
+Kyrie eleison
+Kyrie eleison.
+
+
+Christe eleison
+Christe eleison
+Christe eleison.
+
+

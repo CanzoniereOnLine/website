@@ -1,34 +1,29 @@
----
-date : "2011-12-31"
-title : "Alleluia Questa Tua Parola"
+--- 
+title : Alleluia Questa Tua Parola
+description : Il testo completo di accordi di Alleluia Questa Tua Parola. Inseriscila nel tuo canzoniere!
 autori : 
-  - "Spoladore"
-
-album : "Come in cielo così in terra"
-tonalita : "Do"
+   - "Spoladore"
+album : Come in cielo così in terra
+tonalita : Do
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Alleluia"
-
+   - "Liturgica"
+gruppo : Alleluia
 momenti : 
-  - "Alleluia"
+   - "Alleluia"
+identificatore : alleluia_questa_tua_parola
+datarevisione : 2011_12_31
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "alleluia_questa_tua_parola"
-data_revisione : "2011-12-31"
----
-  
-  
-Alleluia, alleluia, alleluia, alleluia,  
-alleluia, alleluia, alleluia, alleluia.   
-  
-  
-Questa tua parola non avrà mai ne,  
-ha varcato i cieli e porterà il suo frutto  
-Questa tua parola non avrà mai ne,  
-ha varcato i cieli e porterà il suo frutto.  
-  
-  
-  
+
+
+Alleluia, alleluia, alleluia, alleluia,
+alleluia, alleluia, alleluia, alleluia. 
+
+
+Questa tua parola non avrà mai fine,
+ha varcato i cieli e porterà il suo frutto
+Questa tua parola non avrà mai fine,
+ha varcato i cieli e porterà il suo frutto.
+
+

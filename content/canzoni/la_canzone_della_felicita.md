@@ -1,36 +1,33 @@
----
-date : "2012-11-28"
-title : "La canzone della felicità"
+--- 
+title : La canzone della felicità
+description : Il testo completo di accordi di La canzone della felicità. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Sol"
+   - ""
+album : 
+tonalita : Sol
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : la_canzone_della_felicita
+datarevisione : 2012_11_28
+trascrittore : Antonio Badan
+--- 
 
-video : 
-identificatore : "la_canzone_della_felicita"
-data_revisione : "2012-11-28"
----
-  
-  
-Se sei triste e ti manca l'allegria,  
-scacciare puoi la malinconia.  
-  
-Vieni con me t'insegnerò,  
-la canzone della felicità. Bon, bon, bon!  
-  
-  
-  
-Sbatti le ali, muovi le antenne,  
-dammi le tue zampine;  
-vola di qua e vola di làdots  
-La canzone della felicità! Bon, bon, bon!  
-  
+
+
+Se sei triste e ti manca l'allegria,
+scacciare puoi la malinconia.
+
+
+Vieni con me t'insegnerò,
+la canzone della felicità. Bon, bon, bon!
+
+
+Sbatti le ali, muovi le antenne,
+dammi le tue zampine;
+vola di qua e vola di là
+La canzone della felicità! Bon, bon, bon!
+
+

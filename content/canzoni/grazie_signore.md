@@ -1,27 +1,23 @@
----
-date : "2012-01-11"
-title : "Grazie Signore"
+--- 
+title : Grazie Signore
+description : Il testo completo di accordi di Grazie Signore. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Re"
+   - ""
+album : 
+tonalita : Re
 famiglia : 
-  - "Liturgica"
-
-gruppo : 
-  - "Canoni_ritornelli"
-
+   - "Liturgica"
+gruppo : Canoni_ritornelli
 momenti : 
-  - "Ritornelli"
+   - "Ritornelli"
+identificatore : grazie_signore
+datarevisione : 2012_01_11
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "grazie_signore"
-data_revisione : "2012-01-11"
----
-  
-  
-Grazie Signore, rendiamo grazie  
-a Te che regni nei secoli eterni.  
-  
-  
+
+
+Grazie Signore, rendiamo grazie
+a Te che regni nei secoli eterni.
+
+

@@ -1,28 +1,25 @@
----
-date : "2012-12-05"
-title : "Siam nella vasta giungla"
+--- 
+title : Siam nella vasta giungla
+description : Il testo completo di accordi di Siam nella vasta giungla. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Fa"
+   - ""
+album : 
+tonalita : Fa
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : siam_nella_vasta_giungla
+datarevisione : 2012_12_05
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "siam_nella_vasta_giungla"
-data_revisione : "2012-12-05"
----
-  
-  
-Siam nella vasta giungla  
-siam sulla pista di Akela  
-lieti cantando, sempre cantando  
-Lupi siam.  
-  
+
+
+Siam nella vasta giungla
+siam sulla pista di Akela
+lieti cantando, sempre cantando
+Lupi siam.
+
+

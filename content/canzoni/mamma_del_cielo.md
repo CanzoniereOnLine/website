@@ -1,36 +1,29 @@
----
-date : "2012-07-02"
-title : "Mamma del cielo"
+--- 
+title : Mamma del cielo
+description : Il testo completo di accordi di Mamma del cielo. Inseriscila nel tuo canzoniere!
 autori : 
-  - ""
-
-album : ""
-tonalita : "Mi"
+   - ""
+album : 
+tonalita : Mi
 famiglia : 
-  - "Scout"
-
+   - "Scout"
 gruppo : 
-  - ""
-
 momenti : 
-  - ""
+   - ""
+identificatore : mamma_del_cielo
+datarevisione : 2012_07_02
+trascrittore : Francesco Endrici
+--- 
 
-video : 
-identificatore : "mamma_del_cielo"
-data_revisione : "2012-07-02"
----
-  
-  
-Mamma del cielo Vergine Santa brk a te d'intorno il branco canta,  
-fa' che ci amiamo come fratelli brk mentre la pista noi percorriam.  
-Mamma del cielo rendici tu brk	cortesi e buoni come Gesù.  
-  
-  
-Fa' che io ami ogni vicino brk come se fosse Gesù Bambino,   
-del mio meglio fare prometto brk per diventare un tuo lupetto.   
-Al cuor divino stringimi tu brk come stringevi a te Gesù.  
-  
-  
-  
-  
-  
+
+
+Mamma del cielo Vergine Santa 
+fa' che ci amiamo come fratelli 
+Mamma del cielo rendici tu 
+
+
+Fa' che io ami ogni vicino 
+del mio meglio fare prometto 
+Al cuor divino stringimi tu 
+
+
