@@ -58,7 +58,7 @@ $(document).ready(function() {
   {{ if (isset . "appId") | and (isset . "apiKey") | and (isset . "indexName") }}
     <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment-with-locales.min.js"></script>
     <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-    <script src="{{ $.Site.BaseURL }}js/list.js"></script>
+    <script src="{{ $.Site.BaseURL }}/javascript/list.js"></script>
 
     <script>
       var algoliaClient = algoliasearch('{{ .appId }}', '{{ .apiKey }}');
@@ -67,7 +67,7 @@ $(document).ready(function() {
   {{ end }}
 {{ end }}
 
-<script src="/js/canzoniereonlinebootstrap.min.js"></script>
+<script src="/javascript/canzoniereonlinebootstrap.min.js"></script>
 
 
 {{ range .Site.Params.customJS }}
