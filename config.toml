@@ -179,11 +179,11 @@ canonifyurls = true
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  customCSS = ["css/canzoniere.css"]
+  customCSS = ["/style/canzoniere.css"]
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
-   customJS = ["js/list.js", "js/carrellocanzoni.js"]
+   customJS = ["/javascript/list.js", "/javascript/carrellocanzoni.js"]
 
   [params.header.rightLink]
     class = ""

@@ -61,7 +61,7 @@ var app = new Vue({
     undocheck: false
   },
     mounted: function() { 
-    $.get( "http://localhost:1313/canzoni.json", function( data ) {
+    $.get( "https://host.canzoniereonline.it/canzoni.json", function( data ) {
     app.elencocanzoni = data;
     });
     console.log(JSON.parse(localStorage.backup));
