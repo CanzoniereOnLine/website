@@ -24,7 +24,7 @@ Vue.component('AddButton', {
 });
 
 Vue.component('pdflink', {
-  template: '<span><a target="_blank" :href="https://pdf.canzoniereonline.it/(row.identificatore) + \'.pdf\'" class="tooltip-top" data-tooltip="Guarda il testo della canzone"><i class="fa fa-music" aria-hidden="true"></i> </a> <a target="_blank" :href="(row.identificatore) + \'.pdf\'" class="tooltip-top" data-tooltip="Scarica il pdf" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></span>',
+  template: '<span><a target="_blank" :href="\'/\'+ (row.identificatore) + \'.html\'" class="tooltip-top" data-tooltip="Guarda il testo della canzone"><i class="fa fa-music" aria-hidden="true"></i> </a> <a target="_blank" :href="\'https://pdf.canzoniereonline.it/\' + (row.identificatore) + \'.pdf\'" class="tooltip-top" data-tooltip="Scarica il pdf" ><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a></span>',
   props: ['row']
 });
 
