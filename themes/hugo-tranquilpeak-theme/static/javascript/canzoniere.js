@@ -107,7 +107,7 @@ var app = new Vue({
         send: function(){
             var senddata = new Object
             senddata.canzoniere = JSON.stringify(this.canzoniere)
-            $.post( "http://localhost:3000/crea", senddata)  
+            $.post( "https://api.canzoniereonline.it/crea", senddata)  
             .done(function( data ) {
                 console.log(data)
             });
