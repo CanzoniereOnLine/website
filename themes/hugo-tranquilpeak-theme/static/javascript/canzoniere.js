@@ -33,18 +33,18 @@ var app = new Vue({
   data: {
     canzoniere:{
         selezionecanzoni: [],
-        formatopagina: 1,
+        formatopagina: "standard",
         cappello: "",
         email: "",
-        carattere: "",
-        copertina: "",
-        indiceautore: "",
-        indicetitolo: "",
+        carattere: "Palatino",
+        copertina: false,
+        indiceautore: false,
+        indicetitolo: false,
         sottotitolo: "",
         titolo: "",
-        versioneaccordi: "",
-        eula: "",
-        versionetesto: ""
+        versioneaccordi: true,
+        eula: false,
+        versionetesto: false
     },
     elencocanzoni: [],
     colonne: [
