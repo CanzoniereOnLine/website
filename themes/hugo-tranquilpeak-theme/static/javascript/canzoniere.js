@@ -80,6 +80,7 @@ var app = new Vue({
     if (this.canzoniere.copertina == true){
         $("#campi_copertina").show();
     }
+    app.canzoniere.eula = false;
   },
     watch: {
         'canzoniere.selezionecanzoni': function(){
