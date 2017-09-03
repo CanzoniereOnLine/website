@@ -64,12 +64,17 @@ var app = new Vue({
     $.get( "https://host.canzoniereonline.it/canzoni.json", function( data ) {
     app.elencocanzoni = data;
     });
-    console.log(JSON.parse(localStorage.backup));
+    if (window.location.search.substr(1)){
+        $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
+            this.canzoniere = JSON.parse(data);
+        }); 
+    } else { 
     this.backup = JSON.parse(localStorage.backup);
-    if (this.backup[1] !== undefined) {
-        this.canzoniere = JSON.parse(JSON.stringify(this.backup[0]));
-        this.undocheck = true;
-    };
+        if (this.backup[1] !== undefined) {
+            this.canzoniere = JSON.parse(JSON.stringify(this.backup[0]));
+            this.undocheck = true;
+        };
+    }
     if (this.canzoniere.copertina == true){
         $("#campi_copertina").show();
     }
