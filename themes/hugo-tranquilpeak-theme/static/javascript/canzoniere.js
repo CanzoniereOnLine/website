@@ -44,7 +44,8 @@ var app = new Vue({
         titolo: "",
         versioneaccordi: true,
         eula: false,
-        versionetesto: false
+        versionetesto: false,
+        numerocolonne: 1
     },
     elencocanzoni: [],
     colonne: [
