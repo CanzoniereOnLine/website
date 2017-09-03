@@ -58,7 +58,8 @@ var app = new Vue({
     pagesize: 20,
     backup: [],
     evento: 0,
-    undocheck: false
+    undocheck: false,
+    hash: ""
   },
     mounted: function() { 
     $.get( "https://host.canzoniereonline.it/canzoni.json", function( data ) {
@@ -119,6 +120,9 @@ var app = new Vue({
         },
         erase: function(){
             this.canzoniere.selezionecanzoni=[];
+        },
+        load: function(){
+            window.location.href="https://host.canzoniereonline.it/crea/canzoniere/?" + app.hash;
         }
     }
 });

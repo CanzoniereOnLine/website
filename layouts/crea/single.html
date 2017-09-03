@@ -143,9 +143,9 @@
                </p> 
                <p>Buon lavoro!</p>
               <div class="form-inline">
-                <input id="idcanzoniere" type="text" class="form-control" placeholder="Inserisci il codice" size="20"/>
+                <input id="idcanzoniere" type="text" class="form-control" placeholder="Inserisci il codice" size="20" v-model="hash"/>
                 <span> </span>
-                <button type="button" class="btn btn-warning">Carica il canzoniere</button>
+                <button type="button" class="btn btn-warning" v-on:click="load">Carica il canzoniere</button>
 
 
               </div>
