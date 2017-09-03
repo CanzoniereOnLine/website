@@ -68,6 +68,7 @@ var app = new Vue({
         $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
             console.log(JSON.parse(data));
             this.canzoniere = JSON.parse(data);
+            this.backup[0] = JSON.parse(data);
         }); 
     } else { 
     this.backup = JSON.parse(localStorage.backup);
