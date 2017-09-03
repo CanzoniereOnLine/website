@@ -81,6 +81,8 @@ var app = new Vue({
         $("#campi_copertina").show();
     }
     app.canzoniere.eula = false;
+    document.getElementById("crea").disabled = true;
+    
   },
     watch: {
         'canzoniere.selezionecanzoni': function(){

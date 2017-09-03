@@ -122,7 +122,7 @@
             <input type="checkbox" id="eula" v-model="canzoniere.eula"/> Accetto le <a href="https://host.canzoniereonline.it/eula">condizioni di utilizzo</a>
           </label>
         </div>
-        <button disabled data-sitekey="6Lf9Ji8UAAAAAEA0ZRZ3Xzn6uQs5vuyNe-QsE9Pl" data-callback="inviacanzoniere" type="button" class="g-recaptcha btn btn-success btn-lg" :disabled=!canzoniere.eula>Crea il canzoniere</button>
+        <button disabled data-sitekey="6Lf9Ji8UAAAAAEA0ZRZ3Xzn6uQs5vuyNe-QsE9Pl" data-callback="inviacanzoniere" type="button" class="g-recaptcha btn btn-success btn-lg" :disabled=!canzoniere.eula id="crea">Crea il canzoniere</button>
         <hr>
         <button type="button" class="btn btn-warning" data-toggle="modal" data-target="#caricacanzoniere">Carica Canzoniere</button>
 
