@@ -69,6 +69,7 @@ var app = new Vue({
             console.log(JSON.parse(data));
             this.canzoniere = JSON.parse(data);
             this.backup[0] = JSON.parse(data);
+            console.log(this.canzoniere);
         }); 
     } else { 
     this.backup = JSON.parse(localStorage.backup);
