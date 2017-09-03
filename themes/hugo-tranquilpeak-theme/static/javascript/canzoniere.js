@@ -80,8 +80,8 @@ var app = new Vue({
     if (this.canzoniere.copertina == true){
         $("#campi_copertina").show();
     }
-    app.canzoniere.eula = true;
-    app.canzoniere.eula = false;
+    setTimeout(function(){app.canzoniere.eula = true; app.canzoniere.eula = false;}, 2000);
+
     
   },
     watch: {
