@@ -117,7 +117,7 @@
         <div class="form-group">
           <p :class="{ 'control': true }">
             <input id="last_name" type="email" class="form-control" placeholder="email" v-model="canzoniere.email" v-validate="'required|email'" :class="{'input': true, 'is-danger': errors.has('email') }"/>
-            <span v-show="errors.has('email')" class="help is-danger">{{ errors.first('email') }}</span>            
+            <span v-show="errors.has('email')" class="help is-danger">Errore</span>            
           </p>
         </div>
         <div class="checkbox">
