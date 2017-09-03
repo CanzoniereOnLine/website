@@ -64,7 +64,7 @@ var app = new Vue({
     $.get( "https://host.canzoniereonline.it/canzoni.json", function( data ) {
     app.elencocanzoni = data;
     });
-    if (window.location.search.substr(1)){
+    if (window.location.search.substr(1)!=""){
         $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
             this.canzoniere = JSON.parse(data);
         }); 
