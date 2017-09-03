@@ -67,7 +67,7 @@ var app = new Vue({
     if (window.location.search.substr(1)!== undefined){
         $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
             console.log(JSON.parse(data));
-            this.canzoniere = JSON.parse(data);
+            setTimeout(function(){ this.canzoniere = JSON.parse(data);}, 2000);
             console.log(this.canzoniere);
         }); 
     } else { 
