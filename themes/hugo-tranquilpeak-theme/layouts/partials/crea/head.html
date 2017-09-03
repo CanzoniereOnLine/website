@@ -90,7 +90,6 @@
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}/style/bootstrap.css" />
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}/style/bootstrap-theme.css" />
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}/style/crea.css" />
-
     <!--STYLES END-->
     {{ range .Site.Params.customCSS }}
       <link rel="stylesheet" href="{{ $.Site.BaseURL }}{{ . }}">
@@ -104,6 +103,7 @@
     {{ partial "head_end.html" . }}
 
     <script src='https://www.google.com/recaptcha/api.js'></script>
+    
     <script>
       function inviacanzoniere(token) {
         app.send();
