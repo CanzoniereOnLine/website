@@ -4,5 +4,34 @@
     {{ partial "cover.html" . }}
     {{ partial "script.html" . }}
     {{ partial "foot_end.html" . }}
+    <!-- Begin Cookie Consent script https://cookiescript.info/ -->
+    <link rel="stylesheet" type="text/css" href="//cookiescriptcdn.pro/libs/cookieconsent.6.min.css" />
+    <a id="cookieconsent:learn_more" aria-label="learn more about cookies" role=button tabindex="0" class="cc-link" href="https://cookie-policy.org/" target="_blank">Maggiori dettagli</a><script>var cookieconsent_ts = 1504898606823; var learnmore2 = document.getElementById("cookieconsent:learn_more");learnmore2.setAttribute("style", "display:none");</script>
+    <script src="//cookiescriptcdn.pro/libs/cookieconsent.6.min.js"></script>
+    <script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#efefef",
+          "text": "#404040"
+        },
+        "button": {
+          "background": "#8ec760",
+          "text": "#ffffff"
+        }
+      },
+      "theme": "edgeless",
+      "position": "bottom-right",
+      "content": {
+        "message": "Questo usa dei cookie, piccoli \"biscottini\" che ci servono per raccogliere statistiche sui visitatori.",
+        "dismiss": "Ho capito, lasciami in pace...",
+        "link": "Maggiori dettagli",
+        "href": "www.canzoniereonline.it/biscotti"
+      }
+    })});
+    </script>
+    <noscript><a href="https://cookiescript.info/">Cookie consent script</a></noscript>
+    <!-- End Cookie Consent script -->
   </body>
 </html>
