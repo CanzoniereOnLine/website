@@ -66,6 +66,10 @@ var app = new Vue({
     $.get( "https://host.canzoniereonline.it/canzoni.json", function( data ) {
     app.elencocanzoni = data;
     });
+    if (window.location.search.substr(1) == "reset"){
+        localStorage.clear();
+        window.location.href="https://host.canzoniereonline.it/crea/canzoniere/";
+    }
     if (window.location.search.substr(1).length > 5){
         $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
             app.canzoniere = JSON.parse(data);
