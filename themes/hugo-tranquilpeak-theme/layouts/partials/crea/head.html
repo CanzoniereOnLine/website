@@ -108,10 +108,11 @@
       function inviacanzoniere(token) {
         
         var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-
-        if (re.test(app.canzoniere.email)){
+        var email = app.canzoniere.email
+        if (re.test(email)){
         app.send();
         location.href = "https://host.canzoniereonline.it/crea/canzoniere/";
+        console.log("inviato");
         } else {
           alert("Inserisci un indirizzo email valido! Lo useremo solo per inviarti il canzoniere quando sarà pronto!");
         }
