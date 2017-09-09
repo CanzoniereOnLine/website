@@ -71,7 +71,7 @@ function addtosongbook(){
     backup[0].selezionecanzoni = backup[0].selezionecanzoni.concat(temp);
     localStorage.backup = JSON.stringify(backup);
     localStorage.carrellocanzoni = "";
-    window.location.replace('https://host.canzoniereonline.it/crea/canzoniere/');
+    window.location.replace('https://www.canzoniereonline.it/crea/canzoniere/');
 }
 
 function singleaddtosongbook(i){
