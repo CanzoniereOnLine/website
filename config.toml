@@ -91,7 +91,7 @@ canonifyurls = true
 [[menu.links]]
   weight = 3
   identifier = "documentazione"
-  name = "Documentazione"
+  name = "Come è fatto"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
   url = "/pagina/documentazione"
 [[menu.links]]
