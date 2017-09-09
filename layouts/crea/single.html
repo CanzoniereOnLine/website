@@ -18,7 +18,7 @@
       <datatable :columns="colonne" :data="elencocanzoni" :pagesize="pagesize" filterable paginate sortable></datatable>
         <p>
           <small>
-            <a href="https://www.canzoniereonline.it/crea/canzoniere/?reset">Resetta!</a>
+            <a href="https://canzoniereonline.it/crea/canzoniere/?reset">Resetta!</a>
           </small>
         </p>
     </div>
@@ -127,7 +127,7 @@
         </div>
         <div class="checkbox">
           <label>
-            <input type="checkbox" id="eula" v-model="canzoniere.eula"/> Accetto le <a href="https://www.canzoniereonline.it/eula">condizioni di utilizzo</a>
+            <input type="checkbox" id="eula" v-model="canzoniere.eula"/> Accetto le <a href="https://canzoniereonline.it/eula">condizioni di utilizzo</a>
           </label>
         </div>
         <button disabled data-sitekey="6Lf9Ji8UAAAAAEA0ZRZ3Xzn6uQs5vuyNe-QsE9Pl" data-callback="inviacanzoniere" type="button" class="g-recaptcha btn btn-success btn-lg" :disabled=!canzoniere.eula id="crea">Crea il canzoniere</button>

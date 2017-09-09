@@ -63,12 +63,12 @@ var app = new Vue({
     hash: ""
   },
     mounted: function() { 
-    $.get( "https://www.canzoniereonline.it/canzoni.json", function( data ) {
+    $.get( "https://canzoniereonline.it/canzoni.json", function( data ) {
     app.elencocanzoni = data;
     });
     if (window.location.search.substr(1) == "reset"){
         localStorage.clear();
-        window.location.href="https://www.canzoniereonline.it/crea/canzoniere/";
+        window.location.href="https://canzoniereonline.it/crea/canzoniere/";
     }
     if (window.location.search.substr(1).length > 5){
         $.get( "https://api.canzoniereonline.it/load/" + window.location.search.substr(1), function( data ) {
@@ -130,7 +130,7 @@ var app = new Vue({
             this.canzoniere.selezionecanzoni=[];
         },
         load: function(){
-            window.location.href="https://www.canzoniereonline.it/crea/canzoniere/?" + app.hash;
+            window.location.href="https://canzoniereonline.it/crea/canzoniere/?" + app.hash;
         }
     }
 });
