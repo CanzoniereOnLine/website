@@ -109,7 +109,7 @@
         
         var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
         var email = app.canzoniere.email
-        if (re.test(email)){
+        if (app.canzoniere.email !== null){
         app.send();
         location.href = "https://host.canzoniereonline.it/crea/canzoniere/";
         console.log("inviato");
