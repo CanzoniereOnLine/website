@@ -125,7 +125,7 @@ var app = new Vue({
             $.post( "https://api.canzoniereonline.it/crea", senddata)  
             .done(function( data ) {
                 console.log(data)
-                //location.href = "https://canzoniereonline.it/crea/canzoniere/"                
+                location.href = "https://canzoniereonline.it/crea/canzoniere/"                
             })
             .fail(function() {
                 alert( "error" )
