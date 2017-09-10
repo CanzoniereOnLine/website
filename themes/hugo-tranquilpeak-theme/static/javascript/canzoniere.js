@@ -119,12 +119,16 @@ var app = new Vue({
 
         },
         send: function(){
+            console.log(this.canzoniere)
             var senddata = new Object
             senddata.canzoniere = JSON.stringify(this.canzoniere)
             $.post( "https://api.canzoniereonline.it/crea", senddata)  
             .done(function( data ) {
                 console.log(data)
-            });
+            })
+            .fail(function() {
+                alert( "error" )
+            })
         },
         erase: function(){
             this.canzoniere.selezionecanzoni=[];
