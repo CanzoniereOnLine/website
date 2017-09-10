@@ -124,7 +124,7 @@ var app = new Vue({
             senddata.canzoniere = JSON.stringify(this.canzoniere)
             $.post( "https://api.canzoniereonline.it/crea", senddata)  
             .done(function( data ) {
-                console.log(data)
+                alert("Complimenti, il tuo canzoniere è stato inviato per l'elaborazione\n\nIl numero univoco ad esso associato è :" + data + "\n\nDovrebbe arrivarti una mail in pochi secondi.")
                 location.href = "https://canzoniereonline.it/crea/canzoniere/"                
             })
             .fail(function() {
