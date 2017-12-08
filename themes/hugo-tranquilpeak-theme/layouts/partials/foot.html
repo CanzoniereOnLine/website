@@ -4,6 +4,23 @@
     {{ partial "cover.html" . }}
     {{ partial "script.html" . }}
     {{ partial "foot_end.html" . }}
+    <script>
+    $(document).ready(function(){
+    $.cookieBar(
+    message: 'Questo usa dei cookie, piccoli \"biscottini\" che ci servono per raccogliere statistiche sui visitatori.',
+    acceptButton: true,
+    acceptText: 'Ho capito, non annoiarmi.',
+    acceptFunction: null,
+    declineButton: false,
+    policyButton: true,
+    policyText: 'Dimmi di più!',
+    policyURL: 'https://canzoniereonline.it/biscotti',
+    autoEnable: true
+    );
+    
+    
+    });
+    </script>
     <!-- Begin Cookie Consent script https://cookiescript.info/ -->
     <!-- 
     <link rel="stylesheet" type="text/css" href="//cookiescriptcdn.pro/libs/cookieconsent.6.min.css" />
