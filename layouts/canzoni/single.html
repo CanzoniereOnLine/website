@@ -21,7 +21,7 @@
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
               <span class="azionicanzoni">
-              <a target="_.blank" href="http:\\pdf.canzoniereonline.it\{{ .Params.identificatore }}.pdf" onclick="ga(['send', 'event','Download','this.href']);"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Scarica il pdf </a>
+              <a target="_.blank" href="http:\\pdf.canzoniereonline.it\{{ .Params.identificatore }}.pdf" onclick="trackOutboundLink('http:\\pdf.canzoniereonline.it\{{ .Params.identificatore }}.pdf'); return false;"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>Scarica il pdf </a>
               <br />
               <a onclick="addtocart(canzone)"><i class="fa fa-paperclip" aria-hidden="true"></i>Aggiungi agli appunti</a>
               </span>
