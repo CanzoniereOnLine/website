@@ -114,4 +114,18 @@
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
     {{ partial "head_end.html" . }}
+    <script>
+    /**
+    * Funzione che monitora un clic su un link in uscita in Analytics.
+    * Questa funzione prende in considerazione e utilizza una stringa dell'URL valido
+    * Come etichetta evento. L'impostazione del metodo di trasporto su 'beacon' consente l'invio dell'hit
+    * utilizzando 'navigator.sendBeacon' in un browser che lo supporta.
+    */
+    var trackOutboundLink = function(url) {
+       ga('send', 'event', 'outbound', 'click', url, {
+         'transport': 'beacon',
+         'hitCallback': function(){document.location = url;}
+       });
+    }
+  </script>
   </head>
