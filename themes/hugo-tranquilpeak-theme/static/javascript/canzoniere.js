@@ -40,6 +40,7 @@ var app = new Vue({
         copertina: false,
         indiceautore: false,
         indicetitolo: false,
+        indicemomenti: false,
         sottotitolo: "",
         titolo: "",
         versioneaccordi: true,
