@@ -27,6 +27,15 @@ small {
     background-color: #5cb85c;
 }
 
+.badgenew {
+    position:absolute;
+    right:5px;
+    top:15px;
+    font:0.3em;
+    padding:1px 1px;
+    background-color: #5cb85c;
+}
+
 .sidebar-container ul:first-of-type li:first-of-type {
     font-weight: 900;
 }
