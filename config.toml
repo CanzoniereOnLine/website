@@ -100,6 +100,18 @@ canonifyurls = true
   name = "Collabora"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-handshake-o\"></i>"
   url = "/pagina/collabora"
+[[menu.links]]
+  weight = 5
+  identifier = "Editor"
+  name = "Editor"
+  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-pencil-square-o\"></i><span class='badge badgecart'>Nuovo</span></span>"
+  url = "https://editor.canzoniereonline.it/"
+[[menu.links]]
+  weight = 6
+  identifier = "Roadmap"
+  name = "Roadmap"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-map-signs\"></i>"
+  url = "/pagina/roadmap"
 
 
 
