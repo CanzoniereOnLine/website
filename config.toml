@@ -79,7 +79,7 @@ canonifyurls = true
   weight = 5
   identifier = "Editor"
   name = "Editor"
-  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-pencil-square-o\"></i><span class='badge badgecart'> <small>Nuovo</small></span></span>"
+  pre = "<span class='relative'><i class=\"sidebar-button-icon fa fa-lg fa-pencil-square-o\"></i><span class='badge badgenew'> <small>Nuovo</small></span></span>"
   url = "https://editor.canzoniereonline.it/"
 
 [[menu.links]]
